@@ -20,3 +20,10 @@ h1 {
   letter-spacing: 5px;
   color: #1b264f;
 }
+
+.logo {
+  text-align: center;
+  background-color: #1b264f;
+  color: #f5f3f5;
+  padding: 4vmin;
+}
