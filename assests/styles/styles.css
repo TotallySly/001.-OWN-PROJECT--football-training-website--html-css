@@ -30,5 +30,6 @@ h1 {
 }
 
 .menu {
-
+  display: flex;
+  flex-direction: column;   /* For Mobile Phone Devices */
 }
