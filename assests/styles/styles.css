@@ -14,3 +14,9 @@ body {
   font-weight: 300;
   color: #302b27;
 }
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 5px;
+  color: #1b264f;
+}
