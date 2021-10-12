@@ -32,4 +32,14 @@ h1 {
 .menu {
   display: flex;
   flex-direction: column;   /* For Mobile Phone Devices */
+  background-color: #576ca8;
+}
+
+.menu li {
+  list-style: none;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #f5f3f5;
 }
