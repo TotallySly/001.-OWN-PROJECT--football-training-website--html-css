@@ -25,5 +25,10 @@ h1 {
   text-align: center;
   background-color: #1b264f;
   color: #f5f3f5;
+  font-size: 5.5vmin;
   padding: 4vmin;
+}
+
+.menu {
+
 }
