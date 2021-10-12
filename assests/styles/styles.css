@@ -51,6 +51,38 @@ header a {
   color: #f5f3f5;
 }
 
+.menu a:hover {
+  background-color: #1b264f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* Media Queries */
@@ -63,3 +95,4 @@ header a {
       flex-direction: row;
       justify-content: space-evenly;
   }
+}
