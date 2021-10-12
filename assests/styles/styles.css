@@ -38,7 +38,7 @@ header a {
   display: flex;
   flex-direction: column;   /* For Mobile Phone Devices */
   background-color: #576ca8;
-  padding: 5px 0px 5px 7px; 
+  padding: 5px 0px 5px 7px;
 }
 
 .menu li {
@@ -50,3 +50,16 @@ header a {
   text-decoration: none;
   color: #f5f3f5;
 }
+
+
+
+/* Media Queries */
+
+/* Navigation */
+
+  @media screen and (min-width:768px) {
+    .menu {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+  }
