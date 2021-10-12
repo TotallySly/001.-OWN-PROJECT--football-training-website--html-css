@@ -44,6 +44,7 @@ header a {
 .menu li {
   list-style: none;
   line-height: 1.6;
+  display: block;
 }
 
 .menu a {
