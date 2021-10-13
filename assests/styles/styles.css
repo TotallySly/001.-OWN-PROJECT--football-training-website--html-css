@@ -48,6 +48,7 @@ header a {
 }
 
 .menu a {
+  display: block;
   text-decoration: none;
   color: #f5f3f5;
 }
@@ -96,4 +97,8 @@ header a {
       flex-direction: row;
       justify-content: space-evenly;
   }
+
+    .menu a {
+      padding: 0 3vw;
+    }
 }
