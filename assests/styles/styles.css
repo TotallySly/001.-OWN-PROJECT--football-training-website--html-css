@@ -103,6 +103,10 @@ header a {
   background-color: #576ca8;
 }
 
+#coach {
+  position: relative;
+}
+
 .coach-background {
   height: 60vh;
   width: 100%;
@@ -110,6 +114,11 @@ header a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+}
+
+.coach-text {
+  position: absolute;
+  top: 5vh;
 }
 
 
