@@ -66,6 +66,16 @@ header a {
   background-position: center center;
 }
 
+.hero-text {
+  font-family: 'Raleway', sans-serif;
+  width: 300px;
+  height: 95px;
+  background-color: #302b27;
+  color: #f5f3f5;
+  line-height: 1.6;
+  padding: 10px;
+}
+
 
 
 
@@ -109,6 +119,16 @@ header a {
 
     .menu a {
       padding: 0 2vw;
+    }
+
+    .hero-container {
+      position: relative;
+    }
+
+    .hero-text {
+      position: absolute;
+      top: 30px;
+      left: 30px;
     }
 
 
