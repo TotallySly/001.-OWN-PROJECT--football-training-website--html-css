@@ -91,7 +91,7 @@ header a {
 
 /* Navigation */
 
-  @media screen and (min-width:768px) {
+  @media screen and (min-width:773px) {
     .menu {
       display: flex;
       flex-direction: row;
