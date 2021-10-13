@@ -72,6 +72,7 @@ header a {
   background-position: center center;
 }
 
+
 .hero-text {
   font-family: 'Raleway', sans-serif;
   width: 100%;
@@ -131,10 +132,12 @@ header a {
       position: relative;
     }
 
+
     .hero-text {
       position: absolute;
-      top: 30vh;
-      left: 30px;
+      top: 6vh;
+      left: 6vh;
+      width: 300px;
     }
 
 
@@ -143,5 +146,13 @@ header a {
   @media screen and (min-width:1200px) {
     .hero-image {
       height: 100vh;
+    }
+
+    .hero-text {
+      top: 12vh;
+      left: 12vh;
+      font-size: 1.2vw; 
+      width: 450px;
+      height: 140px;
     }
   }
