@@ -103,6 +103,15 @@ header a {
   background-color: #576ca8;
 }
 
+.coach-background {
+  height: 60vh;
+  width: 100%;
+  background-image: url('/assests/images/image-2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 
 
 
@@ -164,7 +173,7 @@ header a {
     }
 
     .about-us-info h2 {
-      padding-left: 10px;
+      padding-left: 25px;
     }
 
     .about-us-info li {
