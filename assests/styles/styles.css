@@ -58,7 +58,7 @@ header a {
 }
 
 .hero-image {
-  height: 600px;
+  height: 60vh;
   width: 100%;
   background-image: url('/assests/images/image-9.jpg');
   background-size: cover;
