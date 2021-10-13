@@ -36,11 +36,12 @@ header a {
 }
 
 .menu {
+  width: 100%;
   display: flex;
   flex-direction: column;   /* For Mobile Phone Devices */
   background-color: #576ca8;
   padding: 5px 0px 5px 7px;
-  width: 100%;
+  
 }
 
 .menu li {
@@ -95,6 +96,7 @@ header a {
   padding: 5px;
   line-height: 1.6;
   text-align: center;
+  font-weight: 400;
 }
 
 .about-us-info li:nth-of-type(odd) {
@@ -151,7 +153,6 @@ header a {
       position: relative;
     }
 
-
     .hero-text {
       position: absolute;
       background-color: rgba(48, 43, 39, 0.52);
@@ -160,7 +161,14 @@ header a {
       font-size: larger;
       width: 275px;
       height: 150px;
-      
+    }
+
+    .about-us-info h2 {
+      padding-left: 10px;
+    }
+
+    .about-us-info li {
+      padding: 10px;
     }
 
 
