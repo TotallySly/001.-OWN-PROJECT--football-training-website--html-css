@@ -57,6 +57,15 @@ header a {
   background-color: #1b264f;
 }
 
+.hero-image {
+  height: 600px;
+  width: 100%;
+  background-image: url('/assests/images/image-9.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 
 
 
