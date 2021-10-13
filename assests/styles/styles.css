@@ -122,6 +122,7 @@ header a {
       display: flex;
       flex-direction: row;
       justify-content: space-evenly;
+      width: 100%;
   }
 
     .menu a {
@@ -135,24 +136,29 @@ header a {
 
     .hero-text {
       position: absolute;
+      background-color: rgba(48, 43, 39, 0.52);
       top: 6vh;
       left: 6vh;
-      width: 300px;
+      font-size: larger;
+      width: 275px;
+      height: 150px;
+      
     }
 
 
-}
 
   @media screen and (min-width:1200px) {
     .hero-image {
       height: 100vh;
     }
-
+    
+    
     .hero-text {
       top: 12vh;
       left: 12vh;
-      font-size: 1.2vw; 
-      width: 450px;
-      height: 140px;
-    }
+      font-size: xx-large;
+      width: 400px;
+      height: 275px;
+    } 
+
   }
