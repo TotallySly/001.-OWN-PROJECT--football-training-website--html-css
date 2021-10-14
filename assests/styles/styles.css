@@ -87,6 +87,15 @@ header a {
   background-position: center center;
 }
 
+#about-us {
+  background-color: #1b264f;
+  color: #f5f3f5;
+}
+
+#about-us p{
+  font-size: 0.9rem;
+}
+
 
 
 
@@ -101,7 +110,7 @@ header a {
   position: relative;
   bottom: 8rem;
   width: 100%;
-  background-color: #1b264f;
+
   color: #f5f3f5;
   padding: 5px;
 }  */
