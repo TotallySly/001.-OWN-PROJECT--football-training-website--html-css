@@ -120,9 +120,11 @@ header a {
   background-position: center center;
 }
 
-.coach-text h2 {
+.coach-text h2, h3 {
   color: #f5f3f5;
   text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .coach-text {
@@ -142,6 +144,8 @@ header a {
   margin-right: auto;
   border-radius: 50%;
 }
+
+
 
 /* I am currently working here. I need to get two generic coach images and addit above. Fix some text for the coaches. Will need to duplicate this for mobile design */
 
