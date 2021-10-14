@@ -111,7 +111,7 @@ header a {
   position: relative;
 }
 
-.coach-background {
+.coach-background-one {
   height: 60vh;
   width: 100%;
   background-image: url('/assests/images/image-2.jpg');
@@ -120,7 +120,7 @@ header a {
   background-position: center center;
 }
 
-.coach-text h2, h3 {
+.coach-text h2, h3, h4 {
   color: #f5f3f5;
   text-align: center;
   padding-top: 0.5rem;
