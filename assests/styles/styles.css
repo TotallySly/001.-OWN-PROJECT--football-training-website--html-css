@@ -40,9 +40,10 @@ header a {
 .menu {
   width: 100%;
   display: flex;
-  flex-direction: column;   /* For Mobile Phone Devices */
+  flex-direction: row;   /* For Mobile Phone Devices */
+  flex-wrap: wrap;
+  justify-content: space-around;
   background-color: #576ca8;
-  
 }
 
 .menu li {
@@ -78,7 +79,7 @@ header a {
 }
 
 .hero-image {
-  /* height: 60vh; */
+  height: 60vh;
   width: 100%;
   background-image: url('/assests/images/image-9.jpg');
   background-size: cover;
@@ -90,28 +91,28 @@ header a {
 
 
 
-.about-us-info h2 {
+/* .about-us-info h2 {
   font-family: 'Montserrat', sans-serif;
   text-align: left;
   padding: 0.6rem;
-}
+} */
 
-.about-us-info {
+/* .about-us-info {
   position: relative;
   bottom: 8rem;
   width: 100%;
   background-color: #1b264f;
   color: #f5f3f5;
   padding: 5px;
-} 
+}  */
 
-.about-us-info p {
+/* .about-us-info p {
   text-align: center;
   line-height: 1.6;
   font-weight: 400;
   padding: 0.6rem;
   font-size: 1.2rem;
-}
+} */
 
 /* .about-us-info li:nth-of-type(odd) {
   background-color: #576ca8;
