@@ -135,6 +135,15 @@ header a {
   
 }
 
+.coach-text img {
+  height: 30vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+/* I am currently working here. I need to get two generic coach images and addit above. Fix some text for the coaches. Will need to duplicate this for mobile design */
 
 
 
