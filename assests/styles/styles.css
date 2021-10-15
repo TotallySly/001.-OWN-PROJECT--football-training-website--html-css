@@ -107,7 +107,6 @@ header a {
 }
 
 #coach {
-  height: 60vh;
   position: relative;
 }
 
@@ -137,11 +136,10 @@ header a {
 }
 
 .coach-text img {
-  height: 30vh;
+  height: 55%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 50%;
 }
 
 .coach-text-two {
@@ -154,11 +152,10 @@ header a {
 }
 
 .coach-text-two img {
-  height: 20vh;
+  height: 37%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 50%;
   padding-top: 2rem;
 }
 
