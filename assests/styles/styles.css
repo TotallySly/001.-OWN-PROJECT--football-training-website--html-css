@@ -131,7 +131,7 @@ header a {
   position: absolute;
   top: 1.6rem;
   left: 1rem;
-  height: 18rem;
+  height: 24rem;
   width: 90%;
   background-color: rgba(48, 43, 39, 0.52);
 }
@@ -159,9 +159,20 @@ header a {
 
 .coach-text-two {
   position: absolute;
-  height: 18rem;
+  top: 33rem;
+  left: 1rem;
+  height: 24rem;
   width: 90%;
   background-color: rgba(48, 43, 39, 0.52);
+}
+
+.coach-text-two img {
+  height: 30vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 60%;
+}
 }
 
 
