@@ -112,7 +112,7 @@ header a {
 }
 
 .coach-background-one {
-  height: 60vh;
+  height: 60rem;
   width: 100%;
   background-image: url('/assests/images/image-2.jpg');
   background-size: cover;
@@ -129,7 +129,7 @@ header a {
 
 .coach-text {
   position: absolute;
-  top: 1.6rem;
+  top: 5%;
   left: 1rem;
   height: 24rem;
   width: 90%;
@@ -146,15 +146,7 @@ header a {
 
 .coach-container-two {
   height: 300vh;
-}
-
-.coach-background-two {
-  height: 60vh;
-  width: 100%;
-  background-image: url('/assests/images/image-7.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
+  position: relative
 }
 
 .coach-text-two {
