@@ -119,14 +119,21 @@ header a {
   background-position: center center;
 }
 
-.coach-text h2, h3, h4 {
+.coach-one-text h2 {
   color: #f5f3f5;
   text-align: center;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
-.coach-text {
+.coach-one-text h3, h4 {
+  color: #f5f3f5;
+  text-align: center;
+  margin: 0;
+  padding-top: 0.25rem;
+}
+
+.coach-one-text {
   position: absolute;
   top: 5%;
   left: 1rem;
@@ -135,14 +142,14 @@ header a {
   background-color: rgba(48, 43, 39, 0.90);
 }
 
-.coach-text img {
+.coach-one-text img {
   height: 55%;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.coach-text-two {
+.coach-two-text {
   position: absolute;
   top: 30rem;
   left: 1rem;
@@ -151,7 +158,7 @@ header a {
   background-color: rgba(48, 43, 39, 0.90);
 }
 
-.coach-text-two img {
+.coach-two-text img {
   height: 37%;
   display: block;
   margin-left: auto;
@@ -159,7 +166,7 @@ header a {
   padding-top: 2rem;
 }
 
-.coach-text-two h3, h4 {
+.coach-two-text h3, h4 {
   margin-top: 1rem;
 }
 
