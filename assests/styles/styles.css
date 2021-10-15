@@ -107,7 +107,7 @@ header a {
 }
 
 #coach {
-  height: 300vh;
+  height: 60vh;
   position: relative;
 }
 
@@ -144,6 +144,10 @@ header a {
   border-radius: 50%;
 }
 
+.coach-container-two {
+  height: 300vh;
+}
+
 .coach-background-two {
   height: 60vh;
   width: 100%;
@@ -151,6 +155,13 @@ header a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+}
+
+.coach-text-two {
+  position: absolute;
+  height: 18rem;
+  width: 90%;
+  background-color: rgba(48, 43, 39, 0.52);
 }
 
 
