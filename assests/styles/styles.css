@@ -159,7 +159,7 @@ header a {
 
 .coach-text-two {
   position: absolute;
-  top: 33rem;
+  top: 30rem;
   left: 1rem;
   height: 24rem;
   width: 90%;
@@ -172,8 +172,14 @@ header a {
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
+  padding-top: 2rem;
 }
+
+.coach-text-two h3, h4 {
+  margin-top: 1rem;
 }
+
+
 
 
 
