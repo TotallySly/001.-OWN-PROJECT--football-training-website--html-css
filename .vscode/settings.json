@@ -26,5 +26,8 @@
    "editor.defaultFormatter": "HookyQR.beautify",
    "cSpell.words": [
       "assests"
-   ]
+   ],
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   }
 }

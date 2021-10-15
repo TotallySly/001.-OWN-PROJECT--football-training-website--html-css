@@ -126,11 +126,10 @@ header a {
   padding-bottom: 1rem;
 }
 
-.coach-one-text h3, h4 {
+.coach-one-text > p {
   color: #f5f3f5;
   text-align: center;
-  margin: 0;
-  padding-top: 0.25rem;
+  padding-top: 0.75rem;
 }
 
 .coach-one-text {
@@ -166,8 +165,10 @@ header a {
   padding-top: 2rem;
 }
 
-.coach-two-text h3, h4 {
-  margin-top: 1rem;
+.coach-two-text > p {
+  color: #f5f3f5;
+  text-align: center;
+  margin-top: 2rem;
 }
 
 
