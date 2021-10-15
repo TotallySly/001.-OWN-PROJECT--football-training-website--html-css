@@ -144,11 +144,6 @@ header a {
   border-radius: 50%;
 }
 
-.coach-container-two {
-  height: 300vh;
-  position: relative
-}
-
 .coach-text-two {
   position: absolute;
   top: 30rem;
