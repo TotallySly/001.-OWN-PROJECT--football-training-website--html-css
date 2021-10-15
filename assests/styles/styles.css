@@ -111,7 +111,7 @@ header a {
 }
 
 .coach-background-one {
-  height: 60rem;
+  height: 64rem;
   width: 100%;
   background-image: url('/assests/images/image-2.jpg');
   background-size: cover;
@@ -136,7 +136,7 @@ header a {
   position: absolute;
   top: 5%;
   left: 1rem;
-  height: 24rem;
+  height: 28rem;
   width: 90%;
   background-color: rgba(27, 39, 80, 0.90);
 }
@@ -146,13 +146,14 @@ header a {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 1rem;
 }
 
 .coach-two-text {
   position: absolute;
-  top: 30rem;
+  top: 53%;
   left: 1rem;
-  height: 24rem;
+  height: 28rem;
   width: 90%;
   background-color: rgba(27, 39, 80, 0.90);
 }
@@ -163,12 +164,13 @@ header a {
   margin-left: auto;
   margin-right: auto;
   padding-top: 2rem;
+  margin-bottom: 1rem;
 }
 
 .coach-two-text > p {
   color: #f5f3f5;
   text-align: center;
-  margin-top: 2rem;
+  padding-top: 0.75rem;
 }
 
 
