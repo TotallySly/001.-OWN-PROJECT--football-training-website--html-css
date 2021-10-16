@@ -73,6 +73,16 @@ The site is targeted at parents of children who are looking for a sporting activ
 
 ![Footer](https:/)
 
+-__Sign-Up Page__
+
+  - Lorem
+  - Lorem
+  - Lorem
+
+![Sign-Up Page](https:/)
+
+
+
 
 
 
