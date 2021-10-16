@@ -70,9 +70,12 @@ Link to the live [website] (https:/)
 
 ### Imagery
 
-- LOREM
-- LOREM
-- LOREM
+I sourced my imagery from two different stock image websites, Unsplash and Pexels, respectively. I reduced the file size of my images using TinyPNG, a compression website. I used the .png image file type to maintain a high image quality whilst reducing the size of each individual image file. This will improve the speed and loading times of the website.
+
+I wanted images that best represented football sessions for children between 7 and 10 years old. I wanted to use vibrant images. I wanted fun images. I wanted sunny images. I wanted colourful images. Initially, I opted out of using images that clearly showed the faces of any children. This was a personal ethical preference, as I didn't think it sat right. 
+
+The images collated helped to further present the story of the website. They visually demonstrate a fun and vibrant social gathering for children, where they will take part in football training sessions.
+
 
 ### Colour Scheme
 
