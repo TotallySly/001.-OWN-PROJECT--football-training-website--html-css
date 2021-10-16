@@ -46,6 +46,17 @@ The site is targeted at parents of children who are looking for a sporting activ
   - On tablets and above, there is extra information regarding the coaches. This follows the styling of the 'About Us' section. Quick, bite-sized facts establishing the coaches credentials. Only profile photos, mobile and email contact details are visible for mobile devices. This is to provide the most important information to the user if accessing on a mobile. Also, if a user needs to get in contact with a coach, the information is present without any distracting information.
   - In keeping with the visual design of this website, the background image is zoomed in. Each coach information is separated within their own box stacked on top of each other. The opaque background allows the content to be visible as a text overlay of the image. Again, maintaining visual design patterns.
 
+![Coaches & Contact Us](https:/)
+
+-__Prices__
+
+  - Lorem
+  - Lorem
+  - Lorem
+
+![Prices](https:/)
+
+
 
 
 
