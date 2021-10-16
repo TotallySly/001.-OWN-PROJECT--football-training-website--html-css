@@ -76,6 +76,7 @@ I wanted images that best represented football sessions for children between 7 a
 
 The images collated helped to further present the story of the website. They visually demonstrate a fun and vibrant social gathering for children, where they will take part in football training sessions.
 
+The colours in the imagery helped with the final decision of my colour scheme.
 
 ### Colour Scheme
 
