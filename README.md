@@ -4,7 +4,42 @@ The English Football Club's website is to promote their training sessions for ch
 
 The site is targeted at parents of children who are looking for a sporting activity that will get their children outside and running and participating within teams. The site will display key information about the training sessions, prices, the coaches, and the location of said sessions. The site will also give parents the opportunity to sign their child(ren) up to participate.
 
+Link to the live [website] (https:/)
+
+
 ![Responsive Mockup](https:/) - Use the Responsive Website template.
+
+## Table of Contents
+  * [UX & UI Design](#ux-and-ui-design)
+    * [External User Goals] 
+    * [Owner User Goals]
+    * [Potential Features to Use]
+    * [User Stories]
+    * [Wireframes]
+  * [Design]
+    * [Imagery]
+    * [Colour Scheme]
+    * [Typography]
+  * [Features]
+    * [Logo]
+    * [Navigation Bar]
+    * [Landing Page Image]
+    * [About Us]
+    * [Coaches & Contact Us]
+    * [Prices]
+    * [Training Times]
+    * [Footer]
+    * [Sign-Up Page]
+    * [Features Left To Implement]
+  * [Deployment]
+  * [Testing]
+    * [Validator Testing]
+    * [Manual Testing]
+    * [Accessibility]
+  * [Credits]
+    * [Content]
+    * [Media]
+    * [Acknowledgments] 
 
 ## Features
 
@@ -19,7 +54,7 @@ The site is targeted at parents of children who are looking for a sporting activ
 - __Navigation Bar__
   
   - The navigation bar is featured on both pages of the website. The main page of the website is a single page website, which the navigation links will help the user    jump down to each specific section. 
-  - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibility.
+  - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibilitPricesy[Training Times][Footer][Sign-Up Page][Features Left To Implement][Deployment][Testing].
   
 
 ![Nav Bar](https:/)
