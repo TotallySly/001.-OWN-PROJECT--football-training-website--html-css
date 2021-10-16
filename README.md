@@ -9,3 +9,16 @@ The site is targeted at parents of children who are looking for a sporting activ
 ## Features
 
 ### Existing Features
+
+- __Logo__
+  
+  -The logo is a simple font based logo to keep with a more minimalist and sleek design. The logo also doubles up as a navigational link, to allow the user to always return to the home page.
+
+![Logo](https:/)
+
+- __Navigation Bar__
+  
+  - The navigation bar is featured on both pages of the website. The main page of the website is a single page website, which the navigation links will help the user    jump down to each specific section. 
+  - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibility.
+
+![Nav Bar](https:/)
