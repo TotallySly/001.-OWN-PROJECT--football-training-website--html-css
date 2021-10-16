@@ -65,6 +65,15 @@ The site is targeted at parents of children who are looking for a sporting activ
 
 ![Training Times](https:/)
 
+-__Footer__
+
+  - Lorem
+  - Lorem
+  - Lorem
+
+![Footer](https:/)
+
+
 
 
 
