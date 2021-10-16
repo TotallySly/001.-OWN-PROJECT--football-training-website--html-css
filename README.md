@@ -20,5 +20,10 @@ The site is targeted at parents of children who are looking for a sporting activ
   
   - The navigation bar is featured on both pages of the website. The main page of the website is a single page website, which the navigation links will help the user    jump down to each specific section. 
   - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibility.
+  
 
 ![Nav Bar](https:/)
+
+- __Landing Page Image__
+
+
