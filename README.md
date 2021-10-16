@@ -39,21 +39,31 @@ Link to the live [website] (https:/)
 ### External User Goals
 
 - LOREM
+- LOREM
+- LOREM
 
 ### Owner User Goals
 
+- LOREM
+- LOREM
 - LOREM
 
 ### Potential Features to Use
 
 - LOREM
+- LOREM
+- LOREM
 
 ### User Stories
 
 - LOREM
+- LOREM
+- LOREM
 
 ### Wireframes
 
+- LOREM
+- LOREM
 - LOREM
 
 ## Design
@@ -61,13 +71,19 @@ Link to the live [website] (https:/)
 ### Imagery
 
 - LOREM
+- LOREM
+- LOREM
 
 ### Colour Scheme
 
 - LOREM
+- LOREM
+- LOREM
 
 ### Typography
 
+- LOREM
+- LOREM
 - LOREM
 
 
@@ -164,7 +180,15 @@ Link to the live [website] (https:/)
 
 ### Manual Testing
 
+  -LOREM
+  -LOREM
+  -LOREM
+
 ### Accessibility
+
+-LOREM
+-LOREM
+-LOREM
 
 ### Unfixed Bugs
 
@@ -198,7 +222,9 @@ Link to the live [website] (https:/)
   
 ### Acknowledgements
 
-
+-LOREM
+LOREM
+LOREM
 
 
 
