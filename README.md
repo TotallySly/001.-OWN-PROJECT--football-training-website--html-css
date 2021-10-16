@@ -10,7 +10,7 @@ Link to the live [website] (https:/)
 ![Responsive Mockup](https:/) - Use the Responsive Website template.
 
 ## Table of Contents
-  * [UX & UI Design](#ux-and-ui-design)
+  * [UX and UI Design](#ux-and-ui-design)
     * [External User Goals](#external-user-goals)
     * [Owner User Goals](#owner-user-goals)
     * [Potential Features to Use](#potential-features-to-use)
@@ -21,25 +21,55 @@ Link to the live [website] (https:/)
     * [Colour Scheme](#colour-scheme)
     * [Typography](#typography)
   * [Features](#features)
-    * [Logo](#logo)
-    * [Navigation Bar](#navigation-bar)
-    * [Landing Page Image](#landing-page-image)
-    * [About Us](#about-us)
-    * [Coaches & Contact Us](#coaches-contact-us)
-    * [Prices](#prices)
-    * [Training Times](#training-times)
-    * [Footer](#footer)
-    * [Sign-Up Page](#sign-up-page)
+    * [Existing Features](#existing-features)
     * [Features Left To Implement](#features-left-to-implement)
-  * [Deployment](#deployment)
   * [Testing](#testing)
     * [Validator Testing](#validator-testing)
     * [Manual Testing](#manual-testing)
     * [Accessibility](#accessibility)
+    * [Unfixed Bugs](#unfixed-bugs)
+  * [Deployment](#deployment)
   * [Credits](#credits)
     * [Content](#content)
     * [Media](#media)
     * [Acknowledgments](#acknowledgements)
+
+## UX and UI Design
+
+### External User Goals
+
+- LOREM
+
+### Owner User Goals
+
+- LOREM
+
+### Potential Features to Use
+
+- LOREM
+
+### User Stories
+
+- LOREM
+
+### Wireframes
+
+- LOREM
+
+## Design
+
+### Imagery
+
+- LOREM
+
+### Colour Scheme
+
+- LOREM
+
+### Typography
+
+- LOREM
+
 
 ## Features
 
@@ -54,16 +84,15 @@ Link to the live [website] (https:/)
 - __Navigation Bar__
   
   - The navigation bar is featured on both pages of the website. The main page of the website is a single page website, which the navigation links will help the user    jump down to each specific section. 
-  - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibilitPricesy[Training Times][Footer][Sign-Up Page][Features Left To Implement][Deployment][Testing].
-  
+  - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibility.
 
 ![Nav Bar](https:/)
 
 - __Landing Page Image__
 
- - The landing image is a photograph with a text overlay. This provides the user with instant information,  'what the site is about', 'age range', and 'location of the training sessions'. This allows the user instant clarification regarding the site.
- - This section provides a large football training related photo that is colourful and eye-catching. The image colours also maintain the colour theme of the website. The center piece of the image, shows a nice light blue, with tones of white being the secondary stand-out colour.
- - For mobile devices I opted for the text overlay to have a bold background colour and to sit on top of the landing page image. I chose this design as it felt that this information would be read instantly when the user access the website on a mobile device. It also maintains a visual balance of block text, image, block text etc achieved with the website. 
+  - The landing image is a photograph with a text overlay. This provides the user with instant information,  'what the site is about', 'age range', and 'location of the training sessions'. This allows the user instant clarification regarding the site.
+  - This section provides a large football training related photo that is colourful and eye-catching. The image colours also maintain the colour theme of the website. The center piece of the image, shows a nice light blue, with tones of white being the secondary stand-out colour.
+  - For mobile devices I opted for the text overlay to have a bold background colour and to sit on top of the landing page image. I chose this design as it felt that this information would be read instantly when the user access the website on a mobile device. It also maintains a visual balance of block text, image, block text etc achieved with the website. 
 
 ![Landing Page](https:/)
 
@@ -133,6 +162,10 @@ Link to the live [website] (https:/)
   - CSS
     - How many errors [(Jigsaw) validator]
 
+### Manual Testing
+
+### Accessibility
+
 ### Unfixed Bugs
 
   - Mention any bugs and shortcomings and explain why.
@@ -146,7 +179,7 @@ Link to the live [website] (https:/)
       - From the source section drop-down menu, select the Master Branch
       - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-- The link link:
+- The link:
   - (https:/)  
 
 ## Credits
@@ -162,7 +195,8 @@ Link to the live [website] (https:/)
 
   - Where did you get your photos from.
   - Write about each photo image.
-  - 
+  
+### Acknowledgements
 
 
 
