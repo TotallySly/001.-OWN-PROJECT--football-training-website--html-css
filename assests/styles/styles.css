@@ -82,7 +82,7 @@ header a {
 .hero-image {
   height: 60vh;
   width: 100%;
-  background-image: url('/assests/images/image-9.jpg');
+  background-image: url('/assests/images/landing-image.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -113,7 +113,7 @@ header a {
 .coach-background-one {
   height: 64rem;
   width: 100%;
-  background-image: url('/assests/images/image-2.jpg');
+  background-image: url('/assests/images/coach-background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
