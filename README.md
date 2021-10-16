@@ -81,11 +81,27 @@ The site is targeted at parents of children who are looking for a sporting activ
 
 ![Sign-Up Page](https:/)
 
--__Features Left To Implement__
+### Features Left To Implement
 
   - Lorem
   - Lorem
   - Lorem
+
+## Testing
+
+  - Write about how the website works and I need to convince the assessor that I have successfully conducted tests on the website for all devices and browsers.
+
+### Validator Testing
+
+  - HTML
+    - How many errors [W3C validator]
+  - CSS
+    - How many errors [(Jigsaw) validator]
+
+### Unfixed Bugs
+
+  - Mention any bugs and shortcomings and explain why.
+
 
 
 
