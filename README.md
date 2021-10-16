@@ -11,35 +11,35 @@ Link to the live [website] (https:/)
 
 ## Table of Contents
   * [UX & UI Design](#ux-and-ui-design)
-    * [External User Goals] 
-    * [Owner User Goals]
-    * [Potential Features to Use]
-    * [User Stories]
-    * [Wireframes]
-  * [Design]
-    * [Imagery]
-    * [Colour Scheme]
-    * [Typography]
-  * [Features]
-    * [Logo]
-    * [Navigation Bar]
-    * [Landing Page Image]
-    * [About Us]
-    * [Coaches & Contact Us]
-    * [Prices]
-    * [Training Times]
-    * [Footer]
-    * [Sign-Up Page]
-    * [Features Left To Implement]
-  * [Deployment]
-  * [Testing]
-    * [Validator Testing]
-    * [Manual Testing]
-    * [Accessibility]
-  * [Credits]
-    * [Content]
-    * [Media]
-    * [Acknowledgments] 
+    * [External User Goals](#external-user-goals)
+    * [Owner User Goals](#owner-user-goals)
+    * [Potential Features to Use](#potential-features-to-use)
+    * [User Stories](#user-stories)
+    * [Wireframes](#wireframes)
+  * [Design](#design)
+    * [Imagery](#imagery)
+    * [Colour Scheme](#colour-scheme)
+    * [Typography](#typography)
+  * [Features](#features)
+    * [Logo](#logo)
+    * [Navigation Bar](#navigation-bar)
+    * [Landing Page Image](#landing-page-image)
+    * [About Us](#about-us)
+    * [Coaches & Contact Us](#coaches-contact-us)
+    * [Prices](#prices)
+    * [Training Times](#training-times)
+    * [Footer](#footer)
+    * [Sign-Up Page](#sign-up-page)
+    * [Features Left To Implement](#features-left-to-implement)
+  * [Deployment](#deployment)
+  * [Testing](#testing)
+    * [Validator Testing](#validator-testing)
+    * [Manual Testing](#manual-testing)
+    * [Accessibility](#accessibility)
+  * [Credits](#credits)
+    * [Content](#content)
+    * [Media](#media)
+    * [Acknowledgments](#acknowledgements)
 
 ## Features
 
