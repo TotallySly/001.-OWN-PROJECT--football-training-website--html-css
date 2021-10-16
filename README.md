@@ -114,6 +114,22 @@ The site is targeted at parents of children who are looking for a sporting activ
 - The link link:
   - (https:/)  
 
+## Credits
+
+  - Credit and reference any additional websites in which you got extra help from. Need to be very specific in regards to code used externally.
+  
+### Content
+
+  - Add references for any external content help.
+    - Icons, how to use specific code etc etc etc
+
+### Media
+
+  - Where did you get your photos from.
+  - Write about each photo image.
+  - 
+
+
 
 
 
