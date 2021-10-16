@@ -80,6 +80,8 @@ The colours in the imagery helped with the final decision of my colour scheme.
 
 ### Colour Scheme
 
+In choosing my colour palette, I used the website ' Coolors'.
+
 I wanted colours that had a strong relationship with football teams traditional colours. 
 
 Initially, I could not settle between a red or blue colour pallette. I settled with blue for two reasons. The first being that red is quite a powerful colour. Visually, it can be rather distracting and make the website less accessible for all users. Secondly, a lot of the imagery I used had powerful blue colours, with white being secondary. To help maintain a great visual design I opted for blue.
@@ -100,9 +102,13 @@ I felt that these colours best represented a 'warmer' blue, had they had a stron
 
 ### Typography
 
+I used Google Fonts to select my fonts.
 
+![Typography](/assests/readme-images/font-family.png)
 
+I like sleek and minimalist font styles. I narrowed down my search for these style of fonts. The font that instantly stood out was 'Raleway'. I used Google's popular pairings with 'Raleway'. Upon testing each selection, I settled on pairing 'Raleway' with 'Montserrat'.
 
+The two fonts provided a nice and subtle difference. Due to its default font-weight, 'Montserrat' would be fantastic to use for the logo and each heading on the website. 'Raleway', with its slim minimalist feel, would be great to use for the main content of the website.
 
 ## Features
 
