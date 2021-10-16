@@ -80,9 +80,23 @@ The colours in the imagery helped with the final decision of my colour scheme.
 
 ### Colour Scheme
 
-- LOREM
-- LOREM
-- LOREM
+I wanted colours that had a strong relationship with a football teams traditional colours. 
+
+Initially, I could not settle between a red, or blue, colour pallette. I settled on blue for two reasons. The first being that red is quite a powerful colour. Visually, it can be rather distracting and make the website less accessible for all users. Secondly, a lot of the imagery I used had powerful blue colours, with white being secondary. 
+
+![Colour Palette](/assests/readme-images/colour-scheme.png/)
+
+I felt that these colours best represented a great 'warmer' blue, had a strong football assosication, and  provided great visual readability of all aspects of the website.
+
+  - '1B264F'
+    - Main background colour. Used for the logo, block background colour.
+  - '274690'
+    - Text overlay colour.
+  - '576CA8'
+    - Navigation bar colour.
+  - 'F5F3F5'
+    - Text colour. 
+
 
 ### Typography
 
