@@ -26,4 +26,6 @@ The site is targeted at parents of children who are looking for a sporting activ
 
 - __Landing Page Image__
 
+ - The landing image is a photograph with a text overlay. This provides the user with instant information,  'what the site is about', 'age range', and 'location of the training sessions'. This allows the user instant clarification regarding the site.
+ - This section provides a large football training related photo that is colourful and eye-catching. The image colours also maintain the colour theme of the website. The center piece of the image, shows a nice light blue, with tones of white being the secondary stand-out colour.
 
