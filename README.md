@@ -288,10 +288,18 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
   - My images were from two stock image websites: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
   - Write about each photo image.
+
+
+Landing Image [Ruslan Alekso](https://www.pexels.com/@oskelaq)
+Coaches Background Image [Ralph (Ravi) Kayden](https://unsplash.com/@ralphkayden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Coach Richards Image [Midas Hofstra](https://unsplash.com/@midashofstra)
+Coach Edwards Image [Ben Den Engelsen](https://unsplash.com/@benjeeeman)
+Training Times Image [Mike](https://www.pexels.com/@mike-468229)
+Sign-Up Background Image [Kampus](https://www.pexels.com/@kampus)
   
 ### Acknowledgements
 
-I would like to thank my Code Institue mentor Antonija Surname for her help and guidance during this project.
+I would like to thank my Code Institute mentor Antonija Simic for her help and guidance during this project.
 
 I would like to thank the Code Institute Slack community for all their support and help with various general questions I have asked thus far.
 
