@@ -4,6 +4,8 @@ The English Football Club's website is to promote their training sessions for ch
 
 The site is targeted at parents of children who are looking for a sporting activity that will get their children outside and running and participating within teams. The site will display key information about the training sessions, prices, the coaches, and the location of said sessions. The site will also give parents the opportunity to sign their child(ren) up to participate.
 
+The website was made using the 'Mobile-First' concept. The idea being that the website is mobile friendly always. The content will be less on a mobile screen, and more information will be displayed as the screen gets larger. This is also to make the website fully responsive.
+
 Link to the live [website] (https:/)
 
 
@@ -40,7 +42,6 @@ The owner of the company tasked me with designing and implementing a colourful, 
 
 With this in mind, it was clear that the website required colourful imagery, bold colouring, and minimal text content. All content had to be 'to the point' and quickly at hand for the user.
 
-
 ### Owner Goals
 
 - To allow users to sign their child up to join the training sessions.
@@ -50,7 +51,6 @@ With this in mind, it was clear that the website required colourful imagery, bol
 - To include the coaches mobile numbers in case of an emergency for existing users.
 - To display prices and any potential offers.
 - To show the times and location of the training sessions.
-
 
 ### External User Goals
 
@@ -68,17 +68,12 @@ With this in mind, it was clear that the website required colourful imagery, bol
 - As a user of the website, I want to know the prices of the training sessions.
 - As a user of the website, I want to know where the training sessions are located.
 
-
-
-
 ### Potential Features to Use
 
 - A sign-up form for the user and owner to receive information regarding new members to the training sessions. 
 - Profiles of the coaches.
 - Google Maps embedded to show the location of the training sessions.
 - Links to different Social Media related to the club.
-
-
 
 ### Wireframes
 
