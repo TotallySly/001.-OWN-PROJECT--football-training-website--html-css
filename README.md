@@ -274,19 +274,19 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 ### Content
 
   - All written content is purely fictional. I created the written content myself as the company is also fictional. 
-  - The training section was inspired by a section of tutorial project, Love Running, via the Code Institute.
-  - A lot of research was placed on Stack Overflow, W3Schools, Mozilla Developer.
+  - The training section was inspired by a section of tutorial project, [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/05-meetup-times), via the Code Institute.
+  - A lot of research was placed on [Stack Overflow](https://stackoverflow.com/), [W3Schools](https://www.w3schools.com/), [Mozilla Developer](https://developer.mozilla.org/en-US/).
     - In addition several YouTube videos:
-      - Web Dev Simplified (Flexbox, Absolute/Relative Position).
-      - Kevin Powell. (Flexbox, Absolute/Relative Position)
-      - Minimalist. (Sign-Up form).
+      - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/playlists) (Flexbox, Absolute/Relative Position).
+      - [Kevin Powell](https://www.youtube.com/kepowob). (Flexbox, Absolute/Relative Position)
+      - [Minim](https://www.youtube.com/watch?v=VX_Dghv65Vk&list=PL4cTxE4s2XIYJL6uPQUwMt25M70gPl-O6&index=14&ab_channel=Minim). (Sign-Up form).
   - 
-  - Icons where via the amazing website - Font Awesome.
-  - The colour paletter was from coolors.co
+  - Icons where via the amazing website - [Font Awesome](https://fontawesome.com/).
+  - The colour palette was from [Coolors](https://coolors.co/)
 
 ### Media
 
-  - My images were from two stock image websites: Pexels and Unsplash.
+  - My images were from two stock image websites: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
   - Write about each photo image.
   
 ### Acknowledgements
