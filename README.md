@@ -62,6 +62,10 @@ Link to the live [website] (https:/)
 
 ### Wireframes
 
+All three of my wireframes are very basic mock-ups. I was concerned with creating the layout, rather than a content. 
+
+I originally drew my mock-ups by hand. I then created a digital mock-up using Balsamiq.
+
 <details>
   <summary>Desktop Wireframe</summary>
 
@@ -79,7 +83,9 @@ Link to the live [website] (https:/)
 <details>
  <summary>Mobile Wireframe</summary>
 
-![Mobile Wireframe](/assests/readme-images/Mobile%20Devices.png)
+![Mobile Wireframe](/assests/readme-images/Mobile%20Devices%20.png)
+
+
 
 </details>
 
