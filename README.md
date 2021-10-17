@@ -36,6 +36,12 @@ Link to the live [website] (https:/)
 
 ## UX and UI Design
 
+The owner of the company tasked me with designing and implementing a colourful, snappy, and to the point website. I agreed that this was best fit for their, and their user needs. The company itself is self-explanatory. They host football training in English for children. The website needed to reflect this, and did not need to create an informational overload on the user of the website. The owner required a website to detail prices, locations, and or parents to sign their child(ren) to join the fun.
+
+With this in mind, it was clear that the website required colourful imagery, bold colouring, and minimal text content. All content had to be 'to the point' and quickly at hand. 
+
+
+
 ### External User Goals
 
 - LOREM
