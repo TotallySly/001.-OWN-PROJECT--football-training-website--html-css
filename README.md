@@ -73,9 +73,10 @@ With this in mind, it was clear that the website required colourful imagery, bol
 
 ### Potential Features to Use
 
-- LOREM
-- LOREM
-- LOREM
+- A sign-up form for the user and owner to receive information regarding new members to the training sessions. 
+- Profiles of the coaches.
+- Google Maps embedded to show the location of the training sessions.
+- Links to different Social Media related to the club.
 
 
 
