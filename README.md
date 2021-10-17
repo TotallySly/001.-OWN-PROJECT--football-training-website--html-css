@@ -273,19 +273,29 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   
 ### Content
 
-  - Add references for any external content help.
-    - Icons, how to use specific code etc etc etc
+  - All written content is purely fictional. I created the written content myself as the company is also fictional. 
+  - The training section was inspired by a section of tutorial project, Love Running, via the Code Institute.
+  - A lot of research was placed on Stack Overflow, W3Schools, Mozilla Developer.
+    - In addition several YouTube videos:
+      - Web Dev Simplified (Flexbox, Absolute/Relative Position).
+      - Kevin Powell. (Flexbox, Absolute/Relative Position)
+      - Minimalist. (Sign-Up form).
+  - 
+  - Icons where via the amazing website - Font Awesome.
+  - The colour paletter was from coolors.co
 
 ### Media
 
-  - Where did you get your photos from.
+  - My images were from two stock image websites: Pexels and Unsplash.
   - Write about each photo image.
   
 ### Acknowledgements
 
--LOREM
-LOREM
-LOREM
+I would like to thank my Code Institue mentor Antonija Surname for her help and guidance during this project.
+
+I would like to thank the Code Institute Slack community for all their support and help with various general questions I have asked thus far.
+
+A deep dive of various README files from the CI community. Especially in learning Markdown and layout structure. 
 
 
 
