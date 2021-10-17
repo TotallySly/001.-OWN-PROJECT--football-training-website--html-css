@@ -11,10 +11,10 @@ Link to the live [website] (https:/)
 
 ## Table of Contents
   * [UX and UI Design](#ux-and-ui-design)
+    * [Owner Goals](#owner-goals)
     * [External User Goals](#external-user-goals)
-    * [Owner User Goals](#owner-user-goals)
-    * [Potential Features to Use](#potential-features-to-use)
     * [User Stories](#user-stories)
+    * [Potential Features to Use](#potential-features-to-use)
     * [Wireframes](#wireframes)
   * [Design](#design)
     * [Imagery](#imagery)
@@ -41,20 +41,14 @@ The owner of the company tasked me with designing and implementing a colourful, 
 With this in mind, it was clear that the website required colourful imagery, bold colouring, and minimal text content. All content had to be 'to the point' and quickly at hand for the user.
 
 
+### Owner Goals
+
+- LOREM
+- LOREM
+- LOREM
+
 
 ### External User Goals
-
-- LOREM
-- LOREM
-- LOREM
-
-### Owner User Goals
-
-- LOREM
-- LOREM
-- LOREM
-
-### Potential Features to Use
 
 - LOREM
 - LOREM
@@ -65,6 +59,16 @@ With this in mind, it was clear that the website required colourful imagery, bol
 - LOREM
 - LOREM
 - LOREM
+
+
+
+### Potential Features to Use
+
+- LOREM
+- LOREM
+- LOREM
+
+
 
 ### Wireframes
 
