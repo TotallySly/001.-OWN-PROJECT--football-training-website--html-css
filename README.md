@@ -62,9 +62,26 @@ Link to the live [website] (https:/)
 
 ### Wireframes
 
-- LOREM
-- LOREM
-- LOREM
+<details>
+  <summary>Desktop Wireframe</summary>
+
+![Desktop Wireframe](/assests/readme-images/Desktop.png)
+
+</details>
+
+<details>
+ <summary>Tablet Wireframe</summary>
+
+![Tablet Wireframe](/assests/readme-images/Tablet.png)
+ 
+ </details>
+
+<details>
+ <summary>Mobile Wireframe</summary>
+
+![Mobile Wireframe](/assests/readme-images/Mobile%20Devices.png)
+
+</details>
 
 ## Design
 
@@ -80,7 +97,7 @@ The colours in the imagery helped with the final decision of my colour scheme.
 
 ### Colour Scheme
 
-In choosing my colour palette, I used the website ' Coolors'.
+In choosing my colour palette, I used the website ' Coolors.co'.
 
 I wanted colours that had a strong relationship with football teams traditional colours. 
 
