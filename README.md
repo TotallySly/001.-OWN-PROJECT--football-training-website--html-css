@@ -43,22 +43,31 @@ With this in mind, it was clear that the website required colourful imagery, bol
 
 ### Owner Goals
 
-- LOREM
-- LOREM
-- LOREM
+- To allow users to sign their child up to join the training sessions.
+- To display their USP - The only English speaking football training in Göteborg (Gothenburg).
+- To display how quickly the company has developed in a short period of time.
+- To include a profile highlighting the credentials of the coaches.
+- To include the coaches mobile numbers in case of an emergency for existing users.
+- To display prices and any potential offers.
+- To show the times and location of the training sessions.
 
 
 ### External User Goals
 
-- LOREM
-- LOREM
-- LOREM
+- To sign up their children for the football training sessions.
+- Read about the company and coaches credentials.
+- See the cost of the training sessions.
+- See the location of the training sessions.
+- Quick access to the coaches mobile numbers in case of emergency.
 
 ### User Stories
 
-- LOREM
-- LOREM
-- LOREM
+- As a user of the website, I want to be able to easily navigate around the website.
+- As a user of the website, I want to be able to sign up my child(ren) for the training sessions.
+- As a user of the website, I want to find out about the coaches running the website.
+- As a user of the website, I want to know the prices of the training sessions.
+- As a user of the website, I want to know where the training sessions are located.
+
 
 
 
