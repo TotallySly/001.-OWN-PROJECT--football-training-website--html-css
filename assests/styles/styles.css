@@ -114,9 +114,10 @@ header a {
 
 
 .coach-about-us {
+  text-align: center;
   font-size: 1.6rem;
-  padding-left: 1vw;
-  padding-right: 1vw;
+  padding-top: 10px;
+  padding-bottom: 10px;
   color: #f5f3f5;
   background-color: rgba(39, 71, 144, 0.9);
 }
