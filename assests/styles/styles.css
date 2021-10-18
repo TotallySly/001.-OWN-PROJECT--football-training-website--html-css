@@ -129,10 +129,16 @@ header a {
   padding-left: 1vw;
   padding-right: 1vw;
   color: #f5f3f5;
-  top: 2%;
-  left: 30%;
-  background-color: rgba(27, 39, 80, 0.90);
+  top: 3%;
+  left: 33%;
+  background-color: rgba(39, 71, 144, 0.9)
 }
+
+.coach-richards {
+  background-color: rgba(39, 71, 144, 0.9);
+  display: flexbox;
+}
+
 
 /* .coach-one-text h2 {
   font: 'Montserrat', sans-serif;
