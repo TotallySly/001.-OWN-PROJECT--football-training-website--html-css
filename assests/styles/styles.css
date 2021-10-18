@@ -110,36 +110,28 @@ header a {
   font-weight: 300;
 }
 
-/* #coach {
-  position: relative;
-} */
 
-/* .coach-background {
-  height: 64rem;
-  width: 100%;
-  background-image: url('/assests/images/coach-background.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-} */
+
 
 .coach-about-us {
   font-size: 1.6rem;
   padding-left: 1vw;
   padding-right: 1vw;
   color: #f5f3f5;
-  top: 8%;
-  left: 33%;
-  background-color: rgba(39, 71, 144, 0.9)
+  background-color: rgba(39, 71, 144, 0.9);
 }
 
 .coach-container {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
+  align-content: center;
   background-image: url('/assests/images/coach-background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  line-height: 1.5;
+  color: #f5f3f5;
 }
 
 .coach-one {
@@ -147,24 +139,27 @@ header a {
   border: 5px solid black;
 }
 
-.coach-one img {
-  height: 150px;
+.coach-one > img {
+  height: 50vh;
 }
 
-.coach-one:first-child {
+/* .coach-one:first-child {
 margin-right: 20px;
-}
+} */
 
 .coach-two {
   flex: 2;
   border: 5px solid black;
 }
 
+.coach-two > img {
+  height: 50vh;
+}
+
 .flex-colour {
-  background-color: #274690;
-  padding: 10px;
+  background-color: rgba(39, 71, 144, 0.9);
   text-align: center;
-  margin-left: 10px;
+  margin: 100px;
 }
 
 .flex-colour li {
