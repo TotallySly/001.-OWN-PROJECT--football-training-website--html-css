@@ -147,9 +147,13 @@ header a {
   padding-bottom: 2vh;
 }
 
+.flex-image {
+  display: flex;
+  justify-content: center;
+}
+
 .coach-richards img {
   height: 35vh;
-  left: 10%;
 }
 
 
