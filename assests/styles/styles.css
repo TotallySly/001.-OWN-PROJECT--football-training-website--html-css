@@ -110,22 +110,21 @@ header a {
   font-weight: 300;
 }
 
-#coach {
+/* #coach {
   position: relative;
-}
+} */
 
-.coach-background-one {
+/* .coach-background {
   height: 64rem;
   width: 100%;
   background-image: url('/assests/images/coach-background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-}
+} */
 
 .coach-about-us {
-  position: absolute;
-  font-size: 4vh;
+  font-size: 1.6rem;
   padding-left: 1vw;
   padding-right: 1vw;
   color: #f5f3f5;
@@ -134,99 +133,43 @@ header a {
   background-color: rgba(39, 71, 144, 0.9)
 }
 
-.coach-richards {
-  background-color: rgba(39, 71, 144, 0.9);
-  position: absolute;
-  top: 24%;
-  left: 15%;
-  font-size: 4vh;
-  color: #f5f3f5;
-  padding-top: 2vh;
-  padding-left: 2vw;
-  padding-right: 2vw;
-  padding-bottom: 2vh;
-}
-
-.coach-richards img {
-  height: 35vh;
-}
-
-.flex-richards {
+.coach-container {
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
+  background-image: url('/assests/images/coach-background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
-.coach-richards-name {
+.coach-one {
+  flex: 1;
+  border: 5px solid black;
+}
+
+.coach-one img {
+  height: 150px;
+}
+
+.coach-one:first-child {
+margin-right: 20px;
+}
+
+.coach-two {
+  flex: 2;
+  border: 5px solid black;
+}
+
+.flex-colour {
+  background-color: #274690;
+  padding: 10px;
   text-align: center;
-  font-weight: 600;
-  padding-top: 2vh;
-  padding-bottom: 2vh;
+  margin-left: 10px;
 }
 
-.coach-richards-facts {
-  background-color: rgba(39, 71, 144, 0.9);
-  color: #f5f3f5;
-  display: inline-block;
-  position: absolute;
-  bottom: 8%;
-  left: 10%;
-  line-height: 1.5;
-  font-size: 4vh;
-  padding-top: 4vh;
-  padding-left: 2vw;
-  padding-right: 2vw;
-  padding-bottom: 1vh;
+.flex-colour li {
+  list-style-type: none;
 }
-
-.coach-edwards {
-  background-color: rgba(39, 71, 144, 0.9);
-  position: absolute;
-  top: 24%;
-  right: 15%;
-  font-size: 4vh;
-  color: #f5f3f5;
-  padding-top: 4vh;
-  padding-left: 2vw;
-  padding-right: 2vw;
-  padding-bottom: 1vh;
-}
-
-.coach-edwards img {
-  height: 30vh;
-}
-
-.flex-edwards {
-  display: flex;
-  justify-content: center;
-}
-
-.coach-edwards-name {
-  text-align: center;
-  font-weight: 600;
-  padding-top: 5vh;
-  padding-bottom: 2vh;
-}
-
-.coach-edwards-facts {
-  background-color: rgba(39, 71, 144, 0.9);
-  color: #f5f3f5;
-  display: inline-block;
-  position: absolute;
-  bottom: 8%;
-  right: 10%;
-  line-height: 1.5;
-  font-size: 4vh;
-  padding-top: 4vh;
-  padding-left: 2vw;
-  padding-right: 2vw;
-  padding-bottom: 1vh;
-}
-
-.coach-edwards-padding {
-  padding-bottom: 1.5vh;
-}
-
-
 
 
 
