@@ -18,7 +18,7 @@ body {
 
 h1 {
   font-family: 'Montserrat', sans-serif;
-  letter-spacing: 5px;
+  letter-spacing: 1vw;
   color: #1b264f;
 }
 
@@ -32,9 +32,9 @@ header a {
   text-align: center;
   background-color: #1b264f;
   color: #f5f3f5;
-  font-size: 2rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  font-size: 10vmin;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
   width: 100%;
 }
 
