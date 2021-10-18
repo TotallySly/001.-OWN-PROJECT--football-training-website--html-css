@@ -47,18 +47,18 @@ header a {
   background-color: #576ca8;
 }
 
-.menu li {
-  list-style: none;
-  line-height: 2;
-  font-size: 1rem;
-  font-weight: 500;
-}
-
 .menu a {
   display: block;
   text-align: center;
   text-decoration: none;
   color: #f5f3f5;
+}
+
+.menu li {
+  list-style: none;
+  line-height: 2;
+  font-size: 3vh;
+  font-weight: 500;
 }
 
 .menu a:hover {
@@ -74,14 +74,15 @@ header a {
   max-width: 100%;
   background-color: #274690;
   color: #f5f3f5;
+  font-size: 3vh;
   line-height: 1.5;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
   text-align: center;
 }
 
 .hero-image {
-  height: 60vh;
+  height: 55vmax;
   width: 100%;
   background-image: url('/assests/images/landing-image.png');
   background-size: cover;
