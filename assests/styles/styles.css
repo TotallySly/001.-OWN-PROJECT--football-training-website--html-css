@@ -136,7 +136,20 @@ header a {
 
 .coach-richards {
   background-color: rgba(39, 71, 144, 0.9);
-  display: flexbox;
+  position: absolute;
+  top: 15%;
+  left: 15%;
+  font-size: 4vh;
+  color: #f5f3f5;
+  padding-top: 2vh;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-bottom: 2vh;
+}
+
+.coach-richards img {
+  height: 35vh;
+  left: 10%;
 }
 
 
