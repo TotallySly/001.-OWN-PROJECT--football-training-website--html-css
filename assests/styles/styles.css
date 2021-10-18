@@ -90,21 +90,22 @@ header a {
   background-position: center center;
 }
 
-#about-us {
+.about-us {
   background-color: #1b264f;
   color: #f5f3f5;
-  padding-top: 2vh;
   padding-bottom: 2vh;
   text-align: center;
 }
 
-#about-us h2 {
+.about-us h2 {
   font: 'Montserrat', sans-serif;
+  background-color: rgba(39, 71, 144, 0.9);
   font-size: 4vh;
+  padding-top: 2vh;
   padding-bottom: 2vh;
 }
 
-#about-us p{
+.about-us p{
   font-size: 2.3vh;
   line-height: 2.5;
   font-weight: 300;
