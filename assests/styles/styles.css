@@ -129,7 +129,7 @@ header a {
   padding-left: 1vw;
   padding-right: 1vw;
   color: #f5f3f5;
-  top: 3%;
+  top: 8%;
   left: 33%;
   background-color: rgba(39, 71, 144, 0.9)
 }
@@ -137,7 +137,7 @@ header a {
 .coach-richards {
   background-color: rgba(39, 71, 144, 0.9);
   position: absolute;
-  top: 15%;
+  top: 24%;
   left: 15%;
   font-size: 4vh;
   color: #f5f3f5;
@@ -163,10 +163,25 @@ header a {
   padding-bottom: 2vh;
 }
 
+.coach-richards-facts {
+  background-color: rgba(39, 71, 144, 0.9);
+  color: #f5f3f5;
+  display: inline-block;
+  position: absolute;
+  bottom: 8%;
+  left: 10%;
+  line-height: 1.5;
+  font-size: 4vh;
+  padding-top: 4vh;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-bottom: 1vh;
+}
+
 .coach-edwards {
   background-color: rgba(39, 71, 144, 0.9);
   position: absolute;
-  top: 15%;
+  top: 24%;
   right: 15%;
   font-size: 4vh;
   color: #f5f3f5;
@@ -192,9 +207,25 @@ header a {
   padding-bottom: 2vh;
 }
 
+.coach-edwards-facts {
+  background-color: rgba(39, 71, 144, 0.9);
+  color: #f5f3f5;
+  display: inline-block;
+  position: absolute;
+  bottom: 8%;
+  right: 10%;
+  line-height: 1.5;
+  font-size: 4vh;
+  padding-top: 4vh;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-bottom: 1vh;
+}
+
 .coach-edwards-padding {
   padding-bottom: 1.5vh;
 }
+
 
 
 
