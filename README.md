@@ -280,6 +280,10 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
       - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/playlists) (Flexbox, Absolute/Relative Position).
       - [Kevin Powell](https://www.youtube.com/kepowob). (Flexbox, Absolute/Relative Position)
       - [Minim](https://www.youtube.com/watch?v=VX_Dghv65Vk&list=PL4cTxE4s2XIYJL6uPQUwMt25M70gPl-O6&index=14&ab_channel=Minim). (Sign-Up form).
+
+https://thoughtbot.com/blog/positioning#position
+https://coder-coder.com/display-divs-side-by-side/#flexbox-method
+https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-sizing--cms-31948
   - 
   - Icons where via the amazing website - [Font Awesome](https://fontawesome.com/).
   - The colour palette was from [Coolors](https://coolors.co/)
