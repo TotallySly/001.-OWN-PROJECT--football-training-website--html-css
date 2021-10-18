@@ -147,13 +147,37 @@ header a {
   padding-bottom: 2vh;
 }
 
-.flex-image {
+.flex-richards {
   display: flex;
   justify-content: center;
 }
 
 .coach-richards img {
   height: 35vh;
+}
+
+  .coach-richards-name {
+    text-align: center;
+    font-weight: 600;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+  }
+
+.coach-edwards {
+  background-color: rgba(39, 71, 144, 0.9);
+  position: absolute;
+  top: 15%;
+  right: 15%;
+  font-size: 4vh;
+  color: #f5f3f5;
+  padding-top: 2vh;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-bottom: 2vh;
+}
+
+.coach-edwards img {
+  height: 30vh;
 }
 
 
@@ -166,20 +190,6 @@ header a {
   padding-bottom: 1rem;
 } */
 
-.coach-one-text img {
-  height: 55%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 1rem;
-}
-
-.coach-one-text > p {
-  color: #f5f3f5;
-  font-size: 2vmax;
-  text-align: center;
-  padding-top: 0.75rem;
-}
 
 
 .coach-two-text {
