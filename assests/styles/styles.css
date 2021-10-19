@@ -57,7 +57,7 @@ header a {
 
 .menu li {
   list-style: none;
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 300;
   padding-top: 1em;
   padding-bottom: 1em;
@@ -184,6 +184,7 @@ header a {
   font-size: 5rem;
   text-align: center;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 
@@ -282,77 +283,10 @@ header a {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Media Queries */
 
-/* Navigation */
-
-  /* @media screen and (min-width:768px) {
-    .menu {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-evenly;
-      width: 100%;
+@media screen and (max-width: 768px) {
+  .element {
+    /* Apply some styles */
   }
-
-    .menu a {
-      padding: 0 2vw;
-    }
-
-    .hero-container {
-      position: relative;
-    }
-
-    .hero-text {
-      position: absolute;
-      background-color: rgba(48, 43, 39, 0.52);
-      top: 6vh;
-      left: 6vh;
-      font-size: larger;
-      width: 275px;
-      height: 150px;
-    }
-
-    .about-us-info h2 {
-      padding-left: 25px;
-    }
-
-    .about-us-info li {
-      padding: 10px;
-    }
-
-
-
-  @media screen and (min-width:1200px) {
-    .hero-image {
-      height: 100vh;
-    }
-    
-    
-    .hero-text {
-      top: 12vh;
-      left: 12vh;
-      font-size: xx-large;
-      width: 400px;
-      height: 275px;
-    } 
-} */
+}
