@@ -234,19 +234,19 @@ header a {
 }
 
 .monday-times {
-  flex: 1;
+  order: 1;
   border: 5px solid black;
   padding: 1em;
 }
 
 .wednesday-times {
-  flex: 2;
+  order: 2;
   border: 5px solid black;
   padding: 1em;
 }
 
 .saturday-times {
-  flex: 3;
+  order: 3;
   border: 5px solid black;
   padding: 1em;
 }
