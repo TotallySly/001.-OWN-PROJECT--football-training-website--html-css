@@ -234,21 +234,23 @@ header a {
 }
 
 .monday-times {
-  order: 1;
   border: 5px solid black;
   padding: 1em;
 }
 
 .wednesday-times {
-  order: 2;
   border: 5px solid black;
   padding: 1em;
 }
 
 .saturday-times {
-  order: 3;
   border: 5px solid black;
   padding: 1em;
+}
+
+.times-container li {
+  list-style: none;
+  padding-bottom: 1em;
 }
 
 
