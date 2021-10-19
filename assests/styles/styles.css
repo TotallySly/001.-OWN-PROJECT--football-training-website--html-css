@@ -146,6 +146,7 @@ header a {
 .coach-one {
   flex: 1;
   border: 5px solid black;
+  padding: 1em;
 }
 
 .coach-one > img {
@@ -155,6 +156,7 @@ header a {
 .coach-two {
   flex: 2;
   border: 5px solid black;
+  padding: 1em;
 }
 
 .coach-two > img {
@@ -213,6 +215,14 @@ header a {
   padding: 1em;
 }
 
+#training-times h2 {
+  background-color: #576ca8;
+  color: #f5f3f5;
+  text-align: center;
+  font-size: 5rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
 
 
 
