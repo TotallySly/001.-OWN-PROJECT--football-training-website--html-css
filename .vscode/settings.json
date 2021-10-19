@@ -25,11 +25,15 @@
    "terminal.integrated.gpuAcceleration": "canvas",
    "editor.defaultFormatter": "HookyQR.beautify",
    "cSpell.words": [
+      "allowfullscreen",
       "assests",
       "colourful",
       "Gothenburg",
+      "Krutvägen",
       "Pexels",
+      "Prioritet",
       "Raleway",
+      "Serneke",
       "Wireframes"
    ],
    "[html]": {

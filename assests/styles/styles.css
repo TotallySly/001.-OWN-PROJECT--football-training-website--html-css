@@ -262,6 +262,20 @@ header a {
   text-align: center;  
 }
 
+.footer-container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #576ca8;  
+  color: #f5f3f5;
+  font-size: 2rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.footer-container a:hover {
+  background-color: rgba(27, 39, 80, 0.75);
+}
+
 
 
 
