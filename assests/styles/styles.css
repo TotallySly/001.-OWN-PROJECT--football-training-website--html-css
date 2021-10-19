@@ -282,3 +282,10 @@ header a {
 }
 
 
+  @media screen and (min-width: 320px) {
+    .logo {
+      font-size: 2rem;
+     }
+      
+    }
+  }
