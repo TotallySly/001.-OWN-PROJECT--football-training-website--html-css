@@ -33,9 +33,9 @@ header a {
   text-align: center;
   background-color: #1b264f;
   color: #f5f3f5;
-  font-size: 8rem;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  font-size: 4rem;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   width: 100%;
 }
 
@@ -44,8 +44,12 @@ header a {
   display: flex;
   flex-direction: row;   /* For Mobile Phone Devices */
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-evenly;
   background-color: #576ca8;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 .menu a {
@@ -57,10 +61,7 @@ header a {
 
 .menu li {
   list-style: none;
-  font-size: 3rem;
-  font-weight: 300;
-  padding-top: 1em;
-  padding-bottom: 1em;
+
 }
 
 .menu a:hover {
@@ -76,26 +77,26 @@ header a {
   max-width: 100%;
   background-color: #274690;
   color: #f5f3f5;
-  font-size: 3rem;
+  font-size: 1.6rem;
   line-height: 1.5;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   text-align: center;
 }
 
 .hero-image {
-  height: 80em;
+  height: 600px;
   width: 100%;
   background-image: url('../images/landing-image.png');
-  background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  background-size: cover;
 }
 
 #about-us h2 {
   font: 'Montserrat', sans-serif;
   background-color: #576ca8;
-  font-size: 5rem;
+  font-size: 4rem;
   padding-top: 1em;
   padding-bottom: 1em;
 }
@@ -103,21 +104,21 @@ header a {
 #about-us {
   background-color: #1b264f;
   color: #f5f3f5;
-  padding-bottom: 1em;
   text-align: center;
 }
 
 #about-us li{
-  font-size: 2.5rem;
+  font-size: 2rem;
   line-height: 1;
   font-weight: 300;
-  padding-top: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 
 .coach-contact h2 {
   color: #f5f3f5;
-  font-size: 5rem;
+  font-size: 3rem;
   text-align: center;
   padding-top: 1em;
   padding-bottom: 1em;
@@ -281,11 +282,3 @@ header a {
   color: #f5f3f5;
 }
 
-
-  @media screen and (min-width: 320px) {
-    .logo {
-      font-size: 2rem;
-     }
-      
-    }
-  }
