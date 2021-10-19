@@ -224,6 +224,13 @@ header a {
   padding-bottom: 1em;
 }
 
+.times-background {
+  background: url('/assests/images/training-times-background.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
 
 
 
