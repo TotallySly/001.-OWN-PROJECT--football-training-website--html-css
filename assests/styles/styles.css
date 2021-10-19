@@ -114,19 +114,14 @@ header a {
   padding-top: 1em;
 }
 
-.coach-contact {
-  text-align: center;
-  font-size: 1.6rem;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  color: #f5f3f5;
-  background-color: #576ca8;
-}
 
 .coach-contact h2 {
+  color: #f5f3f5;
   font-size: 5rem;
+  text-align: center;
   padding-top: 1em;
   padding-bottom: 1em;
+  background-color: #576ca8;
 }
 
 .coach-container {
@@ -141,6 +136,7 @@ header a {
   line-height: 1.5;
   font-size: 2.5rem;
   color: #f5f3f5;
+  width: 100%;
 }
 
 .coach-one {
@@ -224,13 +220,17 @@ header a {
   padding-bottom: 1em;
 }
 
-.times-background {
+.times-container {
+  display: flex;
+  justify-content: space-evenly;
   background: url('/assests/images/training-times-background.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   width: 100%;
 }
+
+
 
 
 
