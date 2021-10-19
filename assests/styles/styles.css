@@ -90,37 +90,41 @@ header a {
   background-position: center center;
 }
 
-.about-us {
+#about-us {
   background-color: #1b264f;
   color: #f5f3f5;
   padding-bottom: 2vh;
   text-align: center;
 }
 
-.about-us h2 {
+#about-us h2 {
   font: 'Montserrat', sans-serif;
-  background-color: rgba(39, 71, 144, 0.9);
+  background-color: #576ca8;
   font-size: 4vh;
   padding-top: 2vh;
   padding-bottom: 2vh;
 }
 
-.about-us p{
+#about-us p{
   font-size: 2.3vh;
   line-height: 2.5;
   font-weight: 300;
 }
 
 
-
-
-.coach-about-us {
+.coach-contact {
   text-align: center;
   font-size: 1.6rem;
   padding-top: 10px;
   padding-bottom: 10px;
   color: #f5f3f5;
-  background-color: rgba(39, 71, 144, 0.9);
+  background-color: #576ca8;
+}
+
+.coach-contact h2 {
+  font-size: 4vh;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
 }
 
 .coach-container {
@@ -133,6 +137,7 @@ header a {
   background-repeat: no-repeat;
   background-position: center center;
   line-height: 1.5;
+  font-size: 1.5vw;
   color: #f5f3f5;
 }
 
@@ -166,6 +171,15 @@ margin-right: 20px;
 
 .flex-colour li {
   list-style-type: none;
+}
+
+#prices h2 {
+  background-color: #576ca8;
+  color: #f5f3f5;
+  text-align: center;
+  font-size: 4vh;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
 }
 
 
