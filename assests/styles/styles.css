@@ -86,7 +86,7 @@ header a {
 .hero-image {
   height: 80em;
   width: 100%;
-  background-image: url('assests/images/landing-image.png');
+  background-image: url('../images/landing-image.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -129,7 +129,7 @@ header a {
   flex-direction: column;
   flex-wrap: wrap;
   align-content: center;
-  background-image: url('assests/images/coach-background.png');
+  background-image: url('../images/coach-background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -224,7 +224,7 @@ header a {
 .times-container {
   display: flex;
   justify-content: space-evenly;
-  background: url('assests/images/training-times-background.png');
+  background: url('../images/training-times-background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
