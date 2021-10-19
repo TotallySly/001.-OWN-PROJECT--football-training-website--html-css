@@ -182,6 +182,15 @@ margin-right: 20px;
   padding-bottom: 2vh;
 }
 
+.price-container {
+  background-color: #1b264f;
+  color: #f5f3f5;
+  font-size: 5vw;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
 
 
 
