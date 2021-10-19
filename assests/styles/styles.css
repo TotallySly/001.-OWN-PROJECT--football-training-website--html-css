@@ -3,6 +3,10 @@
 /* font-family: 'Montserrat', sans-serif;
 font-family: 'Raleway', sans-serif; */
 
+html {
+  font-size: 62.5%;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -12,29 +16,26 @@ font-family: 'Raleway', sans-serif; */
 
 body {
   font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  color: #302b27;
+  font-size: 1.6rem;
 }
 
 h1 {
   font-family: 'Montserrat', sans-serif;
-  letter-spacing: 1vw;
-  color: #1b264f;
+  letter-spacing: 1.5;
 }
 
 header a {
   text-decoration: none;
 }
 
-
 .logo {
   margin: 0 auto;
   text-align: center;
   background-color: #1b264f;
   color: #f5f3f5;
-  font-size: 15vmin;
-  padding-top: 10vh;
-  padding-bottom: 10vh;
+  font-size: 8rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
   width: 100%;
 }
 
@@ -56,9 +57,10 @@ header a {
 
 .menu li {
   list-style: none;
-  line-height: 2;
-  font-size: 3vh;
-  font-weight: 200;
+  font-size: 2rem;
+  font-weight: 300;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .menu a:hover {
@@ -74,15 +76,15 @@ header a {
   max-width: 100%;
   background-color: #274690;
   color: #f5f3f5;
-  font-size: 3vh;
+  font-size: 3rem;
   line-height: 1.5;
-  padding-top: 2vh;
-  padding-bottom: 2vh;
+  padding-top: 1em;
+  padding-bottom: 1em;
   text-align: center;
 }
 
 .hero-image {
-  height: 55vmax;
+  height: 80em;
   width: 100%;
   background-image: url('/assests/images/landing-image.png');
   background-size: cover;
@@ -90,26 +92,26 @@ header a {
   background-position: center center;
 }
 
-#about-us {
-  background-color: #1b264f;
-  color: #f5f3f5;
-  padding-bottom: 2vh;
-  text-align: center;
-}
-
 #about-us h2 {
   font: 'Montserrat', sans-serif;
   background-color: #576ca8;
-  font-size: 4vh;
-  padding-top: 2vh;
-  padding-bottom: 2vh;
+  font-size: 5rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#about-us {
+  background-color: #1b264f;
+  color: #f5f3f5;
+  padding-bottom: 1em;
+  text-align: center;
 }
 
 #about-us li{
-  font-size: 1.6rem;
-  line-height: 2.5;
+  font-size: 2.5rem;
+  line-height: 1;
   font-weight: 300;
-  padding-top: 15px;
+  padding-top: 1em;
 }
 
 .coach-contact {
@@ -122,9 +124,9 @@ header a {
 }
 
 .coach-contact h2 {
-  font-size: 4vh;
-  padding-top: 2vh;
-  padding-bottom: 2vh;
+  font-size: 5rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .coach-container {
@@ -137,7 +139,7 @@ header a {
   background-repeat: no-repeat;
   background-position: center center;
   line-height: 1.5;
-  font-size: 1.5vw;
+  font-size: 2.5rem;
   color: #f5f3f5;
 }
 
@@ -147,7 +149,7 @@ header a {
 }
 
 .coach-one > img {
-  height: 50vh;
+  height: 15em;
 }
 
 .coach-two {
@@ -156,13 +158,13 @@ header a {
 }
 
 .coach-two > img {
-  height: 50vh;
+  height: 15em;
 }
 
 .flex-colour {
   background-color: rgba(39, 71, 144, 0.9);
   text-align: center;
-  margin: 100px;
+  margin: 5em;
 }
 
 .flex-colour li {
@@ -173,15 +175,15 @@ header a {
   background-color: #576ca8;
   color: #f5f3f5;
   text-align: center;
-  font-size: 4vh;
-  padding-top: 2vh;
-  padding-bottom: 2vh;
+  font-size: 5rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .price-container {
   background-color: #1b264f;
   color: #f5f3f5;
-  font-size: 5vw;
+  font-size: 5rem;
   text-align: center;
   display: flex;
   justify-content: space-around;
@@ -189,26 +191,26 @@ header a {
 
 .price-container li {
   list-style: none;
-  padding-bottom: 100px;
+  padding-bottom: 1em;
 }
 
 .one-session {
   background-color: #274690;
-  margin: 100px;
-  padding: 50px;
+  margin: 2em;
+  padding: 1em;
 }
   
 
 .five-sessions {
   background-color: #274690;
-  margin: 100px;
-  padding: 50px;
+  margin: 2em;
+  padding: 1em;
 }
 
 .ten-sessions {
   background-color: #274690;
-  margin: 100px;
-  padding: 50px;
+  margin: 2em;
+  padding: 1em;
 }
 
 
