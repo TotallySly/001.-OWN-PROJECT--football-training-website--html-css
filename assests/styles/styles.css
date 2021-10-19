@@ -186,7 +186,7 @@ margin-right: 20px;
   background-color: #1b264f;
   color: #f5f3f5;
   font-size: 5vw;
-  line-height: 3;
+  line-height: 1.5;
   text-align: center;
   display: flex;
   justify-content: space-around;
@@ -196,7 +196,20 @@ margin-right: 20px;
   list-style: none;
 }
 
+.one-session {
+  background-color: #274690;
+  margin: 100px;
+}
 
+.five-sessions {
+  background-color: #274690;
+  margin: 100px;
+}
+
+.ten-sessions {
+  background-color: #274690;
+  margin: 100px;
+}
 
 
 
