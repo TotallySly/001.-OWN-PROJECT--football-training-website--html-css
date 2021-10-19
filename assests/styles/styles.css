@@ -282,11 +282,3 @@ header a {
 }
 
 
-
-/* Media Queries */
-
-@media screen and (max-width: 768px) {
-  .element {
-    /* Apply some styles */
-  }
-}
