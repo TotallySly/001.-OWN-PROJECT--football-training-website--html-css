@@ -105,12 +105,12 @@ header a {
   padding-bottom: 2vh;
 }
 
-#about-us p{
-  font-size: 2.3vh;
+#about-us li{
+  font-size: 1.6rem;
   line-height: 2.5;
   font-weight: 300;
+  padding-top: 15px;
 }
-
 
 .coach-contact {
   text-align: center;
@@ -150,10 +150,6 @@ header a {
   height: 50vh;
 }
 
-/* .coach-one:first-child {
-margin-right: 20px;
-} */
-
 .coach-two {
   flex: 2;
   border: 5px solid black;
@@ -186,7 +182,6 @@ margin-right: 20px;
   background-color: #1b264f;
   color: #f5f3f5;
   font-size: 5vw;
-  line-height: 1.5;
   text-align: center;
   display: flex;
   justify-content: space-around;
@@ -194,21 +189,26 @@ margin-right: 20px;
 
 .price-container li {
   list-style: none;
+  padding-bottom: 100px;
 }
 
 .one-session {
   background-color: #274690;
   margin: 100px;
+  padding: 50px;
 }
+  
 
 .five-sessions {
   background-color: #274690;
   margin: 100px;
+  padding: 50px;
 }
 
 .ten-sessions {
   background-color: #274690;
   margin: 100px;
+  padding: 50px;
 }
 
 
