@@ -42,11 +42,11 @@ header a {
 .menu {
   width: 100%;
   display: flex;
-  flex-direction: row;   /* For Mobile Phone Devices */
+  flex-direction: row; 
   flex-wrap: wrap;
   justify-content: space-evenly;
   background-color: #576ca8;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-size: 1.6rem;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
@@ -79,7 +79,7 @@ header a {
   color: #f5f3f5;
   font-size: 1.6rem;
   line-height: 1.5;
-  padding-top: 0.5em;
+  padding-top: 1em;
   padding-bottom: 0.5em;
   text-align: center;
 }
@@ -98,33 +98,31 @@ header a {
   background-color: #576ca8;
   font-size: 3rem;
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 0.5em;
 }
 
 .about-us-container {
-  display: flex;
   background-color: #1b264f;
   color: #f5f3f5;
-  font-size: 5rem;
-  text-align: center;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-around;
 }
 
-/* #about-us {
+#about-us {
   background-color: #1b264f;
   color: #f5f3f5;
   text-align: center;
 }
 
 #about-us li{
-  font-size: 2rem;
+  list-style-type: none;
+  font-size: 1.8rem;
   line-height: 1;
   font-weight: 300;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-} */
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+}
 
 
 .coach-contact h2 {
@@ -132,7 +130,7 @@ header a {
   font-size: 3rem;
   text-align: center;
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 0.5em;
   background-color: #576ca8;
 }
 
@@ -146,7 +144,7 @@ header a {
   background-repeat: no-repeat;
   background-position: center center;
   line-height: 1.5;
-  font-size: 2.5rem;
+  font-size: 1.8rem;
   color: #f5f3f5;
   width: 100%;
 }
@@ -183,15 +181,15 @@ header a {
   background-color: #576ca8;
   color: #f5f3f5;
   text-align: center;
-  font-size: 5rem;
+  font-size: 3rem;
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 0.5em;
 }
 
 .price-container {
   background-color: #1b264f;
   color: #f5f3f5;
-  font-size: 5rem;
+  font-size: 2.5rem;
   text-align: center;
   display: flex;
   flex-wrap: wrap;
@@ -200,7 +198,7 @@ header a {
 
 .price-container li {
   list-style: none;
-  padding-bottom: 1em;
+  padding-bottom: 0.75em;
 }
 
 .one-session {
@@ -226,9 +224,9 @@ header a {
   background-color: #576ca8;
   color: #f5f3f5;
   text-align: center;
-  font-size: 5rem;
+  font-size: 3rem;
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 0.5em;
 }
 
 .times-container {
@@ -240,7 +238,7 @@ header a {
   background-position: center center;
   color: #f5f3f5;
   line-height: 1.5;
-  font-size: 2.5rem;
+  font-size: 2rem;
   width: 100%;
 }
 
@@ -261,15 +259,15 @@ header a {
 
 .times-container li {
   list-style: none;
-  padding-bottom: 1em;
+  padding-bottom: 0.75em;
 }
 
 .address {
   background-color: #274690;
   color: #f5f3f5;
-  font-size: 2rem;
+  font-size: 1.6rem;
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 0.5em;
   text-align: center;  
 }
 
@@ -278,7 +276,7 @@ header a {
   justify-content: space-evenly;
   background-color: #576ca8;  
   color: #f5f3f5;
-  font-size: 3rem;
+  font-size: 2rem;
   padding-top: 1em;
   padding-bottom: 0.5em;
 }
