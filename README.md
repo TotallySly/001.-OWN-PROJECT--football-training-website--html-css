@@ -283,9 +283,14 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 https://thoughtbot.com/blog/positioning#position
 https://coder-coder.com/display-divs-side-by-side/#flexbox-method
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-sizing--cms-31948
 https://gist.github.com/basham/2175a16ab7c60ce8e001
 https://blog.duda.co/responsive-google-maps-for-your-website
+
+http://www.responsivepx.com/
+
+https://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile
 
 https://www.youtube.com/watch?v=Vef9bxTilCU&ab_channel=DarkCode - SCROLL TO TOP BUTTON
   - 
