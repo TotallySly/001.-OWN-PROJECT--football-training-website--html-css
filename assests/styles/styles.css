@@ -46,7 +46,6 @@ header a {
   flex-wrap: wrap;
   justify-content: space-evenly;
   background-color: #576ca8;
-  /* text-transform: uppercase; */
   font-size: 1.6rem;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
@@ -282,6 +281,7 @@ header a {
 }
 
 .footer-container li {
+  color: #f5f3f5;
   list-style: none;
 }
 
@@ -289,3 +289,37 @@ header a {
   color: #f5f3f5;
 }
 
+
+
+
+
+
+
+  @media screen and (max-width: 876px) {
+
+    .times-container {
+        display: flex;
+        flex-direction: column;
+      }
+  }
+
+    @media screen and (min-width: 876px) and (max-width: 964px) {
+
+      .times-container {
+        font-size: 1.7rem;
+      }
+    }
+
+    @media screen and (min-width: 964px) and (max-width: 1024px) {
+
+      .times-container {
+        font-size: 1.6rem;
+      }
+    }
+
+    @media screen and (min-width: 1024px) {
+
+      .times-container {
+        font-size: 1.9rem;
+      }
+    }
