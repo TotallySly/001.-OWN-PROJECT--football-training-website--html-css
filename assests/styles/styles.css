@@ -133,6 +133,11 @@ header a {
   background-color: #576ca8;
 }
 
+.bold {
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
 .coach-container {
   display: flex;
   flex-direction: column;
