@@ -302,5 +302,24 @@ header a {
     .times-container {
         display: flex;
         flex-direction: column;
+        align-content: center;
+      }
+  }
+
+  @media screen and (max-width: 768px) {
+
+    .coach-container {
+        font-size: 1.3rem;
+      }
+  }
+
+  @media screen and (max-width: 425px) {
+
+    .coach-container {
+        font-size: 1.3rem;
+      }
+
+      .invisible {
+        display: none;
       }
   }
