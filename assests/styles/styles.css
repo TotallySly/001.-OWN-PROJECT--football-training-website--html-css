@@ -323,3 +323,19 @@ header a {
         display: none;
       }
   }
+
+  @media screen and (max-width: 1024px) {
+
+    .hero-image {
+        height: 400px;
+      }
+  }
+
+
+  @media screen and (max-width: 768px) {
+
+    .hero-image {
+      height: 300px;
+      }
+  }
+
