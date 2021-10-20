@@ -328,6 +328,26 @@ header a {
     background-position: center center;
   }
 
+  .signup-form {
+
+    color: #f5f3f5;
+    background: rgba(39, 71, 144, 0.9);
+    width: 33%;
+  }
+
+  .signup-form h2 {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+  }
+
+  legend {
+    font-weight: 800;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+  }
+
+
 
 
 
