@@ -311,13 +311,6 @@ header a {
       }
   }
 
-  @media screen and (max-width: 768px) {
-
-    .coach-container {
-        font-size: 1.3rem;
-      }
-  }
-
   @media screen and (max-width: 425px) {
 
     .coach-container {
