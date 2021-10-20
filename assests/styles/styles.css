@@ -230,6 +230,8 @@ header a {
 
 .times-container {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-evenly;
   background: url('../images/training-times-background.png');
   background-size: cover;
@@ -295,31 +297,10 @@ header a {
 
 
 
-  @media screen and (max-width: 876px) {
+  @media screen and (max-width: 768px) {
 
     .times-container {
         display: flex;
         flex-direction: column;
       }
   }
-
-    @media screen and (min-width: 876px) and (max-width: 964px) {
-
-      .times-container {
-        font-size: 1.7rem;
-      }
-    }
-
-    @media screen and (min-width: 964px) and (max-width: 1024px) {
-
-      .times-container {
-        font-size: 1.6rem;
-      }
-    }
-
-    @media screen and (min-width: 1024px) {
-
-      .times-container {
-        font-size: 1.9rem;
-      }
-    }
