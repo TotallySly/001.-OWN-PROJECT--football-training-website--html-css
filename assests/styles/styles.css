@@ -329,13 +329,17 @@ header a {
   }
 
   .signup-form {
-
     color: #f5f3f5;
     background: rgba(39, 71, 144, 0.9);
     width: 33%;
+    position: absolute;
+    top: 10em;
+    left: 15em;
+    line-height: 1.5;
   }
 
   .signup-form h2 {
+    background-color: #576ca8;
     text-align: center;
     padding-top: 1em;
     padding-bottom: 0.5em;
@@ -345,6 +349,7 @@ header a {
     font-weight: 800;
     padding-top: 1em;
     padding-bottom: 0.5em;
+    padding-left: 1em;
   }
 
 
