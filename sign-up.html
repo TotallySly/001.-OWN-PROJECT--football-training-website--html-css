@@ -44,12 +44,17 @@
         <h2>Sign Up Your Children!</h2>
 
         <fieldset>
+
+          <!-- parent Name -->
+
           <legend>Parent/Guardian Information</legend>
           <label for="pfname">Parent's First Name</label>
           <input id="pfname" name="parents_first_name" type="text" required>
 
           <label for="plname">Parent's First Name</label>
           <input id="plname" name="parents_last_name" type="text" required>
+
+          <!-- Emergency -->
 
           <label for="ecname">Emergency Contact Name</label>
           <input id="ecname" name="emergency_contact_name" type="text" required>
@@ -59,6 +64,9 @@
         </fieldset>
 
         <fieldset>
+
+          <!-- which day -->
+
           <legend>Child(ren) Information</legend>
           <label for="monday">Monday</label>
           <input id="monday" name="which_training_session" type="radio" value="monday" required>
@@ -75,45 +83,15 @@
           <label for="wedsat">Wednesday & Saturday</label>
           <input id="wedsat" name="which_training_session" type="radio" value="wednesday_saturday" required>
 
-          <!-- child -->
+          <!-- child 1-->
 
-          <label for="cfname">Child's First Name</label>
+          <label for="cfname">Child's First Name: </label>
           <input id="cfname" name="child1_first_name" type="text" required>
 
-          <label for="clname">Child's First Name:</label>
+          <label for="clname">Child's Last Name: </label>
           <input id="clname" name="child1_last_name" type="text" required>
 
-          <label for="age">Child's Age:</label>
-          <select name="age" id="age">
-            <option value="7" selected>7</option>
-            <option value="8">8</option>
-            <option value="9">9</option>
-            <option value="10">10</option>
-          </select>
-
-          <p>If you have more than one child!</p>
-
-          <label for="cfname">Child's First Name</label>
-          <input id="cfname" name="child2_first_name" type="text">
-
-          <label for="clname">Child's First Name</label>
-          <input id="clname" name="child2_last_name" type="text">
-
-          <label for="age">Child's Age:</label>
-          <select name="age" id="age">
-            <option value="7" selected>7</option>
-            <option value="8">8</option>
-            <option value="9">9</option>
-            <option value="10">10</option>
-          </select>
-
-          <label for="cfname">Child's First Name</label>
-          <input id="cfname" name="child3_first_name" type="text">
-
-          <label for="clname">Child's First Name</label>
-          <input id="clname" name="child3_last_name" type="text">
-
-          <label for="age">Child's Age:</label>
+          <label for="age">Child's Age: </label>
           <select name="age" id="age">
             <option value="7" selected required>7</option>
             <option value="8">8</option>
@@ -121,13 +99,17 @@
             <option value="10">10</option>
           </select>
 
-          <label for="cfname">Child's First Name</label>
-          <input id="cfname" name="child4_first_name" type="text">
+          <!-- child 2 -->
 
-          <label for="clname">Child's First Name</label>
-          <input id="clname" name="child4_last_name" type="text">
+          <p>If you have more than one child!</p>
 
-          <label for="age">Child's Age:</label>
+          <label for="cfname">Child's First Name: </label>
+          <input id="cfname" name="child2_first_name" type="text">
+
+          <label for="clname">Child's Last Name: </label>
+          <input id="clname" name="child2_last_name" type="text">
+
+          <label for="age">Child's Age: </label>
           <select name="age" id="age">
             <option value="7" selected>7</option>
             <option value="8">8</option>
@@ -135,7 +117,38 @@
             <option value="10">10</option>
           </select>
 
+          <!-- child 3 -->
 
+          <label for="cfname">Child's First Name: </label>
+          <input id="cfname" name="child3_first_name" type="text">
+
+          <label for="clname">Child's Last Name: </label>
+          <input id="clname" name="child3_last_name" type="text">
+
+          <label for="age">Child's Age: </label>
+          <select name="age" id="age">
+            <option value="7" selected>7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select>
+
+          <!-- child 4 -->
+
+          <label for="cfname">Child's First Name: </label>
+          <input id="cfname" name="child4_first_name" type="text">
+
+          <label for="clname">Child's Last Name: </label>
+          <input id="clname" name="child4_last_name" type="text">
+
+          <label for="age">Child's Age: </label>
+          <select name="age" id="age">
+            <option value="7" selected>7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select>
+          <input value="submit" type="submit">
         </fieldset>
 
 
