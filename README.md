@@ -286,6 +286,8 @@ https://coder-coder.com/display-divs-side-by-side/#flexbox-method
 https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-sizing--cms-31948
 https://gist.github.com/basham/2175a16ab7c60ce8e001
 https://blog.duda.co/responsive-google-maps-for-your-website
+
+https://www.youtube.com/watch?v=Vef9bxTilCU&ab_channel=DarkCode - SCROLL TO TOP BUTTON
   - 
   - Icons where via the amazing website - [Font Awesome](https://fontawesome.com/).
   - The colour palette was from [Coolors](https://coolors.co/)
