@@ -341,7 +341,7 @@ header a {
       }
   }
 
-  @media screen and (max-width: 351px) {
+  @media screen and (max-width: 368px) {
 
     .menu {
       display: flex;
