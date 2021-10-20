@@ -12,6 +12,7 @@ html {
   padding: 0;
   box-sizing: border-box;
   border: none;
+  letter-spacing: 1px;
 }
 
 body {
@@ -116,7 +117,7 @@ header a {
 
 #about-us li{
   list-style-type: none;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   line-height: 1;
   font-weight: 300;
   padding-top: 0.75em;
@@ -148,13 +149,13 @@ header a {
   background-repeat: no-repeat;
   background-position: center center;
   line-height: 1.5;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   color: #f5f3f5;
   width: 100%;
 }
 
 .coach-one {
-  border: 5px solid black;
+  border: 5px solid #302b27;
   padding: 1em;
 }
 
@@ -163,7 +164,7 @@ header a {
 }
 
 .coach-two {
-  border: 5px solid black;
+  border: 5px solid #302b27;
   padding: 1em;
 }
 
@@ -207,6 +208,7 @@ header a {
 
 .one-session {
   background-color: #274690;
+  border: 5px solid #302b27;
   margin: 2em;
   padding: 1em;
 }
@@ -214,12 +216,14 @@ header a {
 
 .five-sessions {
   background-color: #274690;
+  border: 5px solid #302b27;
   margin: 2em;
   padding: 1em;
 }
 
 .ten-sessions {
   background-color: #274690;
+  border: 5px solid #302b27;
   margin: 2em;
   padding: 1em;
 }
@@ -249,17 +253,17 @@ header a {
 }
 
 .monday-times {
-  border: 5px solid black;
+  border: 5px solid #302b27;
   padding: 1em;
 }
 
 .wednesday-times {
-  border: 5px solid black;
+  border: 5px solid #302b27;
   padding: 1em;
 }
 
 .saturday-times {
-  border: 5px solid black;
+  border: 5px solid #302b27;
   padding: 1em;
 }
 
