@@ -318,6 +318,34 @@ header a {
 }
 
 
+  /* sign-up */
+
+  .signup-background {
+    background-image: url('/assests/images/signup-background.png');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -365,4 +393,5 @@ header a {
       flex-direction: column;
       }
   }
+
 
