@@ -339,3 +339,11 @@ header a {
       }
   }
 
+  @media screen and (max-width: 324px) {
+
+    .menu {
+      display: flex;
+      flex-direction: column;
+      }
+  }
+
