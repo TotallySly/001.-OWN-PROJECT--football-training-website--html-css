@@ -320,13 +320,32 @@ header a {
 
   /* sign-up */
 
-  .signup-background {
+  .form-section {
+    clear: left;
     background-image: url('/assests/images/signup-background.png');
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
   }
+
+  .signup-form {
+    margin: 9em 10% 0 0;
+    color: #f5f3f5;
+    background-color: rgba(39, 71, 144, 0.9);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 3em;
+  }
+
+  .signup-form h2 {
+    margin-bottom: 20px;
+  }
+
+  
+
+
 
 
 
