@@ -333,7 +333,7 @@ header a {
   font-size: 1.4rem;
   color: #f5f3f5;
   position: absolute;
-  width: 60em;
+  width: 42em;
   top: 2em;
   left: 2em;
   border: #302b27 1px solid;
@@ -356,7 +356,6 @@ header a {
 
 legend {
   background-color: #576ca8;
-  /* text-align: center; */
   padding-left: 1em;
   padding-right: 1em;
   margin-left: 0.5em;
@@ -392,7 +391,7 @@ fieldset {
 
 #submitbtn {
   margin-top: 0.5em;
-  margin-left: 5em;
+  margin-left: 15em;
   padding: 0.2em 0.4em 0.2em 0.4em;
 } 
 
