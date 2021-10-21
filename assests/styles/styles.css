@@ -321,7 +321,6 @@ header a {
 
 .form-background {
   position: relative;
-  /* background-color: #1b264f; */
   background-image: url('/assests/images/signup-background.png');
   background-size: cover;
   background-repeat: no-repeat;
@@ -336,7 +335,7 @@ header a {
   color: #f5f3f5;
   width: 20em;
   top: 2em;
-  left: 2rem;
+  left: 2em;
 }
 
 .signup-pg-header  h2{
@@ -374,66 +373,71 @@ header a {
 
 
 
+/* !!!!!!!!!!!!BRING DOWN THE FORM ON MOBILE DEVICES. MAKE IT MORE RESPONSIVE FOR VARIOUS DEVICES!!!!!!!!!!!!!!!!!! */
 
+    @media only screen and (max-width: 368px) {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  @media screen and (max-width: 768px) {
-
-    .times-container {
+      .nav {
         display: flex;
         flex-direction: column;
-        align-content: center;
-      }
-  }
+        }
 
-  @media screen and (max-width: 425px) {
-
-    .coach-container {
-        font-size: 1.3rem;
       }
 
-      .invisible {
-        display: none;
+      @media only screen and (max-width: 374px) {
+
+        .signup-pg-header  h2{
+          font-size: 1.3rem;
+        }
+
+        .signup-container {
+          font-size: 1.2rem;
+          }
+
+        .input-size {
+          display: block;
+          width: 12em;
+          margin-top: 0.2em;
+          border: 1px solid #302b27;
+          border-radius: 0.1em;
+          padding: 0.1em;
+        }
+  
       }
-  }
+        
+      @media screen and (max-width: 425px) {
 
-  @media screen and (max-width: 1024px) {
+      .coach-container {
+          font-size: 1.3rem;
+        }
 
-    .hero-image {
-        height: 400px;
+        .invisible {
+          display: none;
+        }
+
+        @media screen and (max-width: 768px) {
+        .hero-image {
+              height: 300px;
+          }
+      
+          .times-container {
+            display: flex;
+              flex-direction: column;
+              align-content: center;
+            }
+          }
+
+        @media screen and (max-width: 1024px) {
+
+          .hero-image {
+              height: 400px;
+            }
+
+          .signup-container {
+            position: absolute;
+            top: 10em;
+            left: 30em;
+          }
+            
+        }
       }
-  }
-
-
-  @media screen and (max-width: 768px) {
-
-    .hero-image {
-      height: 300px;
-      }
-  }
-
-  @media screen and (max-width: 368px) {
-
-    .menu {
-      display: flex;
-      flex-direction: column;
-      }
-  }
-
-
