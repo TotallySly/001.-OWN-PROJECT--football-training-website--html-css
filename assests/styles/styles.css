@@ -327,19 +327,20 @@ header a {
 
 .signup-container {
   position: absolute;
+  font-size: 1.4rem;
   color: #f5f3f5;
-  width: 100%;
-  top: 8rem;
-  left: 5rem;
+  width: 20em;
+  top: 2em;
+  left: 2rem;
 }
 
 .signup-pg-header  h2{
   font-size: 1.6rem;
   background-color: #576ca8;
+  margin-left: 1.7em;
   padding-top: 1em;
-  margin-left: 2em;
+  padding-left: 0.3em;
   padding-bottom: 0.5em;
-  text-align: center;
 }
 
 .form-input {
@@ -350,7 +351,7 @@ header a {
 
 .input-size {
   display: block;
-  width: 16%;
+  width: 17em;
   margin-top: 0.4em;
   border: 1px solid #302b27;
   border-radius: 0.2em;
