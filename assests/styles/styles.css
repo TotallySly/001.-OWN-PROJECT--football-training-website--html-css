@@ -335,16 +335,18 @@ header a {
 }
 
 .signup-pg-header  h2{
+  display: inline-block;
   font-size: 1.6rem;
   background-color: #576ca8;
   margin-left: 1.7em;
   padding-top: 1em;
   padding-left: 0.3em;
   padding-bottom: 0.5em;
+  padding-right: 4em;
 }
 
 .form-input {
-  margin-top: 0;
+  margin-top: 0.5em;
   margin-left: 2em;
   margin-bottom: 0.5em;
 }
