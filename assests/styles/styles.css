@@ -380,6 +380,9 @@ header a {
         display: flex;
         flex-direction: column;
         }
+      .nav a {
+        padding: 0.3em;
+        }
       }
 
     @media only screen and (max-width: 374px) {
