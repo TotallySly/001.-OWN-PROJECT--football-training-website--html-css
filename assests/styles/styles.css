@@ -321,7 +321,7 @@ header a {
 
 .form-background {
   position: relative;
-  background-image: url('/assests/images/signup-background.png');
+  background-image: url('../images/signup-background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
