@@ -337,6 +337,9 @@ header a {
   top: 2em;
   left: 2em;
   border: #302b27 1px solid;
+  /* display: flex;
+  flex-direction: column;
+  flex-wrap: wrap; */
 }
 
 .signup-pg-header  h2{
@@ -367,7 +370,6 @@ fieldset {
 } 
 
 .float-left {
-  display: inline;
   float: left;
 }
 
@@ -451,6 +453,36 @@ fieldset {
 
       }
 
+      @media screen and (max-width: 664px) {
+
+        fieldset {
+          display: block;
+        }
+
+        .signup-container {
+            float: none;
+            width: 19em;
+          }
+
+          .float-left {
+            float: none;
+          }
+          
+          .float-right {
+            float: none;
+            margin: 0;
+          }
+
+          #submitbtn {
+            margin-top: 0.5em;
+            margin-left: 5em;
+            padding: 0.2em 0.4em 0.2em 0.4em;
+          } 
+
+
+      }
+
+      
       @media screen and (max-width: 768px) {
         .hero-image {
             height: 300px;
