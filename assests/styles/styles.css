@@ -413,14 +413,6 @@ legend {
           font-size: 1.2rem;
         }
 
-        legend {
-          display: none;
-        }
-
-        .form-input {
-          margin-bottom: 0;
-        }
-
         .input-size {
           display: block;
           width: 12em;
@@ -451,6 +443,16 @@ legend {
             flex-direction: column;
             align-content: center;
           }
+
+          legend {
+            display: none;
+          }
+
+          .form-input {
+            margin-bottom: 0;
+          }
+  
+
         }
 
       @media screen and (min-width: 768px) and (max-width: 1024px) {
