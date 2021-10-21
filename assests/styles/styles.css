@@ -326,6 +326,7 @@ header a {
 }
 
 .signup-container {
+  background-color: rgba(39, 71, 144, 0.9);
   position: absolute;
   font-size: 1.4rem;
   color: #f5f3f5;
@@ -335,14 +336,11 @@ header a {
 }
 
 .signup-pg-header  h2{
-  display: inline-block;
   font-size: 1.6rem;
   background-color: #576ca8;
-  margin-left: 1.7em;
   padding-top: 1em;
-  padding-left: 0.3em;
   padding-bottom: 0.5em;
-  padding-right: 4em;
+  text-align: center;
 }
 
 .form-input {
