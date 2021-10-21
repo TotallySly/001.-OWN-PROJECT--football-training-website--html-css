@@ -336,6 +336,7 @@ header a {
   width: 20em;
   top: 2em;
   left: 2em;
+  border: #302b27 1px solid;
 }
 
 .signup-pg-header  h2{
@@ -349,17 +350,17 @@ header a {
 
 .form-input {
   margin-top: 0.5em;
-  margin-left: 2em;
+  margin-left: 3em;
   margin-bottom: 1em;
 }
 
 legend {
   background-color: #576ca8;
-  border: solid 1px #302b27;
-  border-radius: 0.8em;
   /* text-align: center; */
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: 0.5em;
+  font-size: 1.4rem;
 }
 
 .input-size {
