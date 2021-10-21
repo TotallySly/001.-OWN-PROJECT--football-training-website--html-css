@@ -340,6 +340,7 @@ header a {
 
 .signup-pg-header  h2{
   font-size: 1.6rem;
+  margin-bottom: 1em;
   background-color: #576ca8;
   padding-top: 1em;
   padding-bottom: 0.5em;
@@ -349,7 +350,16 @@ header a {
 .form-input {
   margin-top: 0.5em;
   margin-left: 2em;
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
+}
+
+legend {
+  background-color: #576ca8;
+  border: solid 1px #302b27;
+  border-radius: 0.8em;
+  /* text-align: center; */
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 .input-size {
@@ -394,11 +404,20 @@ header a {
       }
       
       .signup-pg-header  h2 {
+      margin-bottom: 0;
       font-size: 1.3rem;
       }
 
       .signup-container {
           font-size: 1.2rem;
+        }
+
+        legend {
+          display: none;
+        }
+
+        .form-input {
+          margin-bottom: 0;
         }
 
         .input-size {
