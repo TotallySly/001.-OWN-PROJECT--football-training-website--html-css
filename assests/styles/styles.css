@@ -318,7 +318,12 @@ header a {
 }
 
 
-
+.form-background-image {
+  background-image: url('/assests/images/signup-background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
 
 
