@@ -13,10 +13,7 @@
 </head>
 
 <body>
-
-
   <!-- Header -->
-
   <header>
     <a href="index.html" aria-label="Go to the homepage">
       <h1 class="logo">The English Football Club</h1>
@@ -37,33 +34,32 @@
       </ul>
     </div>
   </nav>
-
-
-
-
-
-
+  <!-- Sign-Up Form Background Image -->
   <div class="form-background">
+    <!-- Sign Up Form Container -->
     <section class="signup-container">
+      <!-- Sign-Up Form Header -->
       <header class="signup-pg-header">
         <h2>Sign Your Child Up!</h2>
       </header>
+      <!-- Sign-Up Form -->
       <form action="#" method="POST">
-        <div class="form-input">
-          <label for="pfname">Parent's First Name: </label>
-          <input id="pfname" name="parents_first_name" type="text" placeholder="Enter your first name"
-            class="input-size" required>
-        </div>
-        <div class="form-input">
-          <label for="plname">Parent's First Name: </label>
-          <input id="plname" name="parents_last_name" type="text" placeholder="Enter your last name" class="input-size"
-            required>
-        </div>
-        <div class="form-input">
-          <label for="email">Parent's E-Mail: </label>
-          <input id="email" name="email" type="email" placeholder="Enter your email" class="input-size" required>
-        </div>
-
+        <fieldset>
+          <div class="form-input">
+            <label for="pfname">Parent's First Name: </label>
+            <input id="pfname" name="parents_first_name" type="text" placeholder="Enter your first name"
+              class="input-size" required>
+          </div>
+          <div class="form-input">
+            <label for="plname">Parent's First Name: </label>
+            <input id="plname" name="parents_last_name" type="text" placeholder="Enter your last name"
+              class="input-size" required>
+          </div>
+          <div class="form-input">
+            <label for="email">Parent's E-Mail: </label>
+            <input id="email" name="email" type="email" placeholder="Enter your email" class="input-size" required>
+          </div>
+        </fieldset>
         <div class="form-input">
           <label for="ecname">Emergency Contact Name: </label>
           <input id="ecname" name="emergency_contact_name" type="text" placeholder="Enter emergency name"
