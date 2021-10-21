@@ -337,30 +337,51 @@ header a {
     height: 100vh;
   }
 
-  .signup-form {
+  .flexbox {
+    display: flex;
+    background-color: #302b27;
+    color: #f5f3f5;
+    /* width: 30%; */
+  }
+
+  .parent-flex {
+    border: 5px solid #302b27;
+    padding: 1em;
+    width: 30%;
+    font-size: 1.4rem;
+  }
+
+
+
+
+
+
+
+
+  /* .signup-form {
     color: #f5f3f5;
     background: rgba(39, 71, 144, 0.9);
     width: 33%;
     top: 10em;
     left: 15em;
     line-height: 1.5;
-  }
+  } */
 
   /* .flexbox {
     display: flex;
   } */
 
 
-  legend {
+  /* legend {
     font-weight: 800;
     padding-top: 1em;
     padding-bottom: 0.5em;
     padding-left: 1em;
-  }
+  } */
 
-  .float-container-two {
+  /* .float-container-two {
     background-color: #302b27;
-  }
+  } */
 
 
 
