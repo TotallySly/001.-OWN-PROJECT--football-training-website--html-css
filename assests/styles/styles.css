@@ -330,9 +330,9 @@ header a {
 
 .signup-container {
   background-color: rgba(39, 71, 144, 0.9);
-  position: absolute;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   color: #f5f3f5;
+  position: absolute;
   width: 20em;
   top: 2em;
   left: 2em;
@@ -376,23 +376,20 @@ header a {
 /* !!!!!!!!!!!!BRING DOWN THE FORM ON MOBILE DEVICES. MAKE IT MORE RESPONSIVE FOR VARIOUS DEVICES!!!!!!!!!!!!!!!!!! */
 
     @media only screen and (max-width: 368px) {
-
       .nav {
         display: flex;
         flex-direction: column;
         }
-
       }
 
-      @media only screen and (max-width: 374px) {
+    @media only screen and (max-width: 374px) {
+      .signup-pg-header  h2 {
+      font-size: 1.3rem;
+      }
 
-        .signup-pg-header  h2{
-          font-size: 1.3rem;
-        }
-
-        .signup-container {
+      .signup-container {
           font-size: 1.2rem;
-          }
+        }
 
         .input-size {
           display: block;
@@ -402,11 +399,9 @@ header a {
           border-radius: 0.1em;
           padding: 0.1em;
         }
-  
       }
         
       @media screen and (max-width: 425px) {
-
       .coach-container {
           font-size: 1.3rem;
         }
@@ -414,30 +409,39 @@ header a {
         .invisible {
           display: none;
         }
+      }
 
-        @media screen and (max-width: 768px) {
+      @media screen and (max-width: 768px) {
         .hero-image {
-              height: 300px;
+            height: 300px;
           }
       
-          .times-container {
-            display: flex;
-              flex-direction: column;
-              align-content: center;
-            }
+        .times-container {
+          display: flex;
+            flex-direction: column;
+            align-content: center;
           }
+        }
 
-        @media screen and (max-width: 1024px) {
-
-          .hero-image {
-              height: 400px;
-            }
-
-          .signup-container {
-            position: absolute;
-            top: 10em;
-            left: 30em;
-          }
-            
+      @media screen and (min-width: 768px) and (max-width: 1024px) {
+        .signup-container {
+          left: 10em;
+          width: 20em;
         }
       }
+
+      @media screen and (max-width: 1024px) {
+        .hero-image {
+          height: 400px;
+          }       
+        }
+
+      @media screen and (min-width: 1024px) {
+        .signup-container {
+          left: 25em;
+          width: 20em;
+        }
+        
+      }
+
+    }
