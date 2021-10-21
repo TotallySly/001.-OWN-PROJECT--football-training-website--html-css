@@ -45,36 +45,43 @@
       <!-- Sign-Up Form -->
       <form action="#" method="POST">
         <fieldset>
-          <!-- Parent Details -->
-          <legend>Parent/Guardian Details</legend>
-          <div class="form-input">
-            <label for="pfname">Parent's First Name: </label>
-            <input id="pfname" name="parents_first_name" type="text" placeholder="Enter your first name"
-              class="input-size" required>
-          </div>
-          <div class="form-input">
-            <label for="plname">Parent's First Name: </label>
-            <input id="plname" name="parents_last_name" type="text" placeholder="Enter your last name"
-              class="input-size" required>
-          </div>
-          <div class="form-input">
-            <label for="email">Parent's E-Mail: </label>
-            <input id="email" name="email" type="email" placeholder="Enter your email" class="input-size" required>
+          <div class="float-container">
+            <!-- Parent Details -->
+            <div class="float-left">
+              <legend>Parent/Guardian Details</legend>
+              <div class="form-input">
+                <label for="pfname">Parent's First Name: </label>
+                <input id="pfname" name="parents_first_name" type="text" placeholder="Enter your first name"
+                  class="input-size" required>
+              </div>
+              <div class="form-input">
+                <label for="plname">Parent's First Name: </label>
+                <input id="plname" name="parents_last_name" type="text" placeholder="Enter your last name"
+                  class="input-size" required>
+              </div>
+              <div class="form-input">
+                <label for="email">Parent's E-Mail: </label>
+                <input id="email" name="email" type="email" placeholder="Enter your email" class="input-size" required>
+              </div>
+            </div>
           </div>
         </fieldset>
         <!-- Emergency Contact Details -->
         <fieldset>
-          <legend>Emergency Contact Details</legend>
-          <div class="form-input">
-            <label for="ecname">Emergency Contact Name: </label>
-            <input id="ecname" name="emergency_contact_name" type="text" placeholder="Enter emergency name"
-              class="input-size" required>
+          <div class="float-right">
+            <legend>Emergency Contact Details</legend>
+            <div class="form-input">
+              <label for="ecname">Emergency Contact Name: </label>
+              <input id="ecname" name="emergency_contact_name" type="text" placeholder="Enter emergency name"
+                class="input-size" required>
+            </div>
+            <div class="form-input">
+              <label for="ecmobile">Emergency Contact Mobile: </label>
+              <input id="ecmobile" name="emergency_contact_mobile" type="text" placeholder="Enter emergency number"
+                class="input-size" required>
+            </div>
           </div>
-          <div class="form-input">
-            <label for="ecmobile">Emergency Contact Mobile: </label>
-            <input id="ecmobile" name="emergency_contact_mobile" type="text" placeholder="Enter emergency number"
-              class="input-size" required>
-          </div>
+
         </fieldset>
         <!-- Child Details -->
         <fieldset>
@@ -100,7 +107,7 @@
           </div>
         </fieldset>
         <!-- Which Days To Train -->
-        <fieldset>
+        <fieldset class="which-train-sesh">
           <legend>Which Training Session?</legend>
           <div class="form-input">
             <input id="monday" name="which_training_session" type="radio" value="monday" required checked>

@@ -330,10 +330,10 @@ header a {
 
 .signup-container {
   background-color: rgba(39, 71, 144, 0.9);
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   color: #f5f3f5;
   position: absolute;
-  width: 20em;
+  width: 60em;
   top: 2em;
   left: 2em;
   border: #302b27 1px solid;
@@ -363,6 +363,20 @@ legend {
   font-size: 1.4rem;
 }
 
+fieldset {
+  display: inline;
+} 
+
+.float-left {
+  display: inline;
+  float: left;
+}
+
+.float-right {
+  float: right;
+  margin-left: 2em;
+}
+
 .input-size {
   display: block;
   width: 17em;
@@ -370,6 +384,10 @@ legend {
   border: 1px solid #302b27;
   border-radius: 0.2em;
   padding: 0.3em;
+}
+
+.which-train-sesh {
+  margin-left: 2em;
 }
 
 #submitbtn {
@@ -398,7 +416,7 @@ legend {
         }
       }
 
-    @media only screen and (max-width: 374px) {
+    @media only screen and (max-width: 375px) {
       .form-background {
         background: none;
         background-color: #1b264f;
@@ -406,11 +424,11 @@ legend {
       
       .signup-pg-header  h2 {
       margin-bottom: 0;
-      font-size: 1.3rem;
+      font-size: 1.5rem;
       }
 
       .signup-container {
-          font-size: 1.2rem;
+          font-size: 1.4rem;
         }
 
         .input-size {
@@ -431,6 +449,7 @@ legend {
         .invisible {
           display: none;
         }
+
       }
 
       @media screen and (max-width: 768px) {
@@ -450,6 +469,10 @@ legend {
 
           .form-input {
             margin-bottom: 0;
+          }
+
+          .gotopbtn {
+            display: none;
           }
   
 
