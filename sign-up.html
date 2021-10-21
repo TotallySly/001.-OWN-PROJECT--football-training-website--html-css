@@ -9,7 +9,7 @@
   <title>Sign-Up</title>
 </head>
 
-<body class="form-background-image">
+<body>
 
 
   <!-- Header -->
@@ -38,80 +38,80 @@
 
 
 
+    <div class="form-background">
+      <section class="signup-container">
+        <header class="signup-pg-header">
+          <h2>Sign Your Child Up!</h2>
+        </header>
+        <form action="#" method="POST">
+          <div class="form-input">
+            <label for="pfname">Parent's First Name: </label>
+            <input id="pfname" name="parents_first_name" type="text" placeholder="Enter your first name" required>
+          </div>
+          <div class="form-input">
+            <label for="plname">Parent's First Name: </label>
+            <input id="plname" name="parents_last_name" type="text" placeholder="Enter your last name" required>
+          </div>
+          <div class="form-input">
+            <label for="email">Parent's E-Mail: </label>
+            <input id="email" name="email" type="email" placeholder="Enter your email" required>
+          </div>
 
-    <section class="signup-container">
-      <header class="signup-pg-header">
-        <h2>Sign Your Child Up!</h2>
-      </header>
-      <form action="#" method="POST">
-        <div class="form-input">
-          <label for="pfname">Parent's First Name: </label>
-          <input id="pfname" name="parents_first_name" type="text" placeholder="Enter your first name" required>
-        </div>
-        <div class="form-input">
-          <label for="plname">Parent's First Name: </label>
-          <input id="plname" name="parents_last_name" type="text" placeholder="Enter your last name" required>
-        </div>
-        <div class="form-input">
-          <label for="email">Parent's E-Mail: </label>
-          <input id="email" name="email" type="email" placeholder="Enter your email" required>
-        </div>
+          <div class="form-input">
+            <label for="ecname">Emergency Contact Name: </label>
+            <input id="ecname" name="emergency_contact_name" type="text" placeholder="Enter emergency name" required>
+          </div>
+          <div class="form-input">
+            <label for="ecmobile">Emergency Contact Mobile: </label>
+            <input id="ecmobile" name="emergency_contact_mobile" type="text" placeholder="Enter emergency number"
+              required>
+          </div>
 
-        <div class="form-input">
-          <label for="ecname">Emergency Contact Name: </label>
-          <input id="ecname" name="emergency_contact_name" type="text" placeholder="Enter emergency name" required>
-        </div>
-        <div class="form-input">
-          <label for="ecmobile">Emergency Contact Mobile: </label>
-          <input id="ecmobile" name="emergency_contact_mobile" type="text" placeholder="Enter emergency number"
-            required>
-        </div>
+          <div class="form-input">
+            <label for="cfname">Child's First Name: </label>
+            <input id="cfname" name="child1_first_name" type="text" placeholder="Enter child's first name" required>
+          </div>
+          <div class="form-input">
+            <label for="clname">Child's Last Name: </label>
+            <input id="clname" name="child1_last_name" type="text" placeholder="Enter child's last name" required>
+          </div>
+          <div class="form-input">
+            <label for="age">Child's Age: </label>
+            <select name="age" id="age">
+              <option value="7" selected required>7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </div>
 
-        <div class="form-input">
-          <label for="cfname">Child's First Name: </label>
-          <input id="cfname" name="child1_first_name" type="text" placeholder="Enter child's first name" required>
-        </div>
-        <div class="form-input">
-          <label for="clname">Child's Last Name: </label>
-          <input id="clname" name="child1_last_name" type="text" placeholder="Enter child's last name" required>
-        </div>
-        <div class="form-input">
-          <label for="age">Child's Age: </label>
-          <select name="age" id="age">
-            <option value="7" selected required>7</option>
-            <option value="8">8</option>
-            <option value="9">9</option>
-            <option value="10">10</option>
-          </select>
-        </div>
+          <div class="form-input">
+            <label for="monday">Monday</label>
+            <input id="monday" name="which_training_session" type="radio" value="monday" required>
+          </div>
+          <div class="form-input">
+            <label for="wednesday">Wednesday</label>
+            <input id="wednesday" name="which_training_session" type="radio" value="wednesday" required>
+          </div>
+          <div class="form-input">
+            <label for="saturday">Saturday</label>
+            <input id="saturday" name="which_training_session" type="radio" value="saturday" required>
+          </div>
+          <div>
+            <label for="monsat">Monday & Saturday</label>
+            <input id="monsat" name="which_training_session" type="radio" value="monday_saturday" required>
+          </div>
+          <div class="form-input">
+            <label for="wedsat">Wednesday & Saturday</label>
+            <input id="wedsat" name="which_training_session" type="radio" value="wednesday_saturday" required>
+          </div>
 
-        <div class="form-input">
-          <label for="monday">Monday</label>
-          <input id="monday" name="which_training_session" type="radio" value="monday" required>
-        </div>
-        <div class="form-input">
-          <label for="wednesday">Wednesday</label>
-          <input id="wednesday" name="which_training_session" type="radio" value="wednesday" required>
-        </div>
-        <div class="form-input">
-          <label for="saturday">Saturday</label>
-          <input id="saturday" name="which_training_session" type="radio" value="saturday" required>
-        </div>
-        <div>
-          <label for="monsat">Monday & Saturday</label>
-          <input id="monsat" name="which_training_session" type="radio" value="monday_saturday" required>
-        </div>
-        <div class="form-input">
-          <label for="wedsat">Wednesday & Saturday</label>
-          <input id="wedsat" name="which_training_session" type="radio" value="wednesday_saturday" required>
-        </div>
-
-        <div class="form-input">
-          <input value="Sign Up!" type="submit" class="signup">
-        </div>
-      </form>
-    </section>
-
+          <div class="form-input">
+            <input value="Sign Up!" type="submit" class="signup">
+          </div>
+        </form>
+      </section>
+    </div>
     <Footer>
       <div>
         <ul class="footer-container">

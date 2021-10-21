@@ -303,6 +303,7 @@ header a {
   color: #f5f3f5;
 }
 
+
 .gotopbtn {
   position: fixed;
   width: 50px;
@@ -318,16 +319,26 @@ header a {
 }
 
 
-.form-background-image {
-  background-image: url('/assests/images/signup-background.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
+.form-background {
+  position: relative;
+  background-color: #1b264f;
+  height: 100vh;
 }
 
 .signup-container {
+  position: absolute;
+  color: #f5f3f5;
   width: 100%;
-  margin: 3.2rem auto 0 auto;
+  top: 8rem;
+  left: 5rem;
+}
+
+.signup-pg-header  h2{
+  font-size: 1.6rem;
+  background-color: #576ca8;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  width: 20em;
 }
 
 
