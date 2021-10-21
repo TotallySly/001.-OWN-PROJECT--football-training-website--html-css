@@ -388,6 +388,11 @@ header a {
       }
 
     @media only screen and (max-width: 374px) {
+      .form-background {
+        background: none;
+        background-color: #1b264f;
+      }
+      
       .signup-pg-header  h2 {
       font-size: 1.3rem;
       }
