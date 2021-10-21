@@ -321,7 +321,11 @@ header a {
 
 .form-background {
   position: relative;
-  background-color: #1b264f;
+  /* background-color: #1b264f; */
+  background-image: url('/assests/images/signup-background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
   height: 100vh;
 }
 
