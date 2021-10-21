@@ -337,8 +337,24 @@ header a {
   font-size: 1.6rem;
   background-color: #576ca8;
   padding-top: 1em;
+  margin-left: 2em;
   padding-bottom: 0.5em;
-  width: 20em;
+  text-align: center;
+}
+
+.form-input {
+  margin-top: 0;
+  margin-left: 2em;
+  margin-bottom: 0.5em;
+}
+
+.input-size {
+  display: block;
+  width: 16%;
+  margin-top: 0.4em;
+  border: 1px solid #302b27;
+  border-radius: 0.2em;
+  padding: 0.3em;
 }
 
 
