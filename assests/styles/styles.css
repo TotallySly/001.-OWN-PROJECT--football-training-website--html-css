@@ -320,36 +320,46 @@ header a {
 
   /* sign-up */
 
-  .form-section {
+  .signup-header {
+  background-color: #576ca8;
+  color: #f5f3f5;
+  text-align: center;
+  font-size: 1.8rem;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+}
+
+  .form {
     background-image: url('/assests/images/signup-background.png');
-    height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    height: 100vh;
   }
 
   .signup-form {
     color: #f5f3f5;
     background: rgba(39, 71, 144, 0.9);
     width: 33%;
-    position: absolute;
     top: 10em;
     left: 15em;
     line-height: 1.5;
   }
 
-  .signup-form h2 {
-    background-color: #576ca8;
-    text-align: center;
-    padding-top: 1em;
-    padding-bottom: 0.5em;
-  }
+  /* .flexbox {
+    display: flex;
+  } */
+
 
   legend {
     font-weight: 800;
     padding-top: 1em;
     padding-bottom: 0.5em;
     padding-left: 1em;
+  }
+
+  .float-container-two {
+    background-color: #302b27;
   }
 
 
