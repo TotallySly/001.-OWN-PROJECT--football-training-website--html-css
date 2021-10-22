@@ -46,8 +46,6 @@ a {
 
 .nav {
   background-color: #576ca8;
-  font-size: 1.6rem;
-  width: 100%;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   display: flex;
@@ -56,12 +54,6 @@ a {
   justify-content: space-evenly;
 }
 
-.nav a {
-  display: block;
-  text-align: center;
-  text-decoration: none;
-  color: #f5f3f5;
-}
 
 .nav li {
   list-style: none;
