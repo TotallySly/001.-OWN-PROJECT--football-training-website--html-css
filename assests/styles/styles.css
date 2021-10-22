@@ -32,31 +32,28 @@ h1, h2 {
   padding-bottom: 0.5em;
 }
 
-header a {
+a {
+  color: #f5f3f5;
   text-decoration: none;
 }
 
 .logo {
-  margin: 0 auto;
-  text-align: center;
   background-color: #1b264f;
-  color: #f5f3f5;
   font-size: 4rem;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
-  width: 100%;
 }
 
 .nav {
+  background-color: #576ca8;
+  font-size: 1.6rem;
   width: 100%;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   display: flex;
   flex-direction: row; 
   flex-wrap: wrap;
   justify-content: space-evenly;
-  background-color: #576ca8;
-  font-size: 1.6rem;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
 }
 
 .nav a {
