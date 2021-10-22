@@ -13,151 +13,157 @@
 </head>
 
 <body>
-  <!-- Header -->
-  <header>
-    <a href="index.html" aria-label="Go to the homepage">
-      <h1 class="logo">The English Football Club</h1>
-    </a>
-  </header>
-  <!-- Navigation -->
-  <nav>
-    <div class="nav-container">
-      <ul class="nav">
-        <li><a href="index.html" aria-label="Go to the homepage">| Home |</a></li>
-        <li><a href="index.html#about-us" aria-label="Go to the about us section">| About Us |</a></li>
-        <li><a href="index.html#coach" aria-label="Go to the coaches and contact us section">| Coaches & Contact Us
-            |</a></li>
-        <li><a href="index.html#prices" aria-label="Go to the training prices section">| Prices |</a></li>
-        <li><a href="index.html#training-times" aria-label="Go to the training times and location section ">| Training
-            Times |</a></li>
-        <li><a href="sign-up.html" aria-label="Go to the sign up page">| Sign-Up |</a></li>
-      </ul>
-    </div>
-  </nav>
-  <!-- Sign-Up Form Background Image -->
-  <div class="form-background">
-    <!-- Sign Up Form Container -->
-    <section class="signup-container">
-      <!-- Sign-Up Form Header -->
-      <header class="signup-pg-header">
-        <h2>Sign Your Child Up!</h2>
-      </header>
-      <!-- Sign-Up Form -->
-      <form action="#" method="POST">
-        <fieldset>
-          <div class="float-container">
-            <!-- Parent Details -->
-            <div class="float-left">
-              <legend>Parent/Guardian Details</legend>
+  <main>
+    <!-- Header -->
+    <header>
+      <a href="index.html" aria-label="Go to the homepage">
+        <h1 class="logo">The English Football Club</h1>
+      </a>
+    </header>
+    <!-- Navigation -->
+    <nav>
+      <div class="nav-container">
+        <ul class="nav">
+          <li><a href="index.html" aria-label="Go to the homepage">| Home |</a></li>
+          <li><a href="index.html#about-us" aria-label="Go to the about us section">| About Us |</a></li>
+          <li><a href="index.html#coach" aria-label="Go to the coaches and contact us section">| Coaches & Contact Us
+              |</a></li>
+          <li><a href="index.html#prices" aria-label="Go to the training prices section">| Prices |</a></li>
+          <li><a href="index.html#training-times" aria-label="Go to the training times and location section ">| Training
+              Times |</a></li>
+          <li><a href="sign-up.html" aria-label="Go to the sign up page">| Sign-Up |</a></li>
+        </ul>
+      </div>
+    </nav>
+    <!-- Sign-Up Form Background Image -->
+    <div class="form-background">
+      <!-- Sign Up Form Container -->
+      <section class="signup-container">
+        <!-- Sign-Up Form Header -->
+        <header class="signup-pg-header">
+          <h2>Sign Your Child Up!</h2>
+        </header>
+        <!-- Sign-Up Form -->
+        <form action="#" method="POST">
+          <fieldset>
+            <div class="float-container">
+              <!-- Parent Details -->
+              <div class="float-left">
+                <legend>Parent/Guardian Details</legend>
+                <div class="form-input">
+                  <label for="pfname">Parent's First Name: </label>
+                  <input id="pfname" name="parents_first_name" type="text" placeholder="Enter your first name"
+                    class="input-size" required>
+                </div>
+                <div class="form-input">
+                  <label for="plname">Parent's First Name: </label>
+                  <input id="plname" name="parents_last_name" type="text" placeholder="Enter your last name"
+                    class="input-size" required>
+                </div>
+                <div class="form-input">
+                  <label for="email">Parent's E-Mail: </label>
+                  <input id="email" name="email" type="email" placeholder="Enter your email" class="input-size"
+                    required>
+                </div>
+              </div>
+            </div>
+          </fieldset>
+          <!-- Emergency Contact Details -->
+          <fieldset>
+            <div class="float-right">
+              <legend>Emergency Contact Details</legend>
               <div class="form-input">
-                <label for="pfname">Parent's First Name: </label>
-                <input id="pfname" name="parents_first_name" type="text" placeholder="Enter your first name"
+                <label for="ecname">Emergency Contact Name: </label>
+                <input id="ecname" name="emergency_contact_name" type="text" placeholder="Enter emergency name"
                   class="input-size" required>
               </div>
               <div class="form-input">
-                <label for="plname">Parent's First Name: </label>
-                <input id="plname" name="parents_last_name" type="text" placeholder="Enter your last name"
+                <label for="ecmobile">Emergency Contact Mobile: </label>
+                <input id="ecmobile" name="emergency_contact_mobile" type="text" placeholder="Enter emergency number"
                   class="input-size" required>
               </div>
-              <div class="form-input">
-                <label for="email">Parent's E-Mail: </label>
-                <input id="email" name="email" type="email" placeholder="Enter your email" class="input-size" required>
-              </div>
             </div>
-          </div>
-        </fieldset>
-        <!-- Emergency Contact Details -->
-        <fieldset>
-          <div class="float-right">
-            <legend>Emergency Contact Details</legend>
-            <div class="form-input">
-              <label for="ecname">Emergency Contact Name: </label>
-              <input id="ecname" name="emergency_contact_name" type="text" placeholder="Enter emergency name"
-                class="input-size" required>
-            </div>
-            <div class="form-input">
-              <label for="ecmobile">Emergency Contact Mobile: </label>
-              <input id="ecmobile" name="emergency_contact_mobile" type="text" placeholder="Enter emergency number"
-                class="input-size" required>
-            </div>
-          </div>
 
-        </fieldset>
-        <!-- Child Details -->
-        <fieldset>
-          <legend>Child Details</legend>
+          </fieldset>
+          <!-- Child Details -->
+          <fieldset>
+            <legend>Child Details</legend>
+            <div class="form-input">
+              <label for="cfname">Child's First Name: </label>
+              <input id="cfname" name="child1_first_name" type="text" placeholder="Enter child's first name"
+                class="input-size" required>
+            </div>
+            <div class="form-input">
+              <label for="clname">Child's Last Name: </label>
+              <input id="clname" name="child1_last_name" type="text" placeholder="Enter child's last name"
+                class="input-size" required>
+            </div>
+            <div class="form-input">
+              <label for="age">Child's Age: </label>
+              <select name="age" id="age">
+                <option value="7" selected required>7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+              </select>
+            </div>
+          </fieldset>
+          <!-- Which Days To Train -->
+          <fieldset class="which-train-sesh">
+            <legend>Which Training Session?</legend>
+            <div class="form-input">
+              <input id="monday" name="which_training_session" type="radio" value="monday" required checked>
+              <label for="monday">Monday</label>
+            </div>
+            <div class="form-input">
+              <input id="wednesday" name="which_training_session" type="radio" value="wednesday" required>
+              <label for="wednesday">Wednesday</label>
+            </div>
+            <div class="form-input">
+              <input id="saturday" name="which_training_session" type="radio" value="saturday" required>
+              <label for="saturday">Saturday</label>
+            </div>
+            <div class="form-input">
+              <input id="monsat" name="which_training_session" type="radio" value="monday_saturday" required>
+              <label for="monsat">Monday & Saturday</label>
+            </div>
+            <div class="form-input">
+              <input id="wedsat" name="which_training_session" type="radio" value="wednesday_saturday" required>
+              <label for="wedsat">Wednesday & Saturday</label>
+            </div>
+          </fieldset>
           <div class="form-input">
-            <label for="cfname">Child's First Name: </label>
-            <input id="cfname" name="child1_first_name" type="text" placeholder="Enter child's first name"
-              class="input-size" required>
+            <button type="submit" id="submitbtn">Sign up!</button>
           </div>
-          <div class="form-input">
-            <label for="clname">Child's Last Name: </label>
-            <input id="clname" name="child1_last_name" type="text" placeholder="Enter child's last name"
-              class="input-size" required>
-          </div>
-          <div class="form-input">
-            <label for="age">Child's Age: </label>
-            <select name="age" id="age">
-              <option value="7" selected required>7</option>
-              <option value="8">8</option>
-              <option value="9">9</option>
-              <option value="10">10</option>
-            </select>
-          </div>
-        </fieldset>
-        <!-- Which Days To Train -->
-        <fieldset class="which-train-sesh">
-          <legend>Which Training Session?</legend>
-          <div class="form-input">
-            <input id="monday" name="which_training_session" type="radio" value="monday" required checked>
-            <label for="monday">Monday</label>
-          </div>
-          <div class="form-input">
-            <input id="wednesday" name="which_training_session" type="radio" value="wednesday" required>
-            <label for="wednesday">Wednesday</label>
-          </div>
-          <div class="form-input">
-            <input id="saturday" name="which_training_session" type="radio" value="saturday" required>
-            <label for="saturday">Saturday</label>
-          </div>
-          <div class="form-input">
-            <input id="monsat" name="which_training_session" type="radio" value="monday_saturday" required>
-            <label for="monsat">Monday & Saturday</label>
-          </div>
-          <div class="form-input">
-            <input id="wedsat" name="which_training_session" type="radio" value="wednesday_saturday" required>
-            <label for="wedsat">Wednesday & Saturday</label>
-          </div>
-        </fieldset>
-        <div class="form-input">
-          <button type="submit" id="submitbtn">Sign up!</button>
-        </div>
-      </form>
-    </section>
-  </div>
-  <!-- Footer -->
-  <Footer>
-    <div>
-      <ul class="footer-container">
-        <li><a href="https://facebook.com" target="_blank" rel="noopener"
-            aria-label="Follow us on Facebook (opens in a new tab)"><i class="fab fa-facebook-f"></i></a>
-        </li>
-        <li><a href="https://twitter.com" target="_blank" rel="noopener"
-            aria-label="Follow us on Twitter (opens in a new tab)"><i class="fab fa-twitter"></i></a>
-        </li>
-        <li><a href="https://instagram.com" target="_blank" rel="noopener"
-            aria-label="Follow us on Instagram (opens in a new tab)"><i class="fab fa-instagram"></i></a>
-        </li>
-        <li><a href="https://linkedin.com" target="_blank" rel="noopener"
-            aria-label="Follow us on Linked In (opens in a new tab)"><i class="fab fa-linkedin-in"></i></a></li>
-      </ul>
+        </form>
+      </section>
     </div>
-  </Footer>
-  <!-- Go To Top Button -->
-  <a class="gotopbtn" href="#" aria-label="Go back to top of the webpage"><i class="fas fa-arrow-up"></i></a>
-  <!-- Font Awesome -->
-  <script src="https://kit.fontawesome.com/b814bfa1bc.js" crossorigin="anonymous"></script>
+    </section>
+    <!-- Footer -->
+    <Footer>
+      <div>
+        <ul class="footer-container">
+          <li><a href="https://facebook.com" target="_blank" rel="noopener"
+              aria-label="Follow us on Facebook (opens in a new tab)"><i class="fab fa-facebook-f"></i></a>
+          </li>
+          <li><a href="https://twitter.com" target="_blank" rel="noopener"
+              aria-label="Follow us on Twitter (opens in a new tab)"><i class="fab fa-twitter"></i></a>
+          </li>
+          <li><a href="https://instagram.com" target="_blank" rel="noopener"
+              aria-label="Follow us on Instagram (opens in a new tab)"><i class="fab fa-instagram"></i></a>
+          </li>
+          <li><a href="https://linkedin.com" target="_blank" rel="noopener"
+              aria-label="Follow us on Linked In (opens in a new tab)"><i class="fab fa-linkedin-in"></i></a></li>
+        </ul>
+      </div>
+    </Footer>
+    <!-- Go To Top Button -->
+    <a class="gotopbtn" href="#" aria-label="Go back to top of the webpage"><i class="fas fa-arrow-up"></i></a>
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/b814bfa1bc.js" crossorigin="anonymous"></script>
+  </main>
 </body>
+
+
 
 </html>
