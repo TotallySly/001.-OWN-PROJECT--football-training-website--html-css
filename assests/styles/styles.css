@@ -288,6 +288,13 @@ legend {
   padding-top: 7em;
 }
 
+.error {
+  background-color: #1b264f;
+  color: #f5f3f5;
+  padding-top: 0.4em;
+  padding-left: 0.7em;
+}
+
 /* Media Queries */
 
     @media only screen and (max-width: 425px) {
