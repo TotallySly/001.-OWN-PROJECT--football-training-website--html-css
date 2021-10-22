@@ -254,8 +254,17 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 
 
-  - CSS
-    - How many errors [(Jigsaw) validator]
+  CSS
+    <details>
+      <summary>'styles.css' - Zero Errors</summary>
+      ![styles.css](/assests/readme-images/w3schools-css-validator.png)
+    </details>
+    <details>
+      <summary>'styles.css' 1 Warning</summary>
+      ![One Warning](/assests/readme-images/w3schools-css-warning.png)
+    </details>
+
+  This is due to importing Google Fonts onto the CSS stylesheet. The W3Schools Jigsaw Validator does not check imported style sheets.
 
 ### Manual Testing
 
