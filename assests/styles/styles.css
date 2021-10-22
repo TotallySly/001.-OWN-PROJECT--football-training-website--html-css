@@ -41,7 +41,6 @@ li {
   list-style: none;
 }
 
-
 .logo {
   background-color: #1b264f;
   font-size: 4rem;
@@ -76,22 +75,12 @@ li {
 }
 */
 
-
 .hero-image {
   height: 600px;
-  width: 100%;
   background-image: url('../images/landing-image.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-}
-
-.about-us-container {
-  background-color: #1b264f;
-  color: #f5f3f5;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
 }
 
 #about-us {
@@ -101,7 +90,6 @@ li {
 }
 
 #about-us li{
-  list-style-type: none;
   font-size: 1.6rem;
   line-height: 1;
   font-weight: 300;
