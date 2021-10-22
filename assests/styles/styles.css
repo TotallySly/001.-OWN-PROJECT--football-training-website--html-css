@@ -80,18 +80,22 @@ address {
   color: #f5f3f5;
 }
 
-/* 
-.hero-text > h2 > h3 {
-  max-width: 100%;
+.hero-text h2 {
+  background-color: #274690;
+}
+
+
+.hero-text p {
   background-color: #274690;
   color: #f5f3f5;
-  font-size: 1.6rem;
-  line-height: 1.5;
-  /* padding-top: 1em;
-  padding-bottom: 0.5em; 
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
   text-align: center;
+  padding-top: 1em;
+  padding-bottom: 0.5em; 
 }
-*/
+
 
 .hero-image {
   height: 600px;
@@ -256,8 +260,7 @@ legend {
   display: block;
   width: 17em;
   margin-top: 0.4em;
-  border: 1px solid #302b27;
-  border-radius: 0.2em;
+  border: 2px solid #302b27;
   padding: 0.3em;
 }
 
@@ -266,6 +269,8 @@ legend {
 }
 
 #submitbtn {
+  background-color: #1b264f;
+  color: #f5f3f5;
   margin-top: 0.5em;
   margin-left: 15em;
   padding: 0.2em 0.4em 0.2em 0.4em;
@@ -274,11 +279,13 @@ legend {
 /* !!!!!!!!!!!!BRING DOWN THE FORM ON MOBILE DEVICES. MAKE IT MORE RESPONSIVE FOR VARIOUS DEVICES!!!!!!!!!!!!!!!!!! */
 
     @media only screen and (max-width: 368px) {
-      .nav {
+      .nav-container {
         display: flex;
         flex-direction: column;
+        align-items: center;
         }
-      .nav a {
+
+      .nav-container a {
         padding: 0.5em;
         margin-top: 0.1em;
         margin-bottom: 0.1em;
