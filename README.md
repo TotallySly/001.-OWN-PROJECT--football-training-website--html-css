@@ -236,20 +236,20 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
   HTML
     <details>
-      <summary>index.html Zero Errors</summary>
-      ![index.html Zero Errors](/assests/readme-images/w3schools-index-validator.png)
+      <summary>'index.html' - Zero Errors</summary>
+      ![index.html](/assests/readme-images/w3schools-index-validator.png)
     </details>
     <details>
-    <summary>sign-up.html</summary>
-    ![sign-up.html Zero Errors](/assests/readme-images/w3schools-index-validator.png)
+    <summary>'sign-up.html' - Zero Errors</summary>
+    ![sign-up.html](assests/readme-images/w3schoold-sign-up-validator.png)
     </details>
         <details>
-    <summary>form-submit.html</summary>
-    ![form-submit.html Zero Errors](/assests/readme-images/w3schools-index-validator.png)
+    <summary>'form-submit.html' - Zero Errors</summary>
+    ![form-submit.html](/assests/readme-images/w3schools-form-submit-validator.png)
     </details>
             <details>
-    <summary>404.html</summary>
-    ![404.html Zero Errors](/assests/readme-images/w3schools-index-validator.png)
+    <summary>'404.html' - Zero Errors</summary>
+    ![404.html](/assests/readme-images/w3schoold-404-validator%20.png)
     </details>
 
 
