@@ -45,6 +45,15 @@ li {
   list-style: none;
 }
 
+address {
+  background-color: #274690;
+  color: #f5f3f5;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  text-align: center;  
+  font-style: normal;
+}
+
 .logo {
   background-color: #1b264f;
   font-size: 4rem;
@@ -65,6 +74,10 @@ li {
 
 .hover a:hover {
   background-color: rgba(27, 39, 80, 0.75);
+}
+
+.hover a:visited {
+  color: #f5f3f5;
 }
 
 /* 
@@ -158,50 +171,28 @@ li {
   justify-content: space-evenly;
 }
 
-address {
-  background-color: #274690;
-  color: #f5f3f5;
-  font-size: 1.6rem;
-  padding-top: 1em;
-  padding-bottom: 0.5em;
-  text-align: center;  
-  font-style: normal;
-}
-
 .footer-container {
-  display: flex;
-  justify-content: space-evenly;
-  background-color: #576ca8;  
+  background-color: #576ca8;
+  color: #f5f3f5;  
   font-size: 2rem;
   padding-top: 1em;
   padding-bottom: 0.5em;
+  display: flex;
+  justify-content: space-evenly;
 }
-
-.fab {
-  color: #f5f3f5;
-}
-
-.footer-container li {
-  list-style: none;
-}
-
-.footer-container a:visited {
-  color: #f5f3f5;
-}
-
 
 .gotopbtn {
   position: fixed;
-  width: 50px;
-  height: 50px;
   background-color: #274690;
-  bottom: 40px;
-  right: 50px;
-  text-decoration: none;
-  text-align: center;
-  line-height: 50px;
   color: #f5f3f5;
   font-size: 22px;
+  text-align: center;
+  line-height: 50px;
+  text-decoration: none;
+  bottom: 40px;
+  right: 50px;
+  width: 50px;
+  height: 50px; 
 }
 
 
