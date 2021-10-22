@@ -275,7 +275,18 @@ legend {
   margin-top: 0.5em;
   margin-left: 15em;
   padding: 0.2em 0.4em 0.2em 0.4em;
-} 
+}
+
+.submit-background {
+  background-color: #1b264f;
+  color: #f5f3f5;
+  height: 100vh;
+}
+
+.submit-background h3 {
+  text-align: center;
+  padding-top: 7em;
+}
 
 /* Media Queries */
 
