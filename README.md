@@ -234,8 +234,26 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ### Validator Testing
 
-  - HTML
-    - How many errors [W3C validator]
+  HTML
+    <details>
+      <summary>index.html Zero Errors</summary>
+      ![index.html Zero Errors](/assests/readme-images/w3schools-index-validator.png)
+    </details>
+    <details>
+    <summary>sign-up.html</summary>
+    ![sign-up.html Zero Errors](/assests/readme-images/w3schools-index-validator.png)
+    </details>
+        <details>
+    <summary>form-submit.html</summary>
+    ![form-submit.html Zero Errors](/assests/readme-images/w3schools-index-validator.png)
+    </details>
+            <details>
+    <summary>404.html</summary>
+    ![404.html Zero Errors](/assests/readme-images/w3schools-index-validator.png)
+    </details>
+
+
+
   - CSS
     - How many errors [(Jigsaw) validator]
 
