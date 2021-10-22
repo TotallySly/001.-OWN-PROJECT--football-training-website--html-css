@@ -9,7 +9,7 @@ The website was made using the 'Mobile-First' concept. The idea being that the w
 Link to the live [website] (https://totallysly.github.io/portfolio-project-one/)
 
 
-![Responsive Mockup](https:/) - Use the Responsive Website template.
+[Responsive Mockup] () - Use the Responsive Website template.
 
 ## Table of Contents
   * [UX and UI Design](#ux-and-ui-design)
