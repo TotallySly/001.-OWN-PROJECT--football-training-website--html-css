@@ -251,8 +251,20 @@ legend {
 
 .float-right {
   float: right;
-  margin-left: 2em;
 }
+
+.float-container-two {
+  float: left;
+}
+
+.float-three {
+  float: left;
+}
+
+.float-four {
+  float: right;
+}
+
 
 .form-input {
   margin-top: 0.5em;
