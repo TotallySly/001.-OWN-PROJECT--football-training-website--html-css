@@ -109,7 +109,6 @@ li {
   background-repeat: no-repeat;
   background-position: center center;
   font-size: 1.6rem;
-  line-height: 1.5; 
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -145,41 +144,18 @@ li {
   justify-content: space-around;
 }
 
-
-  
 .times-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
   background: url('../images/training-times-background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   color: #f5f3f5;
-  line-height: 1.5;
   font-size: 2rem;
-  width: 100%;
-}
-
-.monday-times {
-  border: 5px solid #302b27;
-  padding: 1em;
-}
-
-.wednesday-times {
-  border: 5px solid #302b27;
-  padding: 1em;
-}
-
-.saturday-times {
-  border: 5px solid #302b27;
-  padding: 1em;
-}
-
-.times-container li {
-  list-style: none;
-  padding-bottom: 0.75em;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 address {
