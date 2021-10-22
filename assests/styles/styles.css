@@ -207,41 +207,35 @@ address {
 
 .signup-container {
   background-color: rgba(39, 71, 144, 0.9);
-  font-size: 1.4rem;
   color: #f5f3f5;
+  font-size: 1.4rem;
   position: absolute;
-  width: 42em;
+  width: 42em; 
   top: 2em;
   left: 2em;
-  border: #302b27 1px solid;
+  border: #302b27 5px solid;
 }
 
 .signup-pg-header  h2{
-  font-size: 1.6rem;
-  margin-bottom: 1em;
   background-color: #576ca8;
+  font-size: 1.6rem;
+  text-align: center;
+  margin-bottom: 1em;
   padding-top: 1em;
   padding-bottom: 0.5em;
-  text-align: center;
-}
-
-.form-input {
-  margin-top: 0.5em;
-  margin-left: 3em;
-  margin-bottom: 1em;
-}
-
-legend {
-  background-color: #576ca8;
-  padding-left: 1em;
-  padding-right: 1em;
-  margin-left: 0.5em;
-  font-size: 1.4rem;
 }
 
 fieldset {
   display: inline;
 } 
+
+legend {
+  background-color: #576ca8;
+  font-size: 1.4rem;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: 0.5em;
+}
 
 .float-left {
   float: left;
@@ -250,6 +244,12 @@ fieldset {
 .float-right {
   float: right;
   margin-left: 2em;
+}
+
+.form-input {
+  margin-top: 0.5em;
+  margin-left: 3em;
+  margin-bottom: 1em;
 }
 
 .input-size {
@@ -270,12 +270,6 @@ fieldset {
   margin-left: 15em;
   padding: 0.2em 0.4em 0.2em 0.4em;
 } 
-
-
-
-
-
-
 
 /* !!!!!!!!!!!!BRING DOWN THE FORM ON MOBILE DEVICES. MAKE IT MORE RESPONSIVE FOR VARIOUS DEVICES!!!!!!!!!!!!!!!!!! */
 
