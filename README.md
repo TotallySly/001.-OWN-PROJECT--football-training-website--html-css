@@ -6,7 +6,7 @@ The site is targeted at parents of children who are looking for a sporting activ
 
 The website was made using the 'Mobile-First' concept. The idea being that the website is mobile friendly always. The content will be less on a mobile screen, and more information will be displayed as the screen gets larger. This is also to make the website fully responsive.
 
-Link to the live [website] (https:/)
+Link to the live [website] (https://totallysly.github.io/portfolio-project-one/)
 
 
 ![Responsive Mockup](https:/) - Use the Responsive Website template.
