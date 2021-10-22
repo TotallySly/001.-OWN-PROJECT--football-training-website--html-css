@@ -61,7 +61,6 @@ address {
   font-size: 4rem;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
-  width: 100%;
 }
 
 .nav-container {
@@ -72,7 +71,6 @@ address {
   flex-direction: row; 
   flex-wrap: wrap;
   justify-content: space-evenly;
-  width: 100%;
 }
 
 
@@ -281,7 +279,7 @@ legend {
 
 /* !!!!!!!!!!!!BRING DOWN THE FORM ON MOBILE DEVICES. MAKE IT MORE RESPONSIVE FOR VARIOUS DEVICES!!!!!!!!!!!!!!!!!! */
 
-    @media only screen and (max-width: 368px) {
+    @media only screen and (max-width: 425px) {
       .nav-container {
         display: flex;
         flex-direction: column;
@@ -292,16 +290,30 @@ legend {
         padding: 0.5em;
         margin-top: 0.1em;
         margin-bottom: 0.1em;
+      }
+
+      .which-train-sesh {
+          font-size: 1.1rem;
+        }
+  
+      .invisible {
+          display: none;
+        }
+
+        #submitbtn {
+          margin-top: 0.1em;
+          margin-bottom: 0.2em;
         }
       }
 
-    @media only screen and (max-width: 664px) {
+
+      @media only screen and (max-width: 664px) {
       .form-background {
         background: none;
         background-color: #1b264f;
       }
       
-      .signup-pg-header  h2 {
+      .signup-pg-header h2 {
       margin-bottom: 0;
       font-size: 1.5rem;
       }
@@ -318,20 +330,6 @@ legend {
           border-radius: 0.1em;
           padding: 0.1em;
         }
-      }
-        
-      @media screen and (max-width: 425px) {
-      .coach-container {
-          font-size: 1.3rem;
-        }
-
-        .invisible {
-          display: none;
-        }
-
-      }
-
-      @media screen and (max-width: 664px) {
 
         fieldset {
           display: block;
@@ -356,8 +354,6 @@ legend {
             margin-left: 5em;
             padding: 0.2em 0.4em 0.2em 0.4em;
           } 
-
-
       }
 
       
