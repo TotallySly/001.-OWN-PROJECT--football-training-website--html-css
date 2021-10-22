@@ -37,6 +37,11 @@ a {
   text-decoration: none;
 }
 
+li {
+  list-style: none;
+}
+
+
 .logo {
   background-color: #1b264f;
   font-size: 4rem;
@@ -44,7 +49,7 @@ a {
   padding-bottom: 0.5em;
 }
 
-.nav {
+.nav-container {
   background-color: #576ca8;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
@@ -54,17 +59,8 @@ a {
   justify-content: space-evenly;
 }
 
-
-.nav li {
-  list-style: none;
-}
-
-.nav a:hover {
+.hover a:hover {
   background-color: rgba(27, 39, 80, 0.75);
-}
-
-.hero-container {
-  width: 100%;
 }
 
 /* 
