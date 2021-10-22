@@ -293,115 +293,113 @@ legend {
         }
 
       .which-train-sesh {
-          font-size: 1.1rem;
+        font-size: 1.1rem;
         }
   
       .invisible {
-          display: none;
+        display: none;
         }
 
-        #submitbtn {
-          margin-top: 0.1em;
-          margin-bottom: 0.2em;
+      #submitbtn {
+        margin-top: 0.1em;
+        margin-bottom: 0.2em;
         }
       }
 
 
-      @media only screen and (max-width: 664px) {
-        .form-background {
-          background: none;
-          background-color: #1b264f;
-        }
+    @media only screen and (max-width: 664px) {
+      .form-background {
+        background: none;
+        background-color: #1b264f;
+      }
       
-        .signup-pg-header h2 {
+      .signup-pg-header h2 {
         margin-bottom: 0;
         font-size: 1.5rem;
-        }
+      }
 
-        .signup-container {
-          font-size: 1.4rem;
-          float: none;
-          width: 19em;
-        }
+      .signup-container {
+        font-size: 1.4rem;
+        float: none;
+        width: 19em;
+      }
 
-        .input-size {
-          display: block;
-          width: 12em;
-          margin-top: 0.2em;
-          border: 1px solid #302b27;
-          border-radius: 0.1em;
-          padding: 0.1em;
-        }
+      .input-size {
+        display: block;
+        width: 12em;
+        margin-top: 0.2em;
+        border: 1px solid #302b27;
+        border-radius: 0.1em;
+        padding: 0.1em;
+      }
 
-        fieldset {
-          display: block;
-        }
+      fieldset {
+        display: block;
+      }
 
-
-        .float-left {
-          float: none;
-        }
+      .float-left {
+        float: none;
+      }
           
-        .float-right {
-          float: none;
-          margin: 0;
-        }
+      .float-right {
+        float: none;
+        margin: 0;
+      }
 
-        #submitbtn {
-          margin-top: 0.5em;
-          margin-left: 5em;
-          padding: 0.2em 0.4em 0.2em 0.4em;
+      #submitbtn {
+        margin-top: 0.5em;
+        margin-left: 5em;
+        padding: 0.2em 0.4em 0.2em 0.4em;
+      } 
+    }
+
+    @media screen and (max-width: 768px) {
+      .hero-image {
+        height: 300px;
+      }
+      
+      .times-container {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+      }
+
+      legend {
+        display: none;
+      }
+
+      .form-input {
+        margin-bottom: 0;
+      }
+
+      .gotopbtn {
+        display: none;
+      }
+
+      #submitbtn {
+        margin-top: 0.5em;
+        margin-left: 5em;
+        margin-bottom: 1em;
+        padding: 0.2em 0.4em 0.2em 0.4em;
         } 
       }
 
-      
-      @media screen and (max-width: 768px) {
-        .hero-image {
-            height: 300px;
-          }
-      
-        .times-container {
-          display: flex;
-            flex-direction: column;
-            align-content: center;
-          }
-
-          legend {
-            display: none;
-          }
-
-          .form-input {
-            margin-bottom: 0;
-          }
-
-          .gotopbtn {
-            display: none;
-          }
-
-          #submitbtn {
-            margin-top: 0.5em;
-            margin-left: 5em;
-            margin-bottom: 1em;
-            padding: 0.2em 0.4em 0.2em 0.4em;
-          } 
-        }
-
-      @media screen and (min-width: 768px) and (max-width: 1024px) {
-        .signup-container {
-          left: 10em;
-        }
+    @media screen and (min-width: 768px) and (max-width: 1024px) {
+      .signup-container {
+        left: 10em;
       }
-
-      @media screen and (max-width: 1024px) {
-        .hero-image {
-          height: 400px;
-          }       
-        }
-
-      @media screen and (min-width: 1024px) {
-        .signup-container {
-          left: 25em;
-        }
-      }
-
     }
+
+    @media screen and (max-width: 1024px) {
+      .hero-image {
+        height: 400px;
+        }       
+      }
+
+    @media screen and (min-width: 1024px) {
+      .signup-container {
+        left: 25em;
+      }
+    }
+
+  }
