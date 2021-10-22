@@ -23,9 +23,11 @@ body {
 
 h1, h2 {
   font-family: 'Montserrat', sans-serif;
-  letter-spacing: 1.5;
   background-color: #576ca8;
+  color: #f5f3f5;
+  text-align: center;
   font-size: 3rem;
+  letter-spacing: 1.5;
   padding-top: 1em;
   padding-bottom: 0.5em;
 }
@@ -66,7 +68,6 @@ header a {
 
 .nav li {
   list-style: none;
-
 }
 
 .nav a:hover {
@@ -77,17 +78,19 @@ header a {
   width: 100%;
 }
 
-.hero-text {
-  font-family: 'Raleway', sans-serif;
+/* 
+.hero-text > h2 > h3 {
   max-width: 100%;
   background-color: #274690;
   color: #f5f3f5;
   font-size: 1.6rem;
   line-height: 1.5;
-  padding-top: 1em;
-  padding-bottom: 0.5em;
+  /* padding-top: 1em;
+  padding-bottom: 0.5em; 
   text-align: center;
 }
+*/
+
 
 .hero-image {
   height: 600px;
@@ -119,16 +122,6 @@ header a {
   font-weight: 300;
   padding-top: 0.75em;
   padding-bottom: 0.75em;
-}
-
-
-.coach-contact h2 {
-  color: #f5f3f5;
-  font-size: 3rem;
-  text-align: center;
-  padding-top: 1em;
-  padding-bottom: 0.5em;
-  background-color: #576ca8;
 }
 
 .bold {
@@ -179,14 +172,6 @@ header a {
   list-style-type: none;
 }
 
-#prices h2 {
-  background-color: #576ca8;
-  color: #f5f3f5;
-  text-align: center;
-  font-size: 3rem;
-  padding-top: 1em;
-  padding-bottom: 0.5em;
-}
 
 .price-container {
   background-color: #1b264f;
@@ -223,15 +208,6 @@ header a {
   border: 5px solid #302b27;
   margin: 2em;
   padding: 1em;
-}
-
-#training-times h2 {
-  background-color: #576ca8;
-  color: #f5f3f5;
-  text-align: center;
-  font-size: 3rem;
-  padding-top: 1em;
-  padding-bottom: 0.5em;
 }
 
 .times-container {
@@ -334,9 +310,6 @@ address {
   top: 2em;
   left: 2em;
   border: #302b27 1px solid;
-  /* display: flex;
-  flex-direction: column;
-  flex-wrap: wrap; */
 }
 
 .signup-pg-header  h2{
