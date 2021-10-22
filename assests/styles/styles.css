@@ -277,7 +277,7 @@ legend {
   padding: 0.2em 0.4em 0.2em 0.4em;
 } 
 
-/* !!!!!!!!!!!!BRING DOWN THE FORM ON MOBILE DEVICES. MAKE IT MORE RESPONSIVE FOR VARIOUS DEVICES!!!!!!!!!!!!!!!!!! */
+/* Media Queries */
 
     @media only screen and (max-width: 425px) {
       .nav-container {
@@ -290,7 +290,7 @@ legend {
         padding: 0.5em;
         margin-top: 0.1em;
         margin-bottom: 0.1em;
-      }
+        }
 
       .which-train-sesh {
           font-size: 1.1rem;
@@ -308,18 +308,20 @@ legend {
 
 
       @media only screen and (max-width: 664px) {
-      .form-background {
-        background: none;
-        background-color: #1b264f;
-      }
+        .form-background {
+          background: none;
+          background-color: #1b264f;
+        }
       
-      .signup-pg-header h2 {
-      margin-bottom: 0;
-      font-size: 1.5rem;
-      }
+        .signup-pg-header h2 {
+        margin-bottom: 0;
+        font-size: 1.5rem;
+        }
 
-      .signup-container {
+        .signup-container {
           font-size: 1.4rem;
+          float: none;
+          width: 19em;
         }
 
         .input-size {
@@ -335,25 +337,21 @@ legend {
           display: block;
         }
 
-        .signup-container {
-            float: none;
-            width: 19em;
-          }
 
-          .float-left {
-            float: none;
-          }
+        .float-left {
+          float: none;
+        }
           
-          .float-right {
-            float: none;
-            margin: 0;
-          }
+        .float-right {
+          float: none;
+          margin: 0;
+        }
 
-          #submitbtn {
-            margin-top: 0.5em;
-            margin-left: 5em;
-            padding: 0.2em 0.4em 0.2em 0.4em;
-          } 
+        #submitbtn {
+          margin-top: 0.5em;
+          margin-left: 5em;
+          padding: 0.2em 0.4em 0.2em 0.4em;
+        } 
       }
 
       
@@ -379,8 +377,13 @@ legend {
           .gotopbtn {
             display: none;
           }
-  
 
+          #submitbtn {
+            margin-top: 0.5em;
+            margin-left: 5em;
+            margin-bottom: 1em;
+            padding: 0.2em 0.4em 0.2em 0.4em;
+          } 
         }
 
       @media screen and (min-width: 768px) and (max-width: 1024px) {
@@ -399,7 +402,6 @@ legend {
         .signup-container {
           left: 25em;
         }
-        
       }
 
     }
