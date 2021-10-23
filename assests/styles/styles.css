@@ -321,8 +321,8 @@ legend {
 
       .nav-container a {
         padding: 0.5em;
-        margin-top: 0.1em;
-        margin-bottom: 0.1em;
+        margin-top: 0.5em;
+        margin-bottom: 4em;
         }
 
       .which-train-sesh {
@@ -341,6 +341,12 @@ legend {
 
 
     @media only screen and (max-width: 664px) {
+      .nav-container a {
+        padding: 0.5em;
+        margin-top: 0.5em;
+        margin-bottom: 4em;
+        }
+      
       .form-background {
         background: none;
         background-color: #1b264f;

@@ -260,7 +260,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
       ![styles.css](/assests/readme-images/w3schools-css-validator.png)
     </details>
     <details>
-      <summary>'styles.css' 1 Warning</summary>
+      <summary>'styles.css' - 1 Warning</summary>
       ![One Warning](/assests/readme-images/w3schools-css-warning.png)
     </details>
 
@@ -276,13 +276,62 @@ The site was manually tested throughout production. This included ensuring
 
 Responsive testing was conducted on a Windows Laptop, iPhone 7, iPhone 7 plus, and a Samsung Galaxy Tab A8. As these devices are limited to their screen sizes. I also tested the responsiveness using Google Dev Tools and [Responsive PX](http://www.responsivepx.com/).
 
+Testing was conducted on Google Chrome, Mozilla Firefox and Safari web browsers.
+
 After website completion, I submitted the website to Code Institute's Slack Community, specifically the 'Peer-Code-Review' channel. 
 
 ### Accessibility
 
--LOREM
--LOREM
--LOREM
+Lighthouse Testing
+
+  <details>
+  <summary>'index.html' - Desktop</summary>
+
+  ![index Desktop](/assests/readme-images/lighthouse-index-desktop.png)
+  </details>
+
+  <details>
+  <summary>'index.html' - Mobile</summary>
+
+  ![index Mobile](/assests/readme-images/lighthouse-index-mobile.png)
+  </details>
+
+  <details>
+  <summary>'sign-up.html' - Desktop</summary>
+
+  ![signup Desktop](/assests/readme-images/lighthouse-signup-desktop.png)
+  </details>
+
+    
+  <details>
+  <summary>'sign-up.html' - Mobile</summary>
+
+  ![signup Mobile](/assests/readme-images/lighthouse-signup-mobile.png)
+  </details>
+
+  <details>
+  <summary>'formsubmit.html' - Desktop</summary>
+
+  ![formsubmit Desktop](/assests/readme-images/lighthouse-formsubmit-desktop.png)
+  </details>
+
+  <details>
+  <summary>'formsubmit.html' - Mobile</summary>
+
+  ![formsubmit Mobile](/assests/readme-images/lighthouse-formsubmit-mobile.png)
+  </details>
+
+  <details>
+  <summary>'404.html' - Desktop</summary>
+
+  ![404 Desktop](/assests/readme-images/lighthouse-404-desktop.png)
+  </details>
+
+  <details>
+  <summary>'404.html' - Mobile</summary>
+
+  ![404 Mobile](/assests/readme-images/lighthouse-404-mobile.png)
+  </details>
 
 ### Bugs
 
