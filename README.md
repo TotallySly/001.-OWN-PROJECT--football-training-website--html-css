@@ -6,7 +6,7 @@ The site is targeted at parents of children who are looking for a sporting activ
 
 The website was made using the 'Mobile-First' concept. The idea being that the website is mobile friendly always. The content will be less on a mobile screen, and more information will be displayed as the screen gets larger. This is also to make the website fully responsive.
 
-Link to the live [website](https://totallysly.github.io/portfolio-project-one/)
+Link to the live [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
 
 
 ![Responsive Mockup](/assests/readme-images/responsive-mockup.png)
@@ -29,7 +29,7 @@ Link to the live [website](https://totallysly.github.io/portfolio-project-one/)
     * [Validator Testing](#validator-testing)
     * [Manual Testing](#manual-testing)
     * [Accessibility](#accessibility)
-    * [Unfixed Bugs](#unfixed-bugs)
+    * [Bugs](#unfixed-bugs)
   * [Deployment](#deployment)
   * [Credits](#credits)
     * [Content](#content)
@@ -268,9 +268,15 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ### Manual Testing
 
-  -LOREM
-  -LOREM
-  -LOREM
+The site was manually tested throughout production. This included ensuring 
+   - All navigation links corresponded to the correct part of the website. 
+   - The sign-up form had the necessary required attributes, ensuring all data needed was submitted.
+     - The 'sign-up!' button directed to the correct page, telling the user that we had received their data.
+   - A working Error 404 page, with a link directing the user back to the homepage.
+
+Responsive testing was conducted on a Windows Laptop, iPhone 7, iPhone 7 plus, and a Samsung Galaxy Tab A8. As these devices are limited to their screen sizes. I also tested the responsiveness using Google Dev Tools and [Responsive PX](http://www.responsivepx.com/).
+
+After website completion, I submitted the website to Code Institute's Slack Community, specifically the 'Peer-Code-Review' channel. 
 
 ### Accessibility
 
@@ -278,7 +284,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 -LOREM
 -LOREM
 
-### Unfixed Bugs
+### Bugs
 
   - Mention any bugs and shortcomings and explain why.
 
@@ -292,7 +298,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
       - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 - The link:
-  - (https:/)  
+  - [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
 
 ## Credits
 
