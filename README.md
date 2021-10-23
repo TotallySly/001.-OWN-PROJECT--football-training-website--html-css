@@ -174,14 +174,15 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   
   -The logo is a simple font based logo to keep with a more minimalist and sleek design. The logo also doubles up as a navigational link, to allow the user to always return to the home page.
 
-![Logo]('assets/readme-images/features-logo.png)
+![Logo](assets/readme-images/features-logo.png)
  
  ***
 
 #### Navigation Bar
   
-  - The navigation bar is featured on both pages of the website. The main page of the website is a single page website, which the navigation links will help the user    jump down to each specific section. 
-  - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibility.
+  - The navigation bar is featured on all pages of the website. The main page of the website is a single page website, which the navigation links will help the user    jump down to each specific section. 
+  - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on all pages, allowing for good accessibility.
+  - On devices smaller than tablet, the nav bar reverts to a column. This is to allow the user better access to click on each link. This style remains the same on all pages, whilst using smaller devices.
 
 ![Nav Bar](assets/readme-images/features-navbar.png)
 ![Nav Bar Mobile](assets/readme-images/features-navbar-mobile.png)
@@ -190,9 +191,10 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Hero Image
 
-  - The landing image is a photograph with a text overlay. This provides the user with instant information,  'what the site is about', 'age range', and 'location of the training sessions'. This allows the user instant clarification regarding the site.
-  - This section provides a large football training related photo that is colourful and eye-catching. The image colours also maintain the colour theme of the website. The center piece of the image, shows a nice light blue, with tones of white being the secondary stand-out colour.
-  - For mobile devices I opted for the text overlay to have a bold background colour and to sit on top of the landing page image. I chose this design as it felt that this information would be read instantly when the user access the website on a mobile device. It also maintains a visual balance of block text, image, block text etc achieved with the website. 
+ - The landing image is off a child and young adult relaxing on a sports field. The image itself is blurry, which gives a great effect and the image is really striking when you first look at the website.
+ - The image is great highlights the relaxed atmosphere the club is taking to their football training sessions. It also has bright vivid colours that compliment the blue colour scheme.
+ - The main heading of the hero image is a banner going across the top. This is to tell the user what this website is about instantly. It also tells the ages and the location. Straight away the user knows what the website is about.
+
 
 ![Hero Image](assets/readme-images/features-hero.png)
 
@@ -200,11 +202,12 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### About Us
 
+  - All headers on the website follow the same design pattern, which is the same colour tones as the navigation bar. A light blue with white font. This is to forge a partnership between the nav bar and the headers of the same section. It provides great design symmetry.
   - This provides the user with quick facts about The English Football Club. It establishes the success the club already has had allowing a sense of ease for the user.
-  - It shows how the club is diverse and inclusive, to help put parents minds at ease.
   - The second is a block background with font. I wanted to keep a minimalist approach, with straight to the point text. Information is clear, concise and can be read easily.
+  - The icons are are great way to break up the quick-fire facts. Also it adds an elements of fun to the website.
 
-![About Us](assets/readme-images/features-aboutus.png)
+![About Us](/assets/readme-images/features-aboutus.png)
 
 ***
 
@@ -222,11 +225,12 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 #### Prices
 
   - This section was kept simple. It is the continuation of the design pattern, using block colours which alternates with imagery as the user scrolls down the website.  
-  - The attention is to draw the user directly to the price. That is why block colours were chosen upon. The prices are crystal clear and can be easily seen.
+  - The attention is to draw the user directly to the price. That is why block colours were chosen. The prices are crystal clear and can be easily seen.
   - The football icon is a nice break up of the text, whilst also reinforcing the football content.
   - For mobile devices they stack vertically.
 
 ![Prices](assets/readme-images/features-prices.png)
+![Prices - Mobile](assets/readme-images/features-prices-mobile.png)
 
 ***
 
@@ -240,6 +244,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - For Mobile devices, the boxes stack vertically.
 
 ![Training Times](assets/readme-images/features-training-times.png)
+![Training Times - Mobile](assets/readme-images/features-training-times-mobile.png)
 
 ***
 
@@ -256,8 +261,8 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Go To Top Button
 
-  - As the main content of our website is a single-page scroll, we implemented am 'up' arrow to allow the user to return to the top of the website. The button is in the same font colour as the website, with the dark blue colour used for the logo. This is to allow the user to clearly see it at all times.
-  - This was used instead of a sticky Nav bar, as it is something slightly different. A sticky nav bar would clash with each section title. The background colour of the nav bar and each section is the same. This is to create a nice aesthetic. The sticky nav bar would confuse the user, as it could blend in with the section title.
+  - As the main content of our website is a single-page scroll, I implemented a 'up' arrow to allow the user to return to the top of the website. The button is in the same font colour as the website, with the dark blue colour used for the logo. This is to allow the user to clearly see it at all times.
+  - This was used instead of a sticky nav bar, as it is something slightly different. A sticky nav bar would clash with each section title. The background colour of the nav bar and each section is the same. This is to create a nice aesthetic. The sticky nav bar would confuse the user, as it could blend in with the section title.
   - This feature is only on tablet and above devices.
 
 ![Go To Top Button](assets/readme-images/features-go-to-top-btn.png)
@@ -279,9 +284,8 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Submitted Form
 
-  - We won't expect the user to stay long on this page. Hence the simple design of a background colour and font, which is in keeping with the style of the website.
+  - I won't expect the user to stay long on this page. Hence the simple design of a background colour and font, which is in keeping with the style of the website.
   - The user wants to know we have received the form, and that they we welcome at training, therefore there are no visual distractions.
-  - Lorem
 
 ![Submitted Form](assets/readme-images/features-formsubmit.png)
 
@@ -289,7 +293,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Error 404
 
-  - We do not expect the user to stay on this page for long, nor should they! The page contains a link at the bottom with 'HERE!'. THe letters are uppercase and underlined to exaggerate where the user has to click.
+  - I do not expect the user to stay on this page for long, nor should they! The page contains a link at the bottom with 'HERE!'. THe letters are uppercase and underlined to exaggerate where the user has to click.
   - Failing that, the navigation bar remains at the top of the page, allowing the user to click on any of the established links to return back to the content pages of the website.
 
 
@@ -334,7 +338,7 @@ Frameworks and Libraries
   HTML
     <details>
       <summary>'index.html' - Zero Errors</summary>
-      ![index.html](asssts/readme-images/w3schools-index-validator.png)
+      ![index.html](assets/readme-images/w3schools-index-validator.png)
     </details>
     <details>
     <summary>'sign-up.html' - Zero Errors</summary>
@@ -478,12 +482,12 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
   
   <br>
  - Bug 2 - Sign-Up Form
-  Position: Relative' and 'Position: Absolute'. For Desktop and Tablets there was no issue. However, on Mobile devices, the sign-up form was off the page, or loading over the footer. I solved this issue by removing the background image and using a background colour instead. I also made a smaller font-size, and managed to move the Position: Absolute toward the left side.
+  Position: Relative' and 'Position: Absolute'. For Desktop and Tablets there was no issue. However, on mobile devices, the sign-up form was off the page, or loading over the footer. I solved this issue by removing the background image and using a background colour instead. This also help to dramatically increase the performance of on mobile devices. I also made a smaller font-size, and managed to move the Position: Absolute toward the left side.
 
 <br>
 
  - Bug 3 - Navigation Bar
-  I had issues regarding the Navigation Bar for Mobile Devices. I used Flexbox in order to create the Nav bar, however, on a Mobile device it looked too 'busy' with messy ordering. I opted to change the Nav bar to a column on Mobile devices. This was a better representation. Using two different iPhones, I was able to use the links without any difficulty. This could be a future bug, as I note that it was the Nav bar that hindered my 100% scores to mid 90s on Lighthouse. Going forward, I would like to implement a 'Hamburger' Nav bar for Mobile devices. Upon research, JavaScript is required for this. After immersing myself into JavaScript, this bug will be corrected, and as such achieve 100% on Lighthouse.
+  I had issues regarding the Navigation Bar for Mobile Devices. I used Flexbox in order to create the nav bar, however, on a Mobile device it looked too 'busy' with messy ordering. I opted to change the Nav bar to a column on Mobile devices. This was a better representation. Using two different iPhones, I was able to use the links without any difficulty. This could be a future bug, as I note that it was the Nav bar that hindered my 100% scores to mid 90s on Lighthouse. Going forward, I would like to implement a 'Hamburger' Nav bar for Mobile devices. Upon research, JavaScript is required for this. After immersing myself into JavaScript, this bug will be corrected, and as such achieve 100% on Lighthouse.
 
   <br>
 
@@ -514,7 +518,7 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
   All written content is purely fictional. I created the written content myself as the company is also fictional. 
   - The training section was inspired by a section of tutorial project, [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/05-meetup-times), via the Code Institute.
   - A lot of research was placed on [Stack Overflow](https://stackoverflow.com/), [W3Schools](https://www.w3schools.com/), [Mozilla Developer](https://developer.mozilla.org/en-US/)
-  - I implemented a 'Scroll to Top Button - [Scroll to Top Button](https://www.youtube.com/watch?v=Vef9bxTilCU&ab_channel=DarkCode)
+  - I implemented a 'Scroll to Top Button' - [Scroll to Top Button](https://www.youtube.com/watch?v=Vef9bxTilCU&ab_channel=DarkCode)
   - Help with Code for the form [Form Code](https://dev.to/uma/responsive-form-using-html-and-css-4l59)
   - [Position Absolute and Relative](https://thoughtbot.com/blog/positioning#position)
   -  [CSS Tricks Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
