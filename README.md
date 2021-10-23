@@ -237,8 +237,11 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Training Times
 
-  - Lorem
-  - Lorem
+  - This section is a continuation of the block colour and alternating imagery design pattern. 
+  - This image used a background image, which is a birdseye view of a football match. I specifically wanted an image like this to represent this section. It is a fantastic backdrop for what the children will be playing on during the training sessions.
+  - Like the 'Prices' section, the information is to the point. Dates, location, time and age group are clearly seen.
+  - There is also a Google Map pinpoint the location of the training session for the user to plan how to get there.
+  - Underneath there is a postal address with the the strong blue background. This was used to really show the information at hand, even if the user is glancing quickly. This was chosen to help the user find the address should they be travelling to the location for the first time. The address can be seen instantly, as we imagine stopping to input the information into a sat nav whilst driving can be a stressful situation!
   - For Mobile devices, the boxes stack vertically.
 
 ![Training Times](/assests/readme-images/features-training-times.png)
@@ -248,9 +251,10 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Footer
 
-  - Lorem
-  - Lorem
-  - Lorem
+  - The footer matches the same design pattern as the navigation bar.
+  - We chose simple logos, using the same styling, to continue the simple and minimalist feel.  
+  - Each social media page opens up in a new tab. This is to give the user a good experience in accessing a different page, but remaining on our website a the same time.
+
 
 ![Footer](/assests/readme-images/features-footer.png)
 
@@ -259,9 +263,9 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Go To Top Button
 
-  - Lorem
-  - Lorem
-  - Lorem
+  - As the main content of our website is a single-page scroll, we implemented am 'up' arrow to allow the user to return to the top of the website. The button is in the same font colour as the website, with the dark blue colour used for the logo. This is to allow the user to clearly see it at all times.
+  - This was used instead of a sticky Nav bar, as it is something slightly different. A sticky nav bar would clash with each section title. The background colour of the nav bar and each section is the same. This is to create a nice aesthetic. The sticky nav bar would confuse the user, as it could blend in with the section title.
+  - This feature is only on tablet and above devices.
 
 ![Go To Top Button](/assests/readme-images/features-go-to-top-btn.png)
 
@@ -270,9 +274,11 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Sign Up Page
 
-  - Lorem
-  - Lorem
-  - Lorem
+  - The Sign Up form is on a new page. This is to show the importance of the form. It deserves it's own page. After the user has scrolled the main page, they would have the information they seek about whether to sign their child up.
+  - The background image is a fantastic image to be used on this page. It shows children standing around a coach with a clip-board and pen. The form is positioned over the image which give a great design juxtaposition.
+  - The form is simple, and keeps in with the design colours of the main page, for a great user experience.
+  - Form has several required fields. This is to ensure the website owners receive the correct information for the child to join their training sessions.
+  - The mobile design uses the a block colour as the background. This is so the background image doesn't distract the user from the form. This was also used as a way to improve the loading speed for the website. With the image it only scored 73% on Lighthouse. To improve the user experience, I wanted at least 90% in all fields on all devices.
 
 ![Sign Up Page](/assests/readme-images/features-signup-form.png)
 ![Sign Up Page - Mobile](/assests/readme-images/features-signup-form-mobile.png)
