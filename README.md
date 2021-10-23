@@ -282,6 +282,8 @@ After website completion, I submitted the website to Code Institute's Slack Comm
 
 ### Accessibility
 
+The website passes on all aspects of accessibility and colour contrast. 
+
 Lighthouse Testing
 
   <details>
@@ -302,7 +304,6 @@ Lighthouse Testing
   ![signup Desktop](/assests/readme-images/lighthouse-signup-desktop.png)
   </details>
 
-    
   <details>
   <summary>'sign-up.html' - Mobile</summary>
 
@@ -331,11 +332,64 @@ Lighthouse Testing
   <summary>'404.html' - Mobile</summary>
 
   ![404 Mobile](/assests/readme-images/lighthouse-404-mobile.png)
+  </details>  
+
+<br>
+Wave
+
+  <details>
+  <summary>'index.html'</summary>
+
+  ![index Mobile](/assests/readme-images/wave-index.png)
   </details>
 
+  <details>
+  <summary>'sign-up.html'</summary>
+
+  ![signup](/assests/readme-images/wave-signup.png)
+  </details> 
+
+  <details>
+  <summary>'form-submit.html'</summary>
+
+  ![formsubmit](/assests/readme-images/wave-formsubmit.png)
+  </details>
+
+  <details>
+  <summary>'404.html'</summary>
+
+  ![404](/assests/readme-images/wave-404.png)
+  </details>  
+  
 ### Bugs
 
-  - Mention any bugs and shortcomings and explain why.
+I had a lot of issues with the Sign-Up Form. It took me a long time to come to a final solution of having a fully responsive form for all media devices.
+
+- Bug 1 - Hero Image
+  I had issues with my original hero image. Due to context of the image, and the pixel size, it created an off-balance look. It overcome this, I opted for a different hero image. Upon speaking with the test users and owners, they agreed that the new hero image was better for the overall story of the website.
+  
+  <br>
+
+- Bug 2 - Coaches & Contact Us
+  I had issues with the content for each coach. I solved this by using Flexbox. I also opted to remove the coaches' facts on mobile devices. This is so contact information is clearly seen by the user. 
+  
+  <br>
+ - Bug 2 - Sign-Up Form
+  Position: Relative' and 'Position: Absolute'. For Desktop and Tablets there was no issue. However, on Mobile devices, the sign-up form was off the page, or loading over the footer. I solved this issue by removing the background image and using a background colour instead. I also made a smaller font-size, and managed to move the Position: Absolute toward the left side.
+
+<br>
+
+ - Bug 3 - Navigation Bar
+  I had issues regarding the Navigation Bar for Mobile Devices. I used Flexbox in order to create the Nav bar, however, on a Mobile device it looked too 'busy' with messy ordering. I opted to change the Nav bar to a column on Mobile devices. This was a better representation. Using two different iPhones, I was able to use the links without any difficulty. This could be a future bug, as I note that it was the Nav bar that hindered my 100% scores to mid 90s on Lighthouse. Going forward, I would like to implement a 'Hamburger' Nav bar for Mobile devices. Upon research, JavaScript is required for this. After immersing myself into JavaScript, this bug will be corrected, and as such achieve 100% on Lighthouse.
+
+  <br>
+
+- Bug 4 - W3Schools Validator
+  After running my code through the validator. It returned several 'typos' within the code itself. This included:
+    - Unclosed Divs.
+    - Divs within the Fieldset and Legend
+    - 'Di' being typed instead of Divs. 
+
 
 ## Deployment
 
