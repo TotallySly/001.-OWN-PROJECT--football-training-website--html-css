@@ -413,7 +413,7 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
   - I implemented a 'Scroll to Top Button - [Scroll to Top Button](https://www.youtube.com/watch?v=Vef9bxTilCU&ab_channel=DarkCode)
   - Help with Code for the form [Form Code](https://dev.to/uma/responsive-form-using-html-and-css-4l59)
   - [Position Absolute and Relative](https://thoughtbot.com/blog/positioning#position)
-  -  [CSS Tricks Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  -  [CSS Tricks Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
   -  [Which CSS Units to Use?](https://gist.github.com/basham/2175a16ab7c60ce8e001)
   -  [Responsive Google Maps](https://blog.duda.co/responsive-google-maps-for-your-website)
   -  [Media Queries](https://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile)
@@ -421,29 +421,19 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
       - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/playlists) (Flexbox, Absolute/Relative Position).
       - [Kevin Powell](https://www.youtube.com/kepowob). (Flexbox, Absolute/Relative Position)
       - [Minim](https://www.youtube.com/watch?v=VX_Dghv65Vk&list=PL4cTxE4s2XIYJL6uPQUwMt25M70gPl-O6&index=14&ab_channel=Minim). (Sign-Up form).
+  - The README Template was a mix of Code Institute's README Template for [Love Running](https://github.com/Code-Institute-Solutions/readme-template) and the excellent website and README by [Aofie Smith](https://github.com/aoifesmith/evanandanna/blob/main/README.md)
 
-
-
-https://blog.duda.co/responsive-google-maps-for-your-website
-
-http://www.responsivepx.com/
-
-https://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile
-
-https://www.youtube.com/watch?v=Vef9bxTilCU&ab_channel=DarkCode - SCROLL TO TOP BUTTON
-
-
-  - 
   - Icons where via the amazing website - [Font Awesome](https://fontawesome.com/).
   - The colour palette was from [Coolors](https://coolors.co/)
+  - Additional Responsive Tool [Responsive PX](http://www.responsivepx.com/)
+  - And of course, Google Dev Tools.
 
 ### Media
 
   - My images were from two stock image websites: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
-  - Write about each photo image.
 
 
-Landing Image [Ruslan Alekso](https://www.pexels.com/@oskelaq)
+Hero Image [Pixabay](https://www.pexels.com/@pixabay)
 Coaches Background Image [Ralph (Ravi) Kayden](https://unsplash.com/@ralphkayden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 Coach Richards Image [Midas Hofstra](https://unsplash.com/@midashofstra)
 Coach Edwards Image [Ben Den Engelsen](https://unsplash.com/@benjeeeman)
@@ -454,19 +444,4 @@ Sign-Up Background Image [Kampus](https://www.pexels.com/@kampus)
 
 I would like to thank my Code Institute mentor Antonija Simic for her help and guidance during this project.
 
-I would like to thank the Code Institute Slack community for all their support and help with various general questions I have asked thus far.
-
-A deep dive of various README files from the CI community. Especially in learning Markdown and layout structure. 
-
-
-
-
-
-
-
-
-
-
-
-
-
+I would like to thank the Code Institute Slack community for all their support and help with various general questions I have asked thus far. Specifically to David_Bowers5p and Aoife Smith_5p for their Peer-Code-Review feedback, and Eventyret_Mentor for answering a lot of my questions. 
