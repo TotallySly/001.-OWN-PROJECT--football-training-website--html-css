@@ -98,7 +98,7 @@ address {
 
 .hero-image {
   height: 600px;
-  background-image: url('../images/landing-image.png');
+  background-image: url('../images/hero-image.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -116,6 +116,7 @@ address {
   font-weight: 300;
   padding-top: 0.75em;
   padding-bottom: 0.75em;
+  text-transform: capitalize;
 }
 
 

@@ -493,7 +493,12 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
   After running my code through the validator. It returned several 'typos' within the code itself. This included:
     - Unclosed Divs.
     - Divs within the Fieldset and Legend
-    - 'Di' being typed instead of Divs. 
+    - 'Di' being typed instead of Divs.
+
+<br>
+
+- Bugging me. The typo in the assests folder....... That is just bugging me completely.
+
 
 ***
 
