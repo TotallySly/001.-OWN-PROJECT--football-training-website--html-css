@@ -233,8 +233,25 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - Lorem
   - Lorem
 
-![Sign Up Page](/assests/readme-images/features-go-to-top-btn.png)
+![Sign Up Page](/assests/readme-images/features-signup-form.png)
+![Sign Up Page - Mobile](/assests/readme-images/features-signup-form-mobile.png)
 
+
+-__Submitted Form__
+
+  - Lorem
+  - Lorem
+  - Lorem
+
+![Submitted Form](/assests/readme-images/features-formsubmit.png)
+
+-__Error 404__
+
+  - Lorem
+  - Lorem
+  - Lorem
+
+![Error 404](/assests/readme-images/features-404.png)
 
 
 
@@ -247,8 +264,6 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - Lorem
 
 ## Testing
-
-  - Write about how the website works and I need to convince the assessor that I have successfully conducted tests on the website for all devices and browsers.
 
 ### Validator Testing
 
