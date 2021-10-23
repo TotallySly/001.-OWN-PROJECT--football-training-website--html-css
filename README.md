@@ -98,21 +98,21 @@ I originally drew my mock-ups by hand. I then created a digital mock-up using Ba
 <details>
   <summary>Desktop Wireframe</summary>
 
-![Desktop Wireframe](/assests/readme-images/Desktop.png)
+![Desktop Wireframe](/assests/readme-images/wireframes-desktop.png)
 
 </details>
 
 <details>
  <summary>Tablet Wireframe</summary>
 
-![Tablet Wireframe](/assests/readme-images/Tablet.png)
+![Tablet Wireframe](/assests/readme-images/wireframes-tablet.png)
  
  </details>
 
 <details>
  <summary>Mobile Wireframe</summary>
 
-![Mobile Wireframe](/assests/readme-images/Mobile%20Devices%20.png)
+![Mobile Wireframe](/assests/readme-images/wireframes-mobile.png)
 </details>
 
 ***
@@ -139,7 +139,7 @@ I wanted colours that had a strong relationship with football teams traditional 
 
 Initially, I could not settle between a red or blue colour pallette. I settled with blue for two reasons. The first being that red is quite a powerful colour. Visually, it can be rather distracting and make the website less accessible for all users. Secondly, a lot of the imagery I used had powerful blue colours, with white being secondary. To help maintain a great visual design I opted for blue.
 
-![Colour Palette](/assests/readme-images/colour-scheme.png/)
+![Colour Palette](/assests/readme-images/design-colour-scheme.png/)
 
 I felt that these colours best represented a 'warmer' blue, had they had a strong association with football. These colours provided great visual readability of all aspects of the website. There is a good collection of background colours, text colours, and overlay styled colours.
 
@@ -160,7 +160,7 @@ I felt that these colours best represented a 'warmer' blue, had they had a stron
 
 I used Google Fonts to select my fonts.
 
-![Typography](/assests/readme-images/font-family.png)
+![Typography](/assests/readme-images/design-font-family.png)
 
 I like sleek and minimalist font styles. I narrowed down my search for these style of fonts. The font that instantly stood out was 'Raleway'. I used Google's popular pairings with 'Raleway'. Upon testing each selection, I settled on pairing 'Raleway' with 'Montserrat'.
 
