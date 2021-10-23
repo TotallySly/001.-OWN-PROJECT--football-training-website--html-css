@@ -8,7 +8,7 @@ The website was made using the 'Mobile-First' concept. The idea being that the w
 
 Link to the live [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
 
-![Responsive Mockup](/assests/readme-images/responsive-mockup.png)
+![Responsive Mockup](assets/readme-images/responsive-mockup.png)
 
 ***
 
@@ -98,21 +98,21 @@ I originally drew my mock-ups by hand. I then created a digital mock-up using Ba
 <details>
   <summary>Desktop Wireframe</summary>
 
-![Desktop Wireframe](/assests/readme-images/wireframes-desktop.png)
+![Desktop Wireframe](assets/readme-images/wireframes-desktop.png)
 
 </details>
 
 <details>
  <summary>Tablet Wireframe</summary>
 
-![Tablet Wireframe](/assests/readme-images/wireframes-tablet.png)
+![Tablet Wireframe](assets/readme-images/wireframes-tablet.png)
  
  </details>
 
 <details>
  <summary>Mobile Wireframe</summary>
 
-![Mobile Wireframe](/assests/readme-images/wireframes-mobile.png)
+![Mobile Wireframe](assets/readme-images/wireframes-mobile.png)
 </details>
 
 ***
@@ -139,7 +139,7 @@ I wanted colours that had a strong relationship with football teams traditional 
 
 Initially, I could not settle between a red or blue colour pallette. I settled with blue for two reasons. The first being that red is quite a powerful colour. Visually, it can be rather distracting and make the website less accessible for all users. Secondly, a lot of the imagery I used had powerful blue colours, with white being secondary. To help maintain a great visual design I opted for blue.
 
-![Colour Palette](/assests/readme-images/design-colour-scheme.png/)
+![Colour Palette](assets/readme-images/design-colour-scheme.png/)
 
 I felt that these colours best represented a 'warmer' blue, had they had a strong association with football. These colours provided great visual readability of all aspects of the website. There is a good collection of background colours, text colours, and overlay styled colours.
 
@@ -160,7 +160,7 @@ I felt that these colours best represented a 'warmer' blue, had they had a stron
 
 I used Google Fonts to select my fonts.
 
-![Typography](/assests/readme-images/design-font-family.png)
+![Typography](assets/readme-images/design-font-family.png)
 
 I like sleek and minimalist font styles. I narrowed down my search for these style of fonts. The font that instantly stood out was 'Raleway'. I used Google's popular pairings with 'Raleway'. Upon testing each selection, I settled on pairing 'Raleway' with 'Montserrat'.
 
@@ -176,7 +176,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   
   -The logo is a simple font based logo to keep with a more minimalist and sleek design. The logo also doubles up as a navigational link, to allow the user to always return to the home page.
 
-![Logo]('/../assests/readme-images/features-logo.png)
+![Logo]('assets/readme-images/features-logo.png)
  
  ***
 
@@ -185,8 +185,8 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - The navigation bar is featured on both pages of the website. The main page of the website is a single page website, which the navigation links will help the user    jump down to each specific section. 
   - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibility.
 
-![Nav Bar](/assests/readme-images/features-navbar.png)
-![Nav Bar Mobile](assests/readme-images/features-navbar-mobile.png)
+![Nav Bar](assets/readme-images/features-navbar.png)
+![Nav Bar Mobile](assets/readme-images/features-navbar-mobile.png)
 
 ***
 
@@ -196,7 +196,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - This section provides a large football training related photo that is colourful and eye-catching. The image colours also maintain the colour theme of the website. The center piece of the image, shows a nice light blue, with tones of white being the secondary stand-out colour.
   - For mobile devices I opted for the text overlay to have a bold background colour and to sit on top of the landing page image. I chose this design as it felt that this information would be read instantly when the user access the website on a mobile device. It also maintains a visual balance of block text, image, block text etc achieved with the website. 
 
-![Hero Image](/assests/readme-images/features-hero.png)
+![Hero Image](assets/readme-images/features-hero.png)
 
 ***
 
@@ -206,7 +206,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - It shows how the club is diverse and inclusive, to help put parents minds at ease.
   - The second is a block background with font. I wanted to keep a minimalist approach, with straight to the point text. Information is clear, concise and can be read easily.
 
-![About Us](/assests/readme-images/features-aboutus.png)
+![About Us](assets/readme-images/features-aboutus.png)
 
 ***
 
@@ -216,8 +216,8 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - On tablets and above, there is extra information regarding the coaches. This follows the styling of the 'About Us' section. Quick, bite-sized facts establishing the coaches credentials. Only profile photos, mobile and email contact details are visible for mobile devices. This is to provide the most important information to the user if accessing on a mobile. Also, if a user needs to get in contact with a coach, the information is present without any distracting information.
   - In keeping with the visual design of this website, the background image is zoomed in. Each coach information is separated within their own box stacked on top of each other. The opaque background allows the content to be visible as a text overlay of the image. Again, maintaining visual design patterns.
 
-![Coaches & Contact Us - Desktop](/assests/readme-images/features-coaches-and-contact-us.png)
-![Coaches & Contact Us - Mobile](/assests/readme-images/features-coaches-and-contact-us-mobile.png)
+![Coaches & Contact Us - Desktop](assets/readme-images/features-coaches-and-contact-us.png)
+![Coaches & Contact Us - Mobile](assets/readme-images/features-coaches-and-contact-us-mobile.png)
 
 ***
 
@@ -228,7 +228,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - The football icon is a nice break up of the text, whilst also reinforcing the football content.
   - For mobile devices they stack vertically.
 
-![Prices](/assests/readme-images/features-prices.png)
+![Prices](assets/readme-images/features-prices.png)
 
 ***
 
@@ -241,7 +241,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - Underneath there is a postal address with the the strong blue background. This was used to really show the information at hand, even if the user is glancing quickly. This was chosen to help the user find the address should they be travelling to the location for the first time. The address can be seen instantly, as we imagine stopping to input the information into a sat nav whilst driving can be a stressful situation!
   - For Mobile devices, the boxes stack vertically.
 
-![Training Times](/assests/readme-images/features-training-times.png)
+![Training Times](assets/readme-images/features-training-times.png)
 
 ***
 
@@ -252,7 +252,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - Each social media page opens up in a new tab. This is to give the user a good experience in accessing a different page, but remaining on our website a the same time.
 
 
-![Footer](/assests/readme-images/features-footer.png)
+![Footer](assets/readme-images/features-footer.png)
 
 ***
 
@@ -262,7 +262,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - This was used instead of a sticky Nav bar, as it is something slightly different. A sticky nav bar would clash with each section title. The background colour of the nav bar and each section is the same. This is to create a nice aesthetic. The sticky nav bar would confuse the user, as it could blend in with the section title.
   - This feature is only on tablet and above devices.
 
-![Go To Top Button](/assests/readme-images/features-go-to-top-btn.png)
+![Go To Top Button](assets/readme-images/features-go-to-top-btn.png)
 
 ***
 
@@ -274,8 +274,8 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - Form has several required fields. This is to ensure the website owners receive the correct information for the child to join their training sessions.
   - The mobile design uses the a block colour as the background. This is so the background image doesn't distract the user from the form. This was also used as a way to improve the loading speed for the website. With the image it only scored 73% on Lighthouse. To improve the user experience, I wanted at least 90% in all fields on all devices.
 
-![Sign Up Page](/assests/readme-images/features-signup-form.png)
-![Sign Up Page - Mobile](/assests/readme-images/features-signup-form-mobile.png)
+![Sign Up Page](assets/readme-images/features-signup-form.png)
+![Sign Up Page - Mobile](assets/readme-images/features-signup-form-mobile.png)
 
 ***
 
@@ -285,7 +285,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - The user wants to know we have received the form, and that they we welcome at training, therefore there are no visual distractions.
   - Lorem
 
-![Submitted Form](/assests/readme-images/features-formsubmit.png)
+![Submitted Form](assets/readme-images/features-formsubmit.png)
 
 ***
 
@@ -295,7 +295,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - Failing that, the navigation bar remains at the top of the page, allowing the user to click on any of the established links to return back to the content pages of the website.
 
 
-![Error 404](/assests/readme-images/features-404.png)
+![Error 404](assets/readme-images/features-404.png)
 
 ***
 
@@ -336,19 +336,19 @@ Frameworks and Libraries
   HTML
     <details>
       <summary>'index.html' - Zero Errors</summary>
-      ![index.html](/assests/readme-images/w3schools-index-validator.png)
+      ![index.html](asssts/readme-images/w3schools-index-validator.png)
     </details>
     <details>
     <summary>'sign-up.html' - Zero Errors</summary>
-    ![sign-up.html](assests/readme-images/w3schoold-sign-up-validator.png)
+    ![sign-up.html](assets/readme-images/w3schoold-sign-up-validator.png)
     </details>
         <details>
     <summary>'form-submit.html' - Zero Errors</summary>
-    ![form-submit.html](/assests/readme-images/w3schools-form-submit-validator.png)
+    ![form-submit.html](assets/readme-images/w3schools-form-submit-validator.png)
     </details>
             <details>
     <summary>'404.html' - Zero Errors</summary>
-    ![404.html](/assests/readme-images/w3schoold-404-validator%20.png)
+    ![404.html](assets/readme-images/w3schoold-404-validator%20.png)
     </details>
 
 
@@ -356,11 +356,11 @@ Frameworks and Libraries
   CSS
     <details>
       <summary>'styles.css' - Zero Errors</summary>
-      ![styles.css](/assests/readme-images/w3schools-css-validator.png)
+      ![styles.css](assets/readme-images/w3schools-css-validator.png)
     </details>
     <details>
       <summary>'styles.css' - 1 Warning</summary>
-      ![One Warning](/assests/readme-images/w3schools-css-warning.png)
+      ![One Warning](assets/readme-images/w3schools-css-warning.png)
     </details>
 
   This is due to importing Google Fonts onto the CSS stylesheet. The W3Schools Jigsaw Validator does not check imported style sheets.
@@ -392,49 +392,49 @@ Lighthouse Testing
   <details>
   <summary>'index.html' - Desktop</summary>
 
-  ![index Desktop](/assests/readme-images/lighthouse-index-desktop.png)
+  ![index Desktop](assets/readme-images/lighthouse-index-desktop.png)
   </details>
 
   <details>
   <summary>'index.html' - Mobile</summary>
 
-  ![index Mobile](/assests/readme-images/lighthouse-index-mobile.png)
+  ![index Mobile](assets/readme-images/lighthouse-index-mobile.png)
   </details>
 
   <details>
   <summary>'sign-up.html' - Desktop</summary>
 
-  ![signup Desktop](/assests/readme-images/lighthouse-signup-desktop.png)
+  ![signup Desktop](assets/readme-images/lighthouse-signup-desktop.png)
   </details>
 
   <details>
   <summary>'sign-up.html' - Mobile</summary>
 
-  ![signup Mobile](/assests/readme-images/lighthouse-signup-mobile.png)
+  ![signup Mobile](assets/readme-images/lighthouse-signup-mobile.png)
   </details>
 
   <details>
   <summary>'formsubmit.html' - Desktop</summary>
 
-  ![formsubmit Desktop](/assests/readme-images/lighthouse-formsubmit-desktop.png)
+  ![formsubmit Desktop](assets/readme-images/lighthouse-formsubmit-desktop.png)
   </details>
 
   <details>
   <summary>'formsubmit.html' - Mobile</summary>
 
-  ![formsubmit Mobile](/assests/readme-images/lighthouse-formsubmit-mobile.png)
+  ![formsubmit Mobile](assets/readme-images/lighthouse-formsubmit-mobile.png)
   </details>
 
   <details>
   <summary>'404.html' - Desktop</summary>
 
-  ![404 Desktop](/assests/readme-images/lighthouse-404-desktop.png)
+  ![404 Desktop](assets/readme-images/lighthouse-404-desktop.png)
   </details>
 
   <details>
   <summary>'404.html' - Mobile</summary>
 
-  ![404 Mobile](/assests/readme-images/lighthouse-404-mobile.png)
+  ![404 Mobile](assets/readme-images/lighthouse-404-mobile.png)
   </details>  
 
 <br>
@@ -443,25 +443,25 @@ Wave
   <details>
   <summary>'index.html'</summary>
 
-  ![index Mobile](/assests/readme-images/wave-index.png)
+  ![index Mobile](assets/readme-images/wave-index.png)
   </details>
 
   <details>
   <summary>'sign-up.html'</summary>
 
-  ![signup](/assests/readme-images/wave-signup.png)
+  ![signup](assets/readme-images/wave-signup.png)
   </details> 
 
   <details>
   <summary>'form-submit.html'</summary>
 
-  ![formsubmit](/assests/readme-images/wave-formsubmit.png)
+  ![formsubmit](assets/readme-images/wave-formsubmit.png)
   </details>
 
   <details>
   <summary>'404.html'</summary>
 
-  ![404](/assests/readme-images/wave-404.png)
+  ![404](assets/readme-images/wave-404.png)
   </details>  
   
 ***
@@ -495,13 +495,7 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
     - Divs within the Fieldset and Legend
     - 'Di' being typed instead of Divs.
 
-<br>
-
-- Bugging me. The typo in the assests folder....... That is just bugging me completely.
-
-
 ***
-
 
 ## Deployment
   
