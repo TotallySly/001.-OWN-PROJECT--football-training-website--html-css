@@ -291,9 +291,9 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Error 404
 
-  - We do not expect the user to stay on this page for long, nor should they! The page contains a link at the bottom with 'Here!' the h is uppercase with an exclamation mark to show the importance. 
+  - We do not expect the user to stay on this page for long, nor should they! The page contains a link at the bottom with 'HERE!'. THe letters are uppercase and underlined to exaggerate where the user has to click.
   - Failing that, the navigation bar remains at the top of the page, allowing the user to click on any of the established links to return back to the content pages of the website.
-  - Lorem
+
 
 ![Error 404](/assests/readme-images/features-404.png)
 
