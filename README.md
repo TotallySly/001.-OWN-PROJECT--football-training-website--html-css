@@ -136,6 +136,8 @@ I felt that these colours best represented a 'warmer' blue, had they had a stron
     - Navigation bar colour.
   - 'F5F3F5'
     - Text/font colour. 
+  - '302B27'
+    - Borders 
 
 
 ### Typography
@@ -156,22 +158,24 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   
   -The logo is a simple font based logo to keep with a more minimalist and sleek design. The logo also doubles up as a navigational link, to allow the user to always return to the home page.
 
-![Logo](https:/)
+![Logo]('/../assests/readme-images/features-logo.png)
+
 
 - __Navigation Bar__
   
   - The navigation bar is featured on both pages of the website. The main page of the website is a single page website, which the navigation links will help the user    jump down to each specific section. 
   - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibility.
 
-![Nav Bar](https:/)
+![Nav Bar](/assests/readme-images/features-navbar.png)
+![Nav Bar Mobile](assests/readme-images/features-navbar-mobile.png)
 
-- __Landing Page Image__
+- __Hero Image__
 
   - The landing image is a photograph with a text overlay. This provides the user with instant information,  'what the site is about', 'age range', and 'location of the training sessions'. This allows the user instant clarification regarding the site.
   - This section provides a large football training related photo that is colourful and eye-catching. The image colours also maintain the colour theme of the website. The center piece of the image, shows a nice light blue, with tones of white being the secondary stand-out colour.
   - For mobile devices I opted for the text overlay to have a bold background colour and to sit on top of the landing page image. I chose this design as it felt that this information would be read instantly when the user access the website on a mobile device. It also maintains a visual balance of block text, image, block text etc achieved with the website. 
 
-![Landing Page](https:/)
+![Hero Image](/assests/readme-images/features-hero.png)
 
 - __About Us__
 
@@ -179,7 +183,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - It shows how the club is diverse and inclusive, to help put parents minds at ease.
   - The second is a block background with font. I wanted to keep a minimalist approach, with straight to the point text. Information is clear, concise and can be read easily.
 
-![About Us](https:/)
+![About Us](/assests/readme-images/features-aboutus.png)
 
 - __Coaches & Contact Us__
 
@@ -187,24 +191,25 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - On tablets and above, there is extra information regarding the coaches. This follows the styling of the 'About Us' section. Quick, bite-sized facts establishing the coaches credentials. Only profile photos, mobile and email contact details are visible for mobile devices. This is to provide the most important information to the user if accessing on a mobile. Also, if a user needs to get in contact with a coach, the information is present without any distracting information.
   - In keeping with the visual design of this website, the background image is zoomed in. Each coach information is separated within their own box stacked on top of each other. The opaque background allows the content to be visible as a text overlay of the image. Again, maintaining visual design patterns.
 
-![Coaches & Contact Us](https:/)
+![Coaches & Contact Us - Desktop](/assests/readme-images/features-coaches-and-contact-us.png)
+![Coaches & Contact Us - Mobile](/assests/readme-images/features-coaches-and-contact-us-mobile.png)
 
 -__Prices__
 
   - Lorem
   - Lorem
-  - Lorem
+  - For mobile devices they stack vertically.
 
-![Prices](https:/)
+![Prices](/assests/readme-images/features-prices.png)
 
 
 -__Training Times__
 
   - Lorem
   - Lorem
-  - Lorem
+  - For Mobile devices, the boxes stack vertically.
 
-![Training Times](https:/)
+![Training Times](/assests/readme-images/features-training-times.png)
 
 -__Footer__
 
@@ -212,15 +217,28 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - Lorem
   - Lorem
 
-![Footer](https:/)
+![Footer](/assests/readme-images/features-footer.png)
 
--__Sign-Up Page__
+-__Go To Top Button__
 
   - Lorem
   - Lorem
   - Lorem
 
-![Sign-Up Page](https:/)
+![Go To Top Button](/assests/readme-images/features-go-to-top-btn.png)
+
+-__Sign Up Page__
+
+  - Lorem
+  - Lorem
+  - Lorem
+
+![Sign Up Page](/assests/readme-images/features-go-to-top-btn.png)
+
+
+
+
+
 
 ### Features Left To Implement
 
