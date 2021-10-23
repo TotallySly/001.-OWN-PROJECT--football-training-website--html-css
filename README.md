@@ -404,24 +404,26 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
   - [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
 
 ## Credits
-
-  - Credit and reference any additional websites in which you got extra help from. Need to be very specific in regards to code used externally.
   
 ### Content
 
-  - All written content is purely fictional. I created the written content myself as the company is also fictional. 
+  All written content is purely fictional. I created the written content myself as the company is also fictional. 
   - The training section was inspired by a section of tutorial project, [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/05-meetup-times), via the Code Institute.
-  - A lot of research was placed on [Stack Overflow](https://stackoverflow.com/), [W3Schools](https://www.w3schools.com/), [Mozilla Developer](https://developer.mozilla.org/en-US/).
+  - A lot of research was placed on [Stack Overflow](https://stackoverflow.com/), [W3Schools](https://www.w3schools.com/), [Mozilla Developer](https://developer.mozilla.org/en-US/)
+  - I implemented a 'Scroll to Top Button - [Scroll to Top Button](https://www.youtube.com/watch?v=Vef9bxTilCU&ab_channel=DarkCode)
+  - Help with Code for the form [Form Code](https://dev.to/uma/responsive-form-using-html-and-css-4l59)
+  - [Position Absolute and Relative](https://thoughtbot.com/blog/positioning#position)
+  -  [CSS Tricks Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  -  [Which CSS Units to Use?](https://gist.github.com/basham/2175a16ab7c60ce8e001)
+  -  [Responsive Google Maps](https://blog.duda.co/responsive-google-maps-for-your-website)
+  -  [Media Queries](https://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile)
     - In addition several YouTube videos:
       - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/playlists) (Flexbox, Absolute/Relative Position).
       - [Kevin Powell](https://www.youtube.com/kepowob). (Flexbox, Absolute/Relative Position)
       - [Minim](https://www.youtube.com/watch?v=VX_Dghv65Vk&list=PL4cTxE4s2XIYJL6uPQUwMt25M70gPl-O6&index=14&ab_channel=Minim). (Sign-Up form).
 
-https://thoughtbot.com/blog/positioning#position
-https://coder-coder.com/display-divs-side-by-side/#flexbox-method
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-sizing--cms-31948
-https://gist.github.com/basham/2175a16ab7c60ce8e001
+
+
 https://blog.duda.co/responsive-google-maps-for-your-website
 
 http://www.responsivepx.com/
@@ -430,7 +432,6 @@ https://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-
 
 https://www.youtube.com/watch?v=Vef9bxTilCU&ab_channel=DarkCode - SCROLL TO TOP BUTTON
 
-https://dev.to/uma/responsive-form-using-html-and-css-4l59 - FORM HElP. ALSO LOVE RUNNING
 
   - 
   - Icons where via the amazing website - [Font Awesome](https://fontawesome.com/).
