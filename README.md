@@ -8,8 +8,9 @@ The website was made using the 'Mobile-First' concept. The idea being that the w
 
 Link to the live [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
 
-
 ![Responsive Mockup](/assests/readme-images/responsive-mockup.png)
+
+***
 
 ## Table of Contents
   * [UX and UI Design](#ux-and-ui-design)
@@ -25,6 +26,7 @@ Link to the live [The English Football Club - Website](https://totallysly.github
   * [Features](#features)
     * [Existing Features](#existing-features)
     * [Features Left To Implement](#features-left-to-implement)
+    * [Technologies Used](#technologies-used)
   * [Testing](#testing)
     * [Validator Testing](#validator-testing)
     * [Manual Testing](#manual-testing)
@@ -36,14 +38,15 @@ Link to the live [The English Football Club - Website](https://totallysly.github
     * [Media](#media)
     * [Acknowledgments](#acknowledgements)
 
+***
+
 ## UX and UI Design
 
 The owner of the company tasked me with designing and implementing a colourful, snappy, and to the point website. I agreed that this was best fit for their, and their user needs. The company itself is self-explanatory. They host football training in English for children (company based in Sweden). The website needed to reflect this, and did not need to create an informational overload for the user of the website. The owner required a website to detail prices, locations, and for parents to sign their child(ren) up to join the fun.
 
 With this in mind, it was clear that the website required colourful imagery, bold colouring, and minimal text content. All content had to be 'to the point' and quickly at hand for the user.
 
-****
-
+*** 
 
 ### Owner Goals
 
@@ -55,6 +58,8 @@ With this in mind, it was clear that the website required colourful imagery, bol
 - To display prices and any potential offers.
 - To show the times and location of the training sessions.
 
+***
+
 ### External User Goals
 
 - To sign up their children for the football training sessions.
@@ -62,6 +67,8 @@ With this in mind, it was clear that the website required colourful imagery, bol
 - See the cost of the training sessions.
 - See the location of the training sessions.
 - Quick access to the coaches mobile numbers in case of emergency.
+
+***
 
 ### User Stories
 
@@ -71,6 +78,8 @@ With this in mind, it was clear that the website required colourful imagery, bol
 - As a user of the website, I want to know the prices of the training sessions.
 - As a user of the website, I want to know where the training sessions are located.
 
+***
+
 ### Potential Features to Use
 
 - A sign-up form for the user and owner to receive information regarding new members to the training sessions. 
@@ -78,8 +87,7 @@ With this in mind, it was clear that the website required colourful imagery, bol
 - Google Maps embedded to show the location of the training sessions.
 - Links to different Social Media related to the club.
 
-****
-
+***
 
 ### Wireframes
 
@@ -107,8 +115,7 @@ I originally drew my mock-ups by hand. I then created a digital mock-up using Ba
 ![Mobile Wireframe](/assests/readme-images/Mobile%20Devices%20.png)
 </details>
 
-****
-
+***
 
 ## Design
 
@@ -122,8 +129,7 @@ The images collated helped to further present the story of the website. They vis
 
 The colours in the imagery helped with the final decision of my colour scheme.
 
-****
-
+***
 
 ### Colour Scheme
 
@@ -148,9 +154,7 @@ I felt that these colours best represented a 'warmer' blue, had they had a stron
   - '302B27'
     - Borders 
 
-****
-
-
+***
 
 ### Typography
 
@@ -162,8 +166,7 @@ I like sleek and minimalist font styles. I narrowed down my search for these sty
 
 The two fonts provided a nice and subtle difference. Due to its default font-weight, 'Montserrat' would be fantastic to use for the logo and each heading on the website. 'Raleway', with its slim minimalist feel, would be great to use for the main content of the website.
 
-****
-
+***
 
 ## Features
 
@@ -175,8 +178,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Logo]('/../assests/readme-images/features-logo.png)
  
- ****
-
+ ***
 
 #### Navigation Bar
   
@@ -186,7 +188,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 ![Nav Bar](/assests/readme-images/features-navbar.png)
 ![Nav Bar Mobile](assests/readme-images/features-navbar-mobile.png)
 
-****
+***
 
 #### Hero Image
 
@@ -196,8 +198,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Hero Image](/assests/readme-images/features-hero.png)
 
-****
-
+***
 
 #### About Us
 
@@ -207,8 +208,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![About Us](/assests/readme-images/features-aboutus.png)
 
-****
-
+***
 
 #### Coaches & Contact Us
 
@@ -219,8 +219,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 ![Coaches & Contact Us - Desktop](/assests/readme-images/features-coaches-and-contact-us.png)
 ![Coaches & Contact Us - Mobile](/assests/readme-images/features-coaches-and-contact-us-mobile.png)
 
-****
-
+***
 
 #### Prices
 
@@ -231,9 +230,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Prices](/assests/readme-images/features-prices.png)
 
-****
-
-
+***
 
 #### Training Times
 
@@ -246,8 +243,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Training Times](/assests/readme-images/features-training-times.png)
 
-****
-
+***
 
 #### Footer
 
@@ -258,8 +254,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Footer](/assests/readme-images/features-footer.png)
 
-****
-
+***
 
 #### Go To Top Button
 
@@ -269,8 +264,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Go To Top Button](/assests/readme-images/features-go-to-top-btn.png)
 
-****
-
+***
 
 #### Sign Up Page
 
@@ -283,37 +277,57 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 ![Sign Up Page](/assests/readme-images/features-signup-form.png)
 ![Sign Up Page - Mobile](/assests/readme-images/features-signup-form-mobile.png)
 
-****
+***
 
 #### Submitted Form
 
-  - Lorem
-  - Lorem
+  - We won't expect the user to stay long on this page. Hence the simple design of a background colour and font, which is in keeping with the style of the website.
+  - The user wants to know we have received the form, and that they we welcome at training, therefore there are no visual distractions.
   - Lorem
 
 ![Submitted Form](/assests/readme-images/features-formsubmit.png)
 
-****
+***
 
 #### Error 404
 
-  - Lorem
-  - Lorem
+  - We do not expect the user to stay on this page for long, nor should they! The page contains a link at the bottom with 'Here!' the h is uppercase with an exclamation mark to show the importance. 
+  - Failing that, the navigation bar remains at the top of the page, allowing the user to click on any of the established links to return back to the content pages of the website.
   - Lorem
 
 ![Error 404](/assests/readme-images/features-404.png)
 
-****
-
-
+***
 
 ### Features Left To Implement
 
   Gallery of future tournaments/fun days. As the tournaments, and fun days, have not happened yet, they cannot be added onto the website. Once they have been, the gallery will use the Masonry design method.
   
+***
 
-****
+## Technologies Used
 
+Languages
+  - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  - [CSS](https://en.wikipedia.org/wiki/CSS)
+  
+Frameworks and Libraries
+  - [Am I Responsive?](http://ami.responsivedesign.is/)
+  - [Balsamiq](https://balsamiq.com/)
+  - [Coolors.co](https://coolors.co/)
+  - [Font Awesome](https://fontawesome.com/)
+  - [GitBash](https://gitforwindows.org/)
+  - [GitHub](https://github.com/)
+  - [Google Dev Tools](https://developer.chrome.com/docs/devtools/)
+  - [Google Fonts](https://fonts.google.com/)
+  - [Pexels](https://www.pexels.com/)
+  - [Responsive PX](http://www.responsivepx.com/)
+  - [Slack](https://slack.com/intl/en-se/)
+  - [TinyPNG](https://tinypng.com/)
+  - [Unsplash](https://unsplash.com/)
+  - [VS Code](https://code.visualstudio.com/)
+
+***
 
 ## Testing
 
@@ -351,6 +365,8 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
   This is due to importing Google Fonts onto the CSS stylesheet. The W3Schools Jigsaw Validator does not check imported style sheets.
 
+***
+
 ### Manual Testing
 
 The site was manually tested throughout production. This included ensuring 
@@ -364,6 +380,8 @@ Responsive testing was conducted on a Windows Laptop, iPhone 7, iPhone 7 plus, a
 Testing was conducted on Google Chrome, Mozilla Firefox and Safari web browsers.
 
 After website completion, I submitted the website to Code Institute's Slack Community, specifically the 'Peer-Code-Review' channel. 
+
+***
 
 ### Accessibility
 
@@ -446,6 +464,8 @@ Wave
   ![404](/assests/readme-images/wave-404.png)
   </details>  
   
+***
+
 ### Bugs
 
 I had a lot of issues with the Sign-Up Form. It took me a long time to come to a final solution of having a fully responsive form for all media devices.
@@ -475,23 +495,20 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
     - Divs within the Fieldset and Legend
     - 'Di' being typed instead of Divs. 
 
-****
+***
 
 
 ## Deployment
-
-  - How deployed via GitHub
   
-    - The site was deployed to GitHub pages. The steps to deploy are as follows:
-      - In the GitHub repository, navigate to the Settings tab
-      - From the source section drop-down menu, select the Master Branch
-      - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  - The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+    - From the source section drop-down menu, select the Master Branch
+    - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 - The link:
   - [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
 
-****
-
+***
 
 ## Credits
   
@@ -518,6 +535,8 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
   - Additional Responsive Tool [Responsive PX](http://www.responsivepx.com/)
   - And of course, Google Dev Tools.
 
+***
+
 ### Media
 
   - My images were from two stock image websites: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
@@ -530,8 +549,12 @@ Coach Edwards Image [Ben Den Engelsen](https://unsplash.com/@benjeeeman)
 Training Times Image [Mike](https://www.pexels.com/@mike-468229)
 Sign-Up Background Image [Kampus](https://www.pexels.com/@kampus)
   
+***
+
 ### Acknowledgements
 
 I would like to thank my Code Institute mentor Antonija Simic for her help and guidance during this project.
 
 I would like to thank the Code Institute Slack community for all their support and help with various general questions I have asked thus far. Specifically to David_Bowers5p and Aoife Smith_5p for their Peer-Code-Review feedback, and Eventyret_Mentor for answering a lot of my questions. 
+
+***
