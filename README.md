@@ -1,10 +1,8 @@
 # The English Football Club
 
-The English Football Club's website is to promote their training sessions for children, between the ages of 7-10, living in Göteborg (Gothenburg), Sweden. The unique selling point of The English Football CLub, is that all training sessions are held in English.
+The English Football Club's website is to promote their training sessions for children, between the ages of 7-10, living in Göteborg (Gothenburg), Sweden. The unique selling point of The English Football Club, is that all training sessions are held in English.
 
-The site is targeted at parents of children who are looking for a sporting activity that will get their children outside and running and participating within teams. The site will display key information about the training sessions, prices, the coaches, and the location of said sessions. The site will also give parents the opportunity to sign their child(ren) up to participate.
-
-The website was made using the 'Mobile-First' concept. The idea being that the website is mobile friendly always. The content will be less on a mobile screen, and more information will be displayed as the screen gets larger. This is also to make the website fully responsive.
+The site is targeted at parents of children who are looking for a sporting activity that will get their children outside and running and participating within teams. The site will display key information about the training sessions, prices, the coaches, and the location of said sessions. The site will also give parents the opportunity to sign their child up to participate.
 
 Link to the live [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
 
@@ -42,7 +40,7 @@ Link to the live [The English Football Club - Website](https://totallysly.github
 
 ## UX and UI Design
 
-The owner of the company tasked me with designing and implementing a colourful, snappy, and to the point website. I agreed that this was best fit for their, and their user needs. The company itself is self-explanatory. They host football training in English for children (company based in Sweden). The website needed to reflect this, and did not need to create an informational overload for the user of the website. The owner required a website to detail prices, locations, and for parents to sign their child(ren) up to join the fun.
+The owner of the company tasked me with designing and implementing a colourful, snappy, and to the point website. I agreed that this was best fit for their, and their user needs. The company itself is self-explanatory. They host football training in English for children (company based in Sweden). The website needed to reflect this, and did not need to create an informational overload for the user of the website. The owner required a website to detail prices, locations, and for parents to sign their child up to join the fun.
 
 With this in mind, it was clear that the website required colourful imagery, bold colouring, and minimal text content. All content had to be 'to the point' and quickly at hand for the user.
 
@@ -85,7 +83,7 @@ With this in mind, it was clear that the website required colourful imagery, bol
 - A sign-up form for the user and owner to receive information regarding new members to the training sessions. 
 - Profiles of the coaches.
 - Google Maps embedded to show the location of the training sessions.
-- Links to different Social Media related to the club.
+- Links to different social media related to the club.
 
 ***
 
@@ -141,7 +139,7 @@ Initially, I could not settle between a red or blue colour pallette. I settled w
 
 ![Colour Palette](assets/readme-images/design-colour-scheme.png/)
 
-I felt that these colours best represented a 'warmer' blue, had they had a strong association with football. These colours provided great visual readability of all aspects of the website. There is a good collection of background colours, text colours, and overlay styled colours.
+I felt that these colours best represented a 'warmer' blue, had they had a strong association with football. These colours provided great visual readability of all aspects of the website. This is a good collection of background colours, text colours, and overlay styled colours.
 
   - '1B264F'
     - Main background colour. Used for the logo and block backgrounds.
