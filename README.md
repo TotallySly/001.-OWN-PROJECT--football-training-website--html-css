@@ -42,6 +42,9 @@ The owner of the company tasked me with designing and implementing a colourful, 
 
 With this in mind, it was clear that the website required colourful imagery, bold colouring, and minimal text content. All content had to be 'to the point' and quickly at hand for the user.
 
+****
+
+
 ### Owner Goals
 
 - To allow users to sign their child up to join the training sessions.
@@ -75,6 +78,9 @@ With this in mind, it was clear that the website required colourful imagery, bol
 - Google Maps embedded to show the location of the training sessions.
 - Links to different Social Media related to the club.
 
+****
+
+
 ### Wireframes
 
 All three of my wireframes are very basic mock-ups. I was concerned with creating the layout, rather than a content. 
@@ -99,10 +105,10 @@ I originally drew my mock-ups by hand. I then created a digital mock-up using Ba
  <summary>Mobile Wireframe</summary>
 
 ![Mobile Wireframe](/assests/readme-images/Mobile%20Devices%20.png)
-
-
-
 </details>
+
+****
+
 
 ## Design
 
@@ -115,6 +121,9 @@ I wanted images that best represented football sessions for children between 7 a
 The images collated helped to further present the story of the website. They visually demonstrate a fun and vibrant social gathering for children, where they will take part in football training sessions.
 
 The colours in the imagery helped with the final decision of my colour scheme.
+
+****
+
 
 ### Colour Scheme
 
@@ -139,6 +148,9 @@ I felt that these colours best represented a 'warmer' blue, had they had a stron
   - '302B27'
     - Borders 
 
+****
+
+
 
 ### Typography
 
@@ -150,18 +162,23 @@ I like sleek and minimalist font styles. I narrowed down my search for these sty
 
 The two fonts provided a nice and subtle difference. Due to its default font-weight, 'Montserrat' would be fantastic to use for the logo and each heading on the website. 'Raleway', with its slim minimalist feel, would be great to use for the main content of the website.
 
+****
+
+
 ## Features
 
 ### Existing Features
 
-- __Logo__
+#### Logo
   
   -The logo is a simple font based logo to keep with a more minimalist and sleek design. The logo also doubles up as a navigational link, to allow the user to always return to the home page.
 
 ![Logo]('/../assests/readme-images/features-logo.png)
+ 
+ ****
 
 
-- __Navigation Bar__
+#### Navigation Bar
   
   - The navigation bar is featured on both pages of the website. The main page of the website is a single page website, which the navigation links will help the user    jump down to each specific section. 
   - The sections include, 'Home', 'About Us', 'Coaches and Contact Us', 'Prices', 'Training Times', and 'Sign-Up'. The 'Sign-Up' directs the user to a new page. The navigation bar retains the same position and style on both pages, allowing for good accessibility.
@@ -169,7 +186,9 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 ![Nav Bar](/assests/readme-images/features-navbar.png)
 ![Nav Bar Mobile](assests/readme-images/features-navbar-mobile.png)
 
-- __Hero Image__
+****
+
+#### Hero Image
 
   - The landing image is a photograph with a text overlay. This provides the user with instant information,  'what the site is about', 'age range', and 'location of the training sessions'. This allows the user instant clarification regarding the site.
   - This section provides a large football training related photo that is colourful and eye-catching. The image colours also maintain the colour theme of the website. The center piece of the image, shows a nice light blue, with tones of white being the secondary stand-out colour.
@@ -177,7 +196,10 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Hero Image](/assests/readme-images/features-hero.png)
 
-- __About Us__
+****
+
+
+#### About Us
 
   - This provides the user with quick facts about The English Football Club. It establishes the success the club already has had allowing a sense of ease for the user.
   - It shows how the club is diverse and inclusive, to help put parents minds at ease.
@@ -185,7 +207,10 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![About Us](/assests/readme-images/features-aboutus.png)
 
-- __Coaches & Contact Us__
+****
+
+
+#### Coaches & Contact Us
 
   - This is to provide users with a quick look at who the coaches are at The English Football Club. It provides a profile photo, mobile contact, and email address.
   - On tablets and above, there is extra information regarding the coaches. This follows the styling of the 'About Us' section. Quick, bite-sized facts establishing the coaches credentials. Only profile photos, mobile and email contact details are visible for mobile devices. This is to provide the most important information to the user if accessing on a mobile. Also, if a user needs to get in contact with a coach, the information is present without any distracting information.
@@ -194,16 +219,23 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 ![Coaches & Contact Us - Desktop](/assests/readme-images/features-coaches-and-contact-us.png)
 ![Coaches & Contact Us - Mobile](/assests/readme-images/features-coaches-and-contact-us-mobile.png)
 
--__Prices__
+****
 
-  - Lorem
-  - Lorem
+
+#### Prices
+
+  - This section was kept simple. It is the continuation of the design pattern, using block colours which alternates with imagery as the user scrolls down the website.  
+  - The attention is to draw the user directly to the price. That is why block colours were chosen upon. The prices are crystal clear and can be easily seen.
+  - The football icon is a nice break up of the text, whilst also reinforcing the football content.
   - For mobile devices they stack vertically.
 
 ![Prices](/assests/readme-images/features-prices.png)
 
+****
 
--__Training Times__
+
+
+#### Training Times
 
   - Lorem
   - Lorem
@@ -211,7 +243,10 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Training Times](/assests/readme-images/features-training-times.png)
 
--__Footer__
+****
+
+
+#### Footer
 
   - Lorem
   - Lorem
@@ -219,7 +254,10 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Footer](/assests/readme-images/features-footer.png)
 
--__Go To Top Button__
+****
+
+
+#### Go To Top Button
 
   - Lorem
   - Lorem
@@ -227,7 +265,10 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Go To Top Button](/assests/readme-images/features-go-to-top-btn.png)
 
--__Sign Up Page__
+****
+
+
+#### Sign Up Page
 
   - Lorem
   - Lorem
@@ -236,8 +277,9 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 ![Sign Up Page](/assests/readme-images/features-signup-form.png)
 ![Sign Up Page - Mobile](/assests/readme-images/features-signup-form-mobile.png)
 
+****
 
--__Submitted Form__
+#### Submitted Form
 
   - Lorem
   - Lorem
@@ -245,7 +287,9 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Submitted Form](/assests/readme-images/features-formsubmit.png)
 
--__Error 404__
+****
+
+#### Error 404
 
   - Lorem
   - Lorem
@@ -253,15 +297,17 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 ![Error 404](/assests/readme-images/features-404.png)
 
-
+****
 
 
 
 ### Features Left To Implement
 
-  - Lorem
-  - Lorem
-  - Lorem
+  Gallery of future tournaments/fun days. As the tournaments, and fun days, have not happened yet, they cannot be added onto the website. Once they have been, the gallery will use the Masonry design method.
+  
+
+****
+
 
 ## Testing
 
@@ -423,6 +469,8 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
     - Divs within the Fieldset and Legend
     - 'Di' being typed instead of Divs. 
 
+****
+
 
 ## Deployment
 
@@ -435,6 +483,9 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
 
 - The link:
   - [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
+
+****
+
 
 ## Credits
   
