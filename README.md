@@ -543,12 +543,12 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
   - My images were from two stock image websites: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
 
 
-Hero Image [Pixabay](https://www.pexels.com/@pixabay)
-Coaches Background Image [Ralph (Ravi) Kayden](https://unsplash.com/@ralphkayden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Coach Richards Image [Midas Hofstra](https://unsplash.com/@midashofstra)
-Coach Edwards Image [Ben Den Engelsen](https://unsplash.com/@benjeeeman)
-Training Times Image [Mike](https://www.pexels.com/@mike-468229)
-Sign-Up Background Image [Kampus](https://www.pexels.com/@kampus)
+ - Hero Image [Pixabay](https://www.pexels.com/@pixabay)
+ - Coaches Background Image [Ralph (Ravi) Kayden](https://unsplash.com/@ralphkayden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- Coach Richards Image [Midas Hofstra](https://unsplash.com/@midashofstra)
+- Coach Edwards Image [Ben Den Engelsen](https://unsplash.com/@benjeeeman)
+- Training Times Image [Mike](https://www.pexels.com/@mike-468229)
+- Sign-Up Background Image [Kampus](https://www.pexels.com/@kampus)
   
 ***
 
