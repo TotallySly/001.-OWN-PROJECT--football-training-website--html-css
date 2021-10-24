@@ -4,7 +4,7 @@ The English Football Club's website is to promote their training sessions for ch
 
 The site is targeted at parents of children who are looking for a sporting activity that will get their children outside and running and participating within teams. The site will display key information about the training sessions, prices, the coaches, and the location of said sessions. The site will also give parents the opportunity to sign their child up to participate.
 
-Link to the live [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/){:target="_blank"}
+Link to the live [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
 
 ![Responsive Mockup](assets/readme-images/responsive-mockup.png)
 
