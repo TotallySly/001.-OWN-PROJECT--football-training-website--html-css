@@ -6,6 +6,7 @@
 /* font-family: 'Montserrat', sans-serif; --- Headings
 font-family: 'Raleway', sans-serif; -- Content */
 
+/* Generic Styling */
 
 html {
   font-size: 62.5%;
@@ -56,12 +57,16 @@ address {
   font-style: normal;
 }
 
+/* Logo */
+
 .logo {
   background-color: #1b264f;
   font-size: 4rem;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
 }
+
+/* Navigation */
 
 .nav-container {
   background-color: #576ca8;
@@ -73,7 +78,6 @@ address {
   justify-content: space-evenly;
 }
 
-
 .hover a:hover {
   background-color: rgba(27, 39, 80, 0.75);
 }
@@ -82,10 +86,11 @@ address {
   color: #f5f3f5;
 }
 
+/* Hero Text/Image */
+
 .hero-text h2 {
   background-color: #274690;
 }
-
 
 .hero-text h3 {
   background-color: #274690;
@@ -95,7 +100,6 @@ address {
   text-align: center;
 }
 
-
 .hero-image {
   height: 600px;
   background-image: url('../images/hero-image.png');
@@ -103,6 +107,8 @@ address {
   background-position: center center;
   background-size: cover;
 }
+
+/* About Us */
 
 #about-us {
   background-color: #1b264f;
@@ -119,6 +125,7 @@ address {
   text-transform: capitalize;
 }
 
+/* Coaches and Contact Us */
 
 .coach-container {
   background-image: url('../images/coach-background.png');
@@ -152,6 +159,8 @@ address {
   text-transform: uppercase;
 }
 
+/* Prices */
+
 .price-container {
   background-color: #1b264f;
   color: #f5f3f5;
@@ -161,6 +170,8 @@ address {
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+/* Training Times and Location */
 
 .times-container {
   background: url('../images/training-times-background.png');
@@ -181,6 +192,8 @@ address {
     width: 100%;
   }
 
+  /* Footer */
+
 .footer-container {
   background-color: #576ca8;
   color: #f5f3f5;  
@@ -190,6 +203,9 @@ address {
   display: flex;
   justify-content: space-evenly;
 }
+
+/* Go To Top Button */
+/* This code was taken from a YouTube video https://www.youtube.com/watch?v=Vef9bxTilCU&ab_channel=DarkCode */
 
 .gotopbtn {
   position: fixed;
@@ -205,6 +221,8 @@ address {
   height: 50px; 
 }
 
+/* Sign-Up Form Background */
+
 .form-background {
   position: relative;
   background-image: url('../images/signup-background.png');
@@ -213,6 +231,8 @@ address {
   background-position: center center;
   height: 100vh;
 }
+
+/* Sign-Up Form */
 
 .signup-container {
   background-color: rgba(39, 71, 144, 0.9);
@@ -266,7 +286,6 @@ legend {
   float: right;
 }
 
-
 .form-input {
   margin-top: 0.5em;
   margin-left: 3em;
@@ -294,6 +313,8 @@ legend {
   padding: 0.2em 0.4em 0.2em 0.4em;
 }
 
+/* Form Submit & Error 404 */
+
 .simple-background {
   background-color: #1b264f;
   color: #f5f3f5;
@@ -305,6 +326,8 @@ legend {
   padding-top: 7em;
 }
 
+/* Error 404 */
+
 h3 a {
   color: #f5f3f5;
   text-decoration: underline;
@@ -312,6 +335,8 @@ h3 a {
 }
 
 /* Media Queries */
+
+/* Max 425px */
 
     @media only screen and (max-width: 425px) {
       .nav-container {
@@ -340,6 +365,7 @@ h3 a {
         }
       }
 
+      /* Max 664px */
 
     @media only screen and (max-width: 664px) {
       .nav-container a {
@@ -393,6 +419,8 @@ h3 a {
       } 
     }
 
+    /* Max 768px */
+
     @media screen and (max-width: 768px) {
       .hero-image {
         height: 300px;
@@ -424,17 +452,23 @@ h3 a {
         } 
       }
 
+      /* Min 768px - 1024px */
+
     @media screen and (min-width: 768px) and (max-width: 1024px) {
       .signup-container {
         left: 10em;
       }
     }
 
+    /* Max 1024px */
+
     @media screen and (max-width: 1024px) {
       .hero-image {
         height: 400px;
         }       
       }
+
+      /* Min 1024px */
 
     @media screen and (min-width: 1024px) {
       .signup-container {
