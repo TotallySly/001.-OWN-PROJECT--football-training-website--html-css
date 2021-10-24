@@ -4,7 +4,7 @@ The English Football Club's website is to promote their training sessions for ch
 
 The site is targeted at parents of children who are looking for a sporting activity that will get their children outside and running and participating within teams. The site will display key information about the training sessions, prices, the coaches, and the location of said sessions. The site will also give parents the opportunity to sign their child up to participate.
 
-Link to the live [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/)
+Link to the live [The English Football Club - Website](https://totallysly.github.io/portfolio-project-one/){:target="_blank"}
 
 ![Responsive Mockup](assets/readme-images/responsive-mockup.png)
 
@@ -71,7 +71,7 @@ With this in mind, it was clear that the website required colourful imagery, bol
 ### User Stories
 
 - As a user of the website, I want to be able to easily navigate around the website.
-- As a user of the website, I want to be able to sign up my child(ren) for the training sessions.
+- As a user of the website, I want to be able to sign up my child for the training sessions.
 - As a user of the website, I want to find out about the coaches running the website.
 - As a user of the website, I want to know the prices of the training sessions.
 - As a user of the website, I want to know where the training sessions are located.
@@ -172,7 +172,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Logo
   
-  -The logo is a simple font based logo to keep with a more minimalist and sleek design. The logo also doubles up as a navigational link, to allow the user to always return to the home page.
+  - The logo is a simple font based logo to keep with a more minimalist and sleek design. The logo also doubles up as a navigational link, to allow the user to always return to the home page.
 
 ![Logo](assets/readme-images/features-logo.png)
  
@@ -191,8 +191,8 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Hero Image
 
- - The landing image is off a child and young adult relaxing on a sports field. The image itself is blurry, which gives a great effect and the image is really striking when you first look at the website.
- - The image is great highlights the relaxed atmosphere the club is taking to their football training sessions. It also has bright vivid colours that compliment the blue colour scheme.
+ - The landing image is of a child and young adult (relaxing on a sports field. The image itself is blurry, which gives a great effect and the image is really striking when you first look at the website. Also, it helps with my ethical stance of not using clear imagery of children.
+ - The image has great highlights. The relaxed atmosphere the club is taking to their football training sessions. It also has bright vivid colours that compliment the blue colour scheme.
  - The main heading of the hero image is a banner going across the top. This is to tell the user what this website is about instantly. It also tells the ages and the location. Straight away the user knows what the website is about.
 
 
@@ -239,7 +239,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
   - This section is a continuation of the block colour and alternating imagery design pattern. 
   - This image used a background image, which is a birdseye view of a football match. I specifically wanted an image like this to represent this section. It is a fantastic backdrop for what the children will be playing on during the training sessions.
   - Like the 'Prices' section, the information is to the point. Dates, location, time and age group are clearly seen.
-  - There is also a Google Map pinpoint the location of the training session for the user to plan how to get there.
+  - There is also a Google Map embedded, pinpointing the location of the training session for the user to plan how to get there.
   - Underneath there is a postal address with the the strong blue background. This was used to really show the information at hand, even if the user is glancing quickly. This was chosen to help the user find the address should they be travelling to the location for the first time. The address can be seen instantly, as we imagine stopping to input the information into a sat nav whilst driving can be a stressful situation!
   - For Mobile devices, the boxes stack vertically.
 
@@ -293,7 +293,7 @@ The two fonts provided a nice and subtle difference. Due to its default font-wei
 
 #### Error 404
 
-  - I do not expect the user to stay on this page for long, nor should they! The page contains a link at the bottom with 'HERE!'. THe letters are uppercase and underlined to exaggerate where the user has to click.
+  - I do not expect the user to stay on this page for long, nor should they! The page contains a link at the bottom with 'HERE!'. The letters are uppercase and underlined to exaggerate where the user has to click.
   - Failing that, the navigation bar remains at the top of the page, allowing the user to click on any of the established links to return back to the content pages of the website.
 
 
@@ -474,22 +474,15 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
 
 - Bug 1 - Hero Image
   I had issues with my original hero image. Due to context of the image, and the pixel size, it created an off-balance look. It overcome this, I opted for a different hero image. Upon speaking with the test users and owners, they agreed that the new hero image was better for the overall story of the website.
-  
-  <br>
 
 - Bug 2 - Coaches & Contact Us
   I had issues with the content for each coach. I solved this by using Flexbox. I also opted to remove the coaches' facts on mobile devices. This is so contact information is clearly seen by the user. 
-  
-  <br>
+
  - Bug 2 - Sign-Up Form
   Position: Relative' and 'Position: Absolute'. For Desktop and Tablets there was no issue. However, on mobile devices, the sign-up form was off the page, or loading over the footer. I solved this issue by removing the background image and using a background colour instead. This also help to dramatically increase the performance of on mobile devices. I also made a smaller font-size, and managed to move the Position: Absolute toward the left side.
 
-<br>
-
  - Bug 3 - Navigation Bar
-  I had issues regarding the Navigation Bar for Mobile Devices. I used Flexbox in order to create the nav bar, however, on a Mobile device it looked too 'busy' with messy ordering. I opted to change the Nav bar to a column on Mobile devices. This was a better representation. Using two different iPhones, I was able to use the links without any difficulty. This could be a future bug, as I note that it was the Nav bar that hindered my 100% scores to mid 90s on Lighthouse. Going forward, I would like to implement a 'Hamburger' Nav bar for Mobile devices. Upon research, JavaScript is required for this. After immersing myself into JavaScript, this bug will be corrected, and as such achieve 100% on Lighthouse.
-
-  <br>
+  I had issues regarding the navigation bar for mobile devices. I used Flexbox in order to create the nav bar, however, on a mobile device it looked too 'busy' with messy ordering. I opted to change the nav bar to a column on mobile devices. This was a better representation. Using two different iPhones, I was able to use the links without any difficulty. This could be a future bug, as I note that it was the Nav bar that hindered my 100% scores to mid 90s on Lighthouse. Going forward, I would like to implement a 'Hamburger' Nav bar for Mobile devices. Upon research, JavaScript is required for this. After immersing myself into JavaScript, this bug will be corrected, and as such achieve 100% on Lighthouse.
 
 - Bug 4 - W3Schools Validator
   After running my code through the validator. It returned several 'typos' within the code itself. This included:
@@ -525,7 +518,7 @@ I had a lot of issues with the Sign-Up Form. It took me a long time to come to a
   -  [Which CSS Units to Use?](https://gist.github.com/basham/2175a16ab7c60ce8e001)
   -  [Responsive Google Maps](https://blog.duda.co/responsive-google-maps-for-your-website)
   -  [Media Queries](https://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile)
-    - In addition several YouTube videos:
+  - In addition several YouTube videos:
       - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/playlists) (Flexbox, Absolute/Relative Position).
       - [Kevin Powell](https://www.youtube.com/kepowob). (Flexbox, Absolute/Relative Position)
       - [Minim](https://www.youtube.com/watch?v=VX_Dghv65Vk&list=PL4cTxE4s2XIYJL6uPQUwMt25M70gPl-O6&index=14&ab_channel=Minim). (Sign-Up form).
